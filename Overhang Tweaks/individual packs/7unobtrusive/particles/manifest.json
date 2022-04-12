@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Overhang Tweaks Pack v0.1.0",
+        "name": "Unontrusive Particles",
+        "uuid": "aefa94c5-bdc1-4f37-bebf-c212ce247b76",
+        "version": [0, 1, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Overhang Tweaks Pack v0.1.0",
+            "type": "resources",
+            "uuid": "45a4895f-750c-452c-84fb-7525a2d105f0",
+            "version": [0, 1, 0]
+        }
+    ],
+    "subpacks": [
+   ]
+}

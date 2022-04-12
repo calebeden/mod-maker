@@ -1,0 +1,16 @@
+{
+"tile.piston.in": {
+  "category": "block",
+  "sounds": [
+    {"name": "sounds/tile/piston/in",
+    "volume": 0.25}
+  ]
+},
+"tile.piston.out": {
+  "category": "block",
+  "sounds": [
+    {"name": "sounds/tile/piston/out",
+    "volume": 0.25}
+  ]
+}
+}

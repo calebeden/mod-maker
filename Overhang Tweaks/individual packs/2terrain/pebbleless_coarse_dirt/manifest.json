@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Overhang Tweaks Pack v0.1.0",
+        "name": "Pebbleless Coarse Dirt",
+        "uuid": "3f7d022b-446b-43be-b371-196a760009c7",
+        "version": [0, 1, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Overhang Tweaks Pack v0.1.0",
+            "type": "resources",
+            "uuid": "cfb49f8c-30bc-4954-84fa-c0652f605328",
+            "version": [0, 1, 0]
+        }
+    ],
+    "subpacks": [
+   ]
+}

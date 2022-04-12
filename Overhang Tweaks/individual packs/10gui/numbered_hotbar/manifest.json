@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Overhang Tweaks Pack v0.1.0",
+        "name": "Numbered Hotbar",
+        "uuid": "18ad3ef0-ceea-431b-bb72-0eab5e33a5db",
+        "version": [0, 1, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Overhang Tweaks Pack v0.1.0",
+            "type": "resources",
+            "uuid": "9da6719b-e999-4df4-a5b7-619f8c92a483",
+            "version": [0, 1, 0]
+        }
+    ],
+    "subpacks": [
+   ]
+}

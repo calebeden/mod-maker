@@ -1,0 +1,23 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Pack By §6FoxyNoTail§r | Adjustable Armor Stands | @foxynotail | Visit §9www.foxynotail.com§r for more packs and add-ons | © 2020, FoxyNoTail, Customized by §2MrCraftable",
+        "name": "§6Foxy's§r §l§bArmor Stands+§r v2.0.1 [B]",
+        "uuid": "fc4b58fb-132b-4d7d-81c9-af13b81ab0f5",
+        "version": [2, 0, 2],
+		"min_engine_version": [1, 16, 100]
+    },
+    "modules": [
+        {
+            "type": "data",
+            "uuid": "35e310a2-6237-4ec0-b0eb-bf9676bc57b3",
+            "version": [2, 0, 2]
+        }
+    ],
+	"dependencies": [
+	  {
+		"uuid": "34b86cb8-caec-45d6-903d-1e3172221432",
+		"version": [2, 0, 2]
+	  }
+	]
+}

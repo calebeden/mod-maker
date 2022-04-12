@@ -1,0 +1,14 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "hs:helmet_stand"
+    },
+    
+    "components": {
+	"minecraft:entity_placer": {"entity": "hs:helmet_stand"},
+	"minecraft:icon": {"texture": "hs:helmet_stand"}
+      }
+    }
+  }
+}

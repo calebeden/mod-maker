@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Overhang Tweaks Pack v0.1.0",
+        "name": "Plus Dot Crosshair",
+        "uuid": "2b656f75-5d87-448c-8b3c-27cc7a979f68",
+        "version": [0, 1, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Overhang Tweaks Pack v0.1.0",
+            "type": "resources",
+            "uuid": "8a5236af-b2fb-437b-97a0-a4eafa8c9e1a",
+            "version": [0, 1, 0]
+        }
+    ],
+    "subpacks": [
+   ]
+}

@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Overhang Tweaks Pack v0.1.0",
+        "name": "Lower Warped Nylium",
+        "uuid": "2827fc1f-197a-4d89-836a-fa775641fcba",
+        "version": [0, 1, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Overhang Tweaks Pack v0.1.0",
+            "type": "resources",
+            "uuid": "beae1dec-231d-4803-b258-fbbed5958162",
+            "version": [0, 1, 0]
+        }
+    ],
+    "subpacks": [
+   ]
+}

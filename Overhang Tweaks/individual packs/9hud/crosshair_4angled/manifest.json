@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Overhang Tweaks Pack v0.1.0",
+        "name": "4 Angled Crosshair",
+        "uuid": "a19bdc0c-ed3c-4aa5-9f36-7f0745cba5c1",
+        "version": [0, 1, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Overhang Tweaks Pack v0.1.0",
+            "type": "resources",
+            "uuid": "cb5b9873-f63a-4427-a81d-018786d03312",
+            "version": [0, 1, 0]
+        }
+    ],
+    "subpacks": [
+   ]
+}

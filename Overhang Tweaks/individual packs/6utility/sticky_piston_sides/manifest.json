@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Overhang Tweaks Pack v0.1.0",
+        "name": "Sticky Piston Sides",
+        "uuid": "74a94ed8-5124-4c36-ad20-6836b635d621",
+        "version": [0, 1, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Overhang Tweaks Pack v0.1.0",
+            "type": "resources",
+            "uuid": "43ef2123-596b-47c3-94f7-b3cd86c2340b",
+            "version": [0, 1, 0]
+        }
+    ],
+    "subpacks": [
+   ]
+}

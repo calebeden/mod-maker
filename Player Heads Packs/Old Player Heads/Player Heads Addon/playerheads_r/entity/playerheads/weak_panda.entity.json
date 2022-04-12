@@ -1,0 +1,1 @@
+{"format_version": "1.10.0", "minecraft:client_entity": {"description": {"materials": {"default": "skeleton"}, "geometry": {"default": "geometry.playerhead"}, "render_controllers": ["controller.render.skeleton"], "spawn_egg": {"texture": "spawn_weak_panda"}, "identifier": "playerhead:weak_panda", "textures": {"default": "textures/entity/playerheads/weak_panda"}}}}

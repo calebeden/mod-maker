@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Overhang Tweaks Pack v0.1.0",
+        "name": "Beeralis",
+        "uuid": "5e5e4135-ca88-4022-a3dd-89facca70be3",
+        "version": [0, 1, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Overhang Tweaks Pack v0.1.0",
+            "type": "resources",
+            "uuid": "924f1d98-c835-48e9-bd4e-05a497cce596",
+            "version": [0, 1, 0]
+        }
+    ],
+    "subpacks": [
+   ]
+}

@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Overhang Tweaks Pack v0.1.0",
+        "name": "Honey Slime",
+        "uuid": "9b608f21-22a6-4b5c-9a3a-07e56c0b0abe",
+        "version": [0, 1, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Overhang Tweaks Pack v0.1.0",
+            "type": "resources",
+            "uuid": "d8742d0e-2b0d-4154-916b-8d33545797af",
+            "version": [0, 1, 0]
+        }
+    ],
+    "subpacks": [
+   ]
+}

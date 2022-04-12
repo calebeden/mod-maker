@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Overhang Tweaks Pack v0.1.0",
+        "name": "Unobtrusive Snow",
+        "uuid": "5d757f6b-a468-4ff6-8a53-48b55cbe10dd",
+        "version": [0, 1, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Overhang Tweaks Pack v0.1.0",
+            "type": "resources",
+            "uuid": "0cb7da47-1f15-4f70-91e0-566b3296f7f8",
+            "version": [0, 1, 0]
+        }
+    ],
+    "subpacks": [
+   ]
+}

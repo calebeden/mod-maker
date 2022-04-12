@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Overhang Tweaks Pack v0.1.0",
+        "name": "Green Jungle Wood",
+        "uuid": "00d50267-ffb3-4610-882d-96a4fd052750",
+        "version": [0, 1, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Overhang Tweaks Pack v0.1.0",
+            "type": "resources",
+            "uuid": "bef398ef-8538-48d5-a63c-d0d99f020d7f",
+            "version": [0, 1, 0]
+        }
+    ],
+    "subpacks": [
+   ]
+}

@@ -1,0 +1,22 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "playerhead:white_trader_llama",
+      "materials": {
+        "default": "spider"
+      },
+      "textures": {
+        "default": "textures/entity/playerheads/white_trader_llama"
+      },
+      "geometry": {
+        "default": "geometry.playerhead"
+      },
+      "render_controllers": [ "controller.render.spider" ],
+      "spawn_egg": {
+        "texture": "playerhead_spawn",
+        "texture_index": 239
+      }
+    }
+  }
+}

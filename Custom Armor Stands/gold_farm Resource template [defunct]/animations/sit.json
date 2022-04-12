@@ -1,0 +1,19 @@
+{
+	"format_version" : "1.8.0",
+	"animations" : {
+		"animation.fnt.sitting" : {
+			"loop" : true,
+			"bones" : {
+				"leftleg": {
+					"rotation": [ -88.0, -10.0, 10.0 ]
+				},
+				"rightleg": {
+					"rotation": [ -88.0, 10.0, -10.0 ]
+				},
+				"waist": {
+					"position": [ 0.0, -10.0, 0.0 ]				
+				}
+			}
+		}
+	}
+}

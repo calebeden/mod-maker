@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Overhang Tweaks Pack v0.1.0",
+        "name": "Old Planks",
+        "uuid": "5a92e2a9-d7d3-4c4f-b67f-409ffced60a9",
+        "version": [0, 1, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Overhang Tweaks Pack v0.1.0",
+            "type": "resources",
+            "uuid": "698d33ef-49ee-422b-9975-0c963b79fb93",
+            "version": [0, 1, 0]
+        }
+    ],
+    "subpacks": [
+   ]
+}

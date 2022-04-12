@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Overhang Tweaks Pack v0.1.0",
+        "name": "Ore Borders",
+        "uuid": "d42145a2-bb20-4384-a086-4ee4d6540533",
+        "version": [0, 1, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Overhang Tweaks Pack v0.1.0",
+            "type": "resources",
+            "uuid": "a02a2908-c664-4e41-bf78-98833c2b538d",
+            "version": [0, 1, 0]
+        }
+    ],
+    "subpacks": [
+   ]
+}

@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Overhang Tweaks Pack v0.1.0",
+        "name": "Light Blue Slime",
+        "uuid": "a6c99836-4f99-4aa3-a1ac-6cf3a153a06c",
+        "version": [0, 1, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Overhang Tweaks Pack v0.1.0",
+            "type": "resources",
+            "uuid": "223c7155-b51e-47df-ba52-ac7635a4073f",
+            "version": [0, 1, 0]
+        }
+    ],
+    "subpacks": [
+   ]
+}

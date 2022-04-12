@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Overhang Tweaks Pack v0.1.0",
+        "name": "Lakeside Sunset Panorama",
+        "uuid": "2aa57f2b-f8eb-4ab9-b8f6-49eafd47afe9",
+        "version": [0, 1, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Overhang Tweaks Pack v0.1.0",
+            "type": "resources",
+            "uuid": "8259b09a-9f31-46d1-a6f5-28be3aa049d6",
+            "version": [0, 1, 0]
+        }
+    ],
+    "subpacks": [
+   ]
+}

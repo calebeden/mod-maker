@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Overhang Tweaks Pack v0.1.0",
+        "name": "Lower Crimson Nylium",
+        "uuid": "c3371dc2-55dd-4bc4-bd4d-8c58bcb0481d",
+        "version": [0, 1, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Overhang Tweaks Pack v0.1.0",
+            "type": "resources",
+            "uuid": "589a1dba-4f98-4493-99a2-f957b36c9a8a",
+            "version": [0, 1, 0]
+        }
+    ],
+    "subpacks": [
+   ]
+}

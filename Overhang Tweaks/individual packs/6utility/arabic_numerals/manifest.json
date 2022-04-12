@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Overhang Tweaks Pack v0.1.0",
+        "name": "Arabic Numerals",
+        "uuid": "63ba27e1-88de-403d-9777-c09b2e638fb5",
+        "version": [0, 1, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Overhang Tweaks Pack v0.1.0",
+            "type": "resources",
+            "uuid": "3bff314b-f29d-47e1-b4f4-79afcd4973ed",
+            "version": [0, 1, 0]
+        }
+    ],
+    "subpacks": [
+   ]
+}

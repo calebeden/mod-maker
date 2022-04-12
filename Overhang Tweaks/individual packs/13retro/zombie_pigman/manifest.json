@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Overhang Tweaks Pack v0.1.0",
+        "name": "Zombie Pigman",
+        "uuid": "df6180f8-3806-4232-8696-8fd1d8743c24",
+        "version": [0, 1, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Overhang Tweaks Pack v0.1.0",
+            "type": "resources",
+            "uuid": "a833c6fd-64ef-4808-ac18-b872e14c602b",
+            "version": [0, 1, 0]
+        }
+    ],
+    "subpacks": [
+   ]
+}

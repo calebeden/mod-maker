@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Overhang Tweaks Pack v0.1.0",
+        "name": "Unbundled Hay Bales",
+        "uuid": "4cf257a3-f677-4881-bfc4-c60395cc9f9c",
+        "version": [0, 1, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Overhang Tweaks Pack v0.1.0",
+            "type": "resources",
+            "uuid": "0bf4e7e5-2fab-440f-9535-7dab9ccf2a6e",
+            "version": [0, 1, 0]
+        }
+    ],
+    "subpacks": [
+   ]
+}

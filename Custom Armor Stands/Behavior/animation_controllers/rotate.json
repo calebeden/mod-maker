@@ -1,0 +1,40 @@
+{
+	"format_version" : "1.10.0",
+	"animation_controllers" : {
+		"controller.animation.fnt.rotate" : {
+			"initial_state" : "inactive",
+			"states" : {
+				"inactive" : {
+					"transitions" : [
+						{
+							"clockwise" : "query.is_stackable && query.is_baby"
+						},
+						{
+							"anti_clockwise" : "query.is_stackable && !query.is_baby"
+						}
+					]
+				},
+				"clockwise" : {					
+					"transitions" : [
+						{
+							"inactive" : "!query.is_stackable"
+						}
+					],
+					"on_entry": [
+						"/tp @s ~ ~ ~ ~10"
+					]	
+				},
+				"anti_clockwise" : {					
+					"transitions" : [
+						{
+							"inactive" : "!query.is_stackable"
+						}
+					],
+					"on_entry": [
+						"/tp @s ~ ~ ~ ~-10"
+					]	
+				}
+			}
+		}
+	}
+}

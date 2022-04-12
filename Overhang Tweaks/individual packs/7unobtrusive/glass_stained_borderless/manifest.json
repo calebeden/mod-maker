@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Overhang Tweaks Pack v0.1.0",
+        "name": "Borderless Stained Glass",
+        "uuid": "27ffa723-9159-4f03-ae83-5b88c79fa391",
+        "version": [0, 1, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Overhang Tweaks Pack v0.1.0",
+            "type": "resources",
+            "uuid": "3dedf68c-5f7e-4e97-ac2d-8d3cb4e2cef0",
+            "version": [0, 1, 0]
+        }
+    ],
+    "subpacks": [
+   ]
+}

@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Overhang Tweaks Pack v0.1.0",
+        "name": "Colorful Enchantment Table Particles",
+        "uuid": "410c69bc-f278-41c4-8592-723d144d41c1",
+        "version": [0, 1, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Overhang Tweaks Pack v0.1.0",
+            "type": "resources",
+            "uuid": "c9d5da3b-f6e0-4706-be92-4625df55c015",
+            "version": [0, 1, 0]
+        }
+    ],
+    "subpacks": [
+   ]
+}

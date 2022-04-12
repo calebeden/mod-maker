@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Overhang Tweaks Pack v0.1.0",
+        "name": "Alpha Foliage",
+        "uuid": "7fcc83a7-4e28-48dc-a28e-6f2821d5ae57",
+        "version": [0, 1, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Overhang Tweaks Pack v0.1.0",
+            "type": "resources",
+            "uuid": "5bb8d032-b371-478b-8bf8-4c7ab07814b1",
+            "version": [0, 1, 0]
+        }
+    ],
+    "subpacks": [
+   ]
+}

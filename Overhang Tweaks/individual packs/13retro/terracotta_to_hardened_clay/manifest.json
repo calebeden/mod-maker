@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Overhang Tweaks Pack v0.1.0",
+        "name": "Terracotta to Hardened Clay",
+        "uuid": "9c735cf6-cdc8-4f66-b630-37052099fc37",
+        "version": [0, 1, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Overhang Tweaks Pack v0.1.0",
+            "type": "resources",
+            "uuid": "5ad6bbf1-61bf-4162-abc0-4a3ce27cf4bf",
+            "version": [0, 1, 0]
+        }
+    ],
+    "subpacks": [
+   ]
+}

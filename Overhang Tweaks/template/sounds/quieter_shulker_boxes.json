@@ -1,0 +1,16 @@
+{
+"random.shulkerboxclosed": {
+  "category": "block",
+  "sounds": [
+    {"name":"sounds/block/shulker_box/close",
+    "volume": 0.5}
+  ]
+},
+"random.shulkerboxopen": {
+  "category": "block",
+  "sounds": [
+    {"name": "sounds/block/shulker_box/open",
+    "volume": 0.5}
+  ]
+}
+}

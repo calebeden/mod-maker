@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Overhang Tweaks Pack v0.1.0",
+        "name": "Oceanside Extreme Hills Panorama",
+        "uuid": "84100f91-cd46-4877-8023-0b3dfaaabc6b",
+        "version": [0, 1, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Overhang Tweaks Pack v0.1.0",
+            "type": "resources",
+            "uuid": "38a23b64-80d4-45de-a2d1-325d897663a8",
+            "version": [0, 1, 0]
+        }
+    ],
+    "subpacks": [
+   ]
+}

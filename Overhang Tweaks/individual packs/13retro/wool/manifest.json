@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Overhang Tweaks Pack v0.1.0",
+        "name": "Old Wool",
+        "uuid": "2bb342bb-7725-45db-98f5-52be3c519582",
+        "version": [0, 1, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Overhang Tweaks Pack v0.1.0",
+            "type": "resources",
+            "uuid": "20d0102f-94db-4bbb-a547-9a9c5f77f6aa",
+            "version": [0, 1, 0]
+        }
+    ],
+    "subpacks": [
+   ]
+}

@@ -1,0 +1,30 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Overhang Tweaks v 0.2.10",
+        "name": "Overhang Tweaks",
+        "uuid": "a4c3359b-afb0-497d-acda-c371a9d9b803",
+        "version": [0, 2, 10],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Overhang Tweaks v 0.2.10",
+            "type": "resources",
+            "uuid": "80da17cc-ab2c-4f69-aee1-394477f3d0a2",
+            "version": [0, 2, 10]
+        }
+    ],
+    "subpacks": [
+        {
+            "folder_name": "darkmode",
+            "name": "§l§7Dark UI §rTexture Pack by §lMottysc§r, Minecraft Bedrock version of Xisumavoid's Vanilla Tweaks.",
+            "memory_tier": 1
+        },
+	{
+            "folder_name": "lightmode",
+            "name": "Light Mode GUI (default Minecraft look)",
+            "memory_tier": 2
+        }
+   ]
+}

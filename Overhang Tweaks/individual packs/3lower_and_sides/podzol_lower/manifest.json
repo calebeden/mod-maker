@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Overhang Tweaks Pack v0.1.0",
+        "name": "Lower Podzol",
+        "uuid": "36c58c35-1e00-43e6-8740-287ccd880c71",
+        "version": [0, 1, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Overhang Tweaks Pack v0.1.0",
+            "type": "resources",
+            "uuid": "c046ef01-89e1-4d6b-9fdd-1d2fb349c681",
+            "version": [0, 1, 0]
+        }
+    ],
+    "subpacks": [
+   ]
+}

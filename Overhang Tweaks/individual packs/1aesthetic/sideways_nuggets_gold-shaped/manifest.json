@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Overhang Tweaks Pack v0.1.0",
+        "name": "Same Nugget Shapes",
+        "uuid": "e4a5fd12-8a9b-48e4-8dd9-4f4b2bb281a6",
+        "version": [0, 1, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Overhang Tweaks Pack v0.1.0",
+            "type": "resources",
+            "uuid": "9756a488-a8d3-4745-a527-c22d850e88a0,
+            "version": [0, 1, 0]
+        }
+    ],
+    "subpacks": [
+   ]
+}

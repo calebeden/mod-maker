@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Overhang Tweaks Pack v0.1.0",
+        "name": "Magenta Slime",
+        "uuid": "bfcfc10d-3eb6-45fd-bd0a-9d023e20506b",
+        "version": [0, 1, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Overhang Tweaks Pack v0.1.0",
+            "type": "resources",
+            "uuid": "aaf51c67-1dee-4d07-8d2b-1f5e77126b70",
+            "version": [0, 1, 0]
+        }
+    ],
+    "subpacks": [
+   ]
+}

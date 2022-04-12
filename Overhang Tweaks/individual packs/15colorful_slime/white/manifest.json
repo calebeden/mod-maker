@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Overhang Tweaks Pack v0.1.0",
+        "name": "White Slime",
+        "uuid": "11dc494a-711d-459c-9213-3fa2bcc04862",
+        "version": [0, 1, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Overhang Tweaks Pack v0.1.0",
+            "type": "resources",
+            "uuid": "fc5c2b88-8122-47b0-9d0f-8036c2a06697",
+            "version": [0, 1, 0]
+        }
+    ],
+    "subpacks": [
+   ]
+}

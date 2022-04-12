@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Overhang Tweaks Pack v0.1.0",
+        "name": "Less Purple Purpur",
+        "uuid": "f600f08c-af2f-4275-8809-773b60c0f05e",
+        "version": [0, 1, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Overhang Tweaks Pack v0.1.0",
+            "type": "resources",
+            "uuid": "826ba198-8694-4f6f-904a-697d24b5fb38",
+            "version": [0, 1, 0]
+        }
+    ],
+    "subpacks": [
+   ]
+}

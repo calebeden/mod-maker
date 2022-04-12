@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Overhang Tweaks Pack v0.1.0",
+        "name": "Xisuma Paintings",
+        "uuid": "85305d4a-4768-4146-809c-46caf5fce6b4",
+        "version": [0, 1, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Overhang Tweaks Pack v0.1.0",
+            "type": "resources",
+            "uuid": "a0e15a1a-5307-42d3-8ca1-f1d6f75f2481",
+            "version": [0, 1, 0]
+        }
+    ],
+    "subpacks": [
+   ]
+}

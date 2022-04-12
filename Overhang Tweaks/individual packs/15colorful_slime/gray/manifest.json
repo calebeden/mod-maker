@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Overhang Tweaks Pack v0.1.0",
+        "name": "Gray Slime",
+        "uuid": "3cc1555f-bbdd-4f86-b320-a8f141c4ae28",
+        "version": [0, 1, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Overhang Tweaks Pack v0.1.0",
+            "type": "resources",
+            "uuid": "5b2ddadf-7d27-4526-802d-ecac3a8c615b",
+            "version": [0, 1, 0]
+        }
+    ],
+    "subpacks": [
+   ]
+}

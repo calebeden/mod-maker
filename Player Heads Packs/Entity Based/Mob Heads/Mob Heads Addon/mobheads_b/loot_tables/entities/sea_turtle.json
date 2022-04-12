@@ -1,0 +1,32 @@
+{
+    "pools": [
+{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "loot_table",
+					"name": "loot_tables/entities/vanilla_loot/sea_turtle.json"
+				}
+			]
+		},
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "loot_table",
+					"name": "loot_tables/entities/playerheads/turtle.json"
+				}
+			],
+			"conditions": [
+                {
+                    "condition": "killed_by_player"
+                },
+                {
+                    "condition": "random_chance_with_looting",
+                    "chance": 0.1,
+                    "looting_multiplier": 0.01
+                }
+            ]
+		}
+    ]
+}

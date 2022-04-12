@@ -1,0 +1,5873 @@
+{
+  "tiers": [
+    {
+      "groups": [
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "max_uses": 3,
+              "wants": [
+                {
+                  "item": "minecraft:diamond",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:caleb"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 3,
+              "wants": [
+                {
+                  "item": "minecraft:diamond",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:reese"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 3,
+              "wants": [
+                {
+                  "item": "minecraft:diamond",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:greg"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 3,
+              "wants": [
+                {
+                  "item": "minecraft:diamond",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:chloe"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 3,
+              "wants": [
+                {
+                  "item": "minecraft:diamond",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:jeff"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 3,
+              "wants": [
+                {
+                  "item": "minecraft:diamond",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:aiden"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 3,
+              "wants": [
+                {
+                  "item": "minecraft:diamond",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:brody"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "num_to_select": 20,
+          "trades": [
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:log2:0",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:acacia_log"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:planks:4",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:acacia_wood_planks"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:ancient_debris",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:ancient_debris"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:stone:5",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:andesite"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:barrel",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:barrel"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:basalt",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:basalt"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:bee_nest",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:bee_nest"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:beehive",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:beehive"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:bell",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:bell"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:log:2",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:birch_log"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:planks:2",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:birch_wood_planks"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:concrete:15",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:black_concrete"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:blackstone",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:blackstone"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:blast_furnace",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:blast_furnace"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:coal_block",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:block_of_coal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:diamond_block",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:block_of_diamond"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:emerald_block",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:block_of_emerald"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:gold_block",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:block_of_gold"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:iron_block",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:block_of_iron"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:netherite_block",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:block_of_netherite"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:quartz_block",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:block_of_quartz"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:redstone_block",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:block_of_redstone"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:concrete:11",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:blue_concrete"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:blue_ice",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:blue_ice"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:bone_block",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:bone_block"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:bookshelf",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:bookshelf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:coral_block:1",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:brain_coral_block"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:brick_block",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:brick_block"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:concrete:12",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:brown_concrete"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:brown_mushroom_block",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "random_block_state",
+                      "block_state": "huge_mushroom_bits",
+                      "values": {
+                        "min": 14,
+                        "max": 14
+                      }
+                    }
+                  ]
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:brown_mushroom_block"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:coral_block:2",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:bubble_coral_block"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:cartography_table",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:cartography_table"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:carved_pumpkin",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:carved_pumpkin"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:cauldron",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:cauldron"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:chest",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:chest"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:chiseled_nether_bricks",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:chiseled_nether_bricks"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:chiseled_polished_blackstone",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:chiseled_polished_blackstone"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:quartz_block:1",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:chiseled_quartz_block"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:red_sandstone:1",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:chiseled_red_sandstone"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:sandstone:1",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:chiseled_sandstone"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:stonebrick:3",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:chiseled_stone_bricks"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:clay",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:clay_block"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:coal_ore",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:coal_ore"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:dirt:1",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:coarse_dirt"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:cobblestone",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:cobblestone"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:composter",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:composter"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:cracked_nether_bricks",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:cracked_nether_bricks"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:cracked_polished_blackstone_bricks",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:cracked_polished_blackstone_bricks"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:stonebrick:2",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:cracked_stone_bricks"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:crafting_table",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:crafting_table"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:crimson_nylium",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:crimson_nylium"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:crimson_planks",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:crimson_planks"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:crimson_stem",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:crimson_stem"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:crying_obsidian",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:crying_obsidian"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:red_sandstone:2",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:cut_red_sandstone"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:sandstone:2",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:cut_sandstone"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:concrete:9",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:cyan_concrete"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:log2:1",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:dark_oak_log"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:planks:5",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:dark_oak_wood_planks"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:prismarine:1",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:dark_prismarine"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:diamond_ore",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:diamond_ore"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:stone:3",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:diorite"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:dirt",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:dirt"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:dispenser",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:dispenser"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:dried_kelp_block",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:dried_kelp_block"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:dropper",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:dropper"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:emerald_ore",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:emerald_ore"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:enchanting_table",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:enchantment_table"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:end_bricks",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:end_stone_bricks"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:end_stone",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:end_stone"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:ender_chest",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:ender_chest"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:coral_block:3",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:fire_coral_block"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:fletching_table",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:fletching_table"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:furnace",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:furnace"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:gilded_blackstone",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:gilded_blackstone"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:glowstone",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:glowstone"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:gold_ore",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:gold_ore"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:stone:1",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:granite"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:grass",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:grass_block"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:gravel",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:gravel"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:concrete:7",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:gray_concrete"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:concrete:13",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:green_concrete"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:grindstone",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:grindstone"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:hay_block",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:hay_bale"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:honey_block",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:honey_block"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:honeycomb_block",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:honeycomb_block"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:coral_block:4",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:horn_coral_block"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:ice",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:ice"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:iron_ore",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:iron_ore"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:lit_pumpkin",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:jack_olantern"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:jukebox",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:jukebox"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:log:3",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:jungle_log"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:planks:3",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:jungle_wood_planks"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:lapis_block",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:lapis_lazuli_block"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:lapis_ore",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:lapis_lazuli_ore"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:lectern",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:lectern"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:concrete:3",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:light_blue_concrete"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:concrete:8",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:light_gray_concrete"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:concrete:5",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:lime_concrete"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:lodestone",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:lodestone"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:loom",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:loom"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:concrete:2",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:magenta_concrete"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:magma",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:magma_block"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:melon_block",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:melon"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:mossy_cobblestone",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:mossy_cobblestone"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:stonebrick:1",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:mossy_stone_bricks"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:brown_mushroom_block",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:mushroom_stem"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:mycelium",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:mycelium"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:nether_brick",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:nether_brick_block"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:nether_gold_ore",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:nether_gold_ore"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:quartz_ore",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:nether_quartz_ore"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:nether_wart_block",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:nether_wart_block"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:netherrack",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:netherrack"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:noteblock",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:note_block"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:log:0",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:oak_log"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:planks:0",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:oak_wood_planks"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:observer",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:observer"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:obsidian",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:obsidian"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:concrete:1",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:orange_concrete"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:packed_ice",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:packed_ice"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:concrete:6",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:pink_concrete"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:piston",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:piston"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:podzol",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:podzol"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:stone:6",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:polished_andesite"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:polished_basalt",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:polished_basalt"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:polished_blackstone_bricks",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:polished_blackstone_bricks"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:polished_blackstone",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:polished_blackstone"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:stone:4",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:polished_diorite"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:stone:2",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:polished_granite"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:prismarine:2",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:prismarine_bricks"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:prismarine:0",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:prismarine"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:pumpkin",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:pumpkin"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:concrete:10",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:purple_concrete"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:purpur_block:0",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:purpur_block"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:purpur_block:2",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:purpur_pillar"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:quartz_bricks",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:quartz_bricks"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:quartz_block:2",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:quartz_pillar"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:concrete:14",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:red_concrete"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:red_mushroom_block",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:red_mushroom_block"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:red_nether_brick",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:red_nether_bricks"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:sand:1",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:red_sand"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:red_sandstone:0",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:red_sandstone"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:redstone_lamp",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:redstone_lamp"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:redstone_ore",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:redstone_ore"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:respawn_anchor",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:respawn_anchor"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:sand:0",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:sand"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:sandstone:0",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:sandstone"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:sealantern",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:sea_lantern"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:shroomlight",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:shroomlight"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:undyed_shulker_box",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:shulker_box"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:slime",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:slime_block"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:smithing_table",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:smithing_table"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:smoker",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:smoker"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:quartz_block:3",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:smooth_quartz_block"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:red_sandstone:3",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:smooth_red_sandstone"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:sandstone:3",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:smooth_sandstone"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:smooth_stone",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:smooth_stone"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:snow",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:snow"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:soul_sand",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:soul_sand"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:soul_soil",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:soul_soil"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:sponge",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:sponge"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:log:1",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:spruce_log"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:planks:1",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:spruce_wood_planks"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:sticky_piston",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:sticky_piston"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:stonebrick",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:stone_bricks"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:stone",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:stone"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:stonecutter_block",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:stonecutter"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:target",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:target"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:hardened_clay",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:terracotta"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:tnt",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:tnt"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:coral_block:0",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:tube_coral_block"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:warped_nylium",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:warped_nylium"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:warped_planks",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:warped_planks"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:warped_stem",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:warped_stem"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:warped_wart_block",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:warped_wart_block"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:concrete:0",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:white_concrete"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                },
+                {
+                  "item": "minecraft:concrete:4",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 8,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:yellow_concrete"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "num_to_select": 5,
+          "trades": [
+            {
+              "max_uses": 3,
+              "wants": [
+                {
+                  "item": "minecraft:diamond",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft_spawn_egg",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:anchor_rope"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 3,
+              "wants": [
+                {
+                  "item": "minecraft:diamond",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft_spawn_egg",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:coconut_drink"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 3,
+              "wants": [
+                {
+                  "item": "minecraft:diamond",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft_spawn_egg",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:conduit"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 3,
+              "wants": [
+                {
+                  "item": "minecraft:diamond",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft_spawn_egg",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:legacy_stonecutter"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 3,
+              "wants": [
+                {
+                  "item": "minecraft:diamond",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft_spawn_egg",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:nether_reactor_core"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 3,
+              "wants": [
+                {
+                  "item": "minecraft:diamond",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft_spawn_egg",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:smiling_tiki_head"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 3,
+              "wants": [
+                {
+                  "item": "minecraft:diamond",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft_spawn_egg",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:zombie_pigman"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "num_to_select": 6,
+          "trades": [
+            {
+              "max_uses": 3,
+              "wants": [
+                {
+                  "item": "minecraft:diamond",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:apple"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 3,
+              "wants": [
+                {
+                  "item": "minecraft:diamond",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:bamboo"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 3,
+              "wants": [
+                {
+                  "item": "minecraft:diamond",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:barreol_of_apples"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 3,
+              "wants": [
+                {
+                  "item": "minecraft:diamond",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:beetroot"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 3,
+              "wants": [
+                {
+                  "item": "minecraft:diamond",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:berry_bush"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 3,
+              "wants": [
+                {
+                  "item": "minecraft:diamond",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:bunch_of_bananas"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 3,
+              "wants": [
+                {
+                  "item": "minecraft:diamond",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:cactus"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 3,
+              "wants": [
+                {
+                  "item": "minecraft:diamond",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:cantaloupe"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 3,
+              "wants": [
+                {
+                  "item": "minecraft:diamond",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:carrots"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 3,
+              "wants": [
+                {
+                  "item": "minecraft:diamond",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:chorus_fruit"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 3,
+              "wants": [
+                {
+                  "item": "minecraft:diamond",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:cocoa_bean"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 3,
+              "wants": [
+                {
+                  "item": "minecraft:diamond",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:coconut"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 3,
+              "wants": [
+                {
+                  "item": "minecraft:diamond",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:corn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 3,
+              "wants": [
+                {
+                  "item": "minecraft:diamond",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:fruit_basket"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 3,
+              "wants": [
+                {
+                  "item": "minecraft:diamond",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:green_apple"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 3,
+              "wants": [
+                {
+                  "item": "minecraft:diamond",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:green_grapes"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 3,
+              "wants": [
+                {
+                  "item": "minecraft:diamond",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:green_pepper"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 3,
+              "wants": [
+                {
+                  "item": "minecraft:diamond",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:honeydew"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 3,
+              "wants": [
+                {
+                  "item": "minecraft:diamond",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:lemon"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 3,
+              "wants": [
+                {
+                  "item": "minecraft:diamond",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:lettuce"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 3,
+              "wants": [
+                {
+                  "item": "minecraft:diamond",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:mango"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 3,
+              "wants": [
+                {
+                  "item": "minecraft:diamond",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:onion"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 3,
+              "wants": [
+                {
+                  "item": "minecraft:diamond",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:orange"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 3,
+              "wants": [
+                {
+                  "item": "minecraft:diamond",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:peach"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 3,
+              "wants": [
+                {
+                  "item": "minecraft:diamond",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:pear"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 3,
+              "wants": [
+                {
+                  "item": "minecraft:diamond",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:pineapple"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 3,
+              "wants": [
+                {
+                  "item": "minecraft:diamond",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:potato"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 3,
+              "wants": [
+                {
+                  "item": "minecraft:diamond",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:purple_grapes"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 3,
+              "wants": [
+                {
+                  "item": "minecraft:diamond",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:red_pepper"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 3,
+              "wants": [
+                {
+                  "item": "minecraft:diamond",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:sea_pickles"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 3,
+              "wants": [
+                {
+                  "item": "minecraft:diamond",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:sugarcane"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 3,
+              "wants": [
+                {
+                  "item": "minecraft:diamond",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:spawn_egg",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "set_actor_id",
+                      "id": "playerhead:yellow_pepper"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "num_to_select": 5,
+          "trades": [
+            {
+              "max_uses": 5,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 2
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:sea_pickle"
+                }
+              ]
+            },
+            {
+              "max_uses": 5,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 4
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:slime_ball"
+                }
+              ]
+            },
+            {
+              "max_uses": 5,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 2
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:glowstone"
+                }
+              ]
+            },
+            {
+              "max_uses": 5,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 5
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:nautilus_shell"
+                }
+              ]
+            },
+            {
+              "max_uses": 12,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:tallgrass:2"
+                }
+              ]
+            },
+            {
+              "max_uses": 8,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:reeds"
+                }
+              ]
+            },
+            {
+              "max_uses": 4,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:pumpkin"
+                }
+              ]
+            },
+            {
+              "max_uses": 12,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 3
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:kelp"
+                }
+              ]
+            },
+            {
+              "max_uses": 8,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 3
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:cactus"
+                }
+              ]
+            },
+            {
+              "max_uses": 12,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "choice": [
+                    {
+                      "item": "minecraft:yellow_flower"
+                    },
+                    {
+                      "item": "minecraft:red_flower",
+                      "functions": [
+                        {
+                          "function": "random_block_state",
+                          "block_state": "flower_type",
+                          "values": {
+                            "min": 0,
+                            "max": 10
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "item": "minecraft:double_plant:0"
+                    },
+                    {
+                      "item": "minecraft:double_plant:1"
+                    },
+                    {
+                      "item": "minecraft:double_plant:4"
+                    },
+                    {
+                      "item": "minecraft:double_plant:5"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 12,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "choice": [
+                    {
+                      "item": "minecraft:wheat_seeds"
+                    },
+                    {
+                      "item": "minecraft:pumpkin_seeds"
+                    },
+                    {
+                      "item": "minecraft:melon_seeds"
+                    },
+                    {
+                      "item": "minecraft:beetroot_seeds"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 8,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 5
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:sapling",
+                  "functions": [
+                    {
+                      "function": "random_block_state",
+                      "block_state": "sapling_type",
+                      "values": {
+                        "min": 0,
+                        "max": 5
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 12,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:dye",
+                  "quantity": 3,
+                  "functions": [
+                    {
+                      "function": "random_aux_value",
+                      "values": {
+                        "min": 0,
+                        "max": 15
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 8,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 3
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:coral_block",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "random_block_state",
+                      "block_state": "coral_color",
+                      "values": {
+                        "min": 0,
+                        "max": 4
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 12,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:vine"
+                }
+              ]
+            },
+            {
+              "max_uses": 12,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "choice": [
+                    {
+                      "item": "minecraft:brown_mushroom"
+                    },
+                    {
+                      "item": "minecraft:red_mushroom"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 5,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:waterlily",
+                  "quantity": 2
+                }
+              ]
+            },
+            {
+              "max_uses": 8,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:sand:0",
+                  "quantity": 8
+                }
+              ]
+            },
+            {
+              "max_uses": 6,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:sand:1",
+                  "quantity": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "max_uses": 4,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 5
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:bucket:4"
+                }
+              ]
+            },
+            {
+              "max_uses": 4,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 5
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:bucket:5"
+                }
+              ]
+            },
+            {
+              "max_uses": 6,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 3
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:packed_ice"
+                }
+              ]
+            },
+            {
+              "max_uses": 6,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 6
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:blue_ice"
+                }
+              ]
+            },
+            {
+              "max_uses": 8,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:gunpowder"
+                }
+              ]
+            },
+            {
+              "max_uses": 6,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 3
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:podzol",
+                  "quantity": 3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

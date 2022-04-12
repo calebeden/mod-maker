@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Overhang Tweaks Pack v0.1.0",
+        "name": "Quieter Fire",
+        "uuid": "d504ae3c-34da-426d-b233-7742dade1695",
+        "version": [0, 1, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Overhang Tweaks Pack v0.1.0",
+            "type": "resources",
+            "uuid": "5818f440-3d16-481f-a1d5-6e263ed1463d",
+            "version": [0, 1, 0]
+        }
+    ],
+    "subpacks": [
+   ]
+}

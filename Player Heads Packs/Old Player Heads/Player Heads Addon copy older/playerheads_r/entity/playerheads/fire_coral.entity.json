@@ -1,0 +1,22 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "playerhead:fire_coral",
+      "materials": {
+        "default": "spider"
+      },
+      "textures": {
+        "default": "textures/entity/playerheads/fire_coral"
+      },
+      "geometry": {
+        "default": "geometry.playerhead"
+      },
+      "render_controllers": [ "controller.render.spider" ],
+      "spawn_egg": {
+        "texture": "playerhead_spawn",
+        "texture_index": 20
+      }
+    }
+  }
+}

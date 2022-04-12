@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Overhang Tweaks Pack v0.1.0",
+        "name": "Quieter Water",
+        "uuid": "f6b8c701-6881-4f90-b531-7e6d6688c58e",
+        "version": [0, 1, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Overhang Tweaks Pack v0.1.0",
+            "type": "resources",
+            "uuid": "966789ee-d7ff-475c-8ae1-701eb2c94973",
+            "version": [0, 1, 0]
+        }
+    ],
+    "subpacks": [
+   ]
+}

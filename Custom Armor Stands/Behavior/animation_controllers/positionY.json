@@ -1,0 +1,40 @@
+{
+	"format_version" : "1.10.0",
+	"animation_controllers" : {
+		"controller.animation.fnt.positionY" : {
+			"initial_state" : "inactive",
+			"states" : {
+				"inactive" : {
+					"transitions" : [
+						{
+							"move_positive" : "query.is_chested && query.is_baby"
+						},
+						{
+							"move_negative" : "query.is_chested && !query.is_baby"
+						}
+					]
+				},
+				"move_positive" : {					
+					"transitions" : [
+						{
+							"inactive" : "!query.is_chested"
+						}
+					],
+					"on_entry": [
+						"/tp @s ~ ~0.05 ~"
+					]	
+				},
+				"move_negative" : {					
+					"transitions" : [
+						{
+							"inactive" : "!query.is_chested"
+						}
+					],
+					"on_entry": [
+						"/tp @s ~ ~-0.05 ~"
+					]	
+				}
+			}
+		}
+	}
+}

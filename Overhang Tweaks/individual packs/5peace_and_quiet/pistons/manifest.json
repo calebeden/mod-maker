@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Overhang Tweaks Pack v0.1.0",
+        "name": "Quieter Pistons",
+        "uuid": "72f3c2b1-c835-4cd9-9217-1a94b651d523",
+        "version": [0, 1, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Overhang Tweaks Pack v0.1.0",
+            "type": "resources",
+            "uuid": "7a1be187-1f08-4709-b32f-3e71aeded604",
+            "version": [0, 1, 0]
+        }
+    ],
+    "subpacks": [
+   ]
+}

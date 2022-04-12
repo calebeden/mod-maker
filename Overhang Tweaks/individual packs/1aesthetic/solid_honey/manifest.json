@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Overhang Tweaks Pack v0.1.0",
+        "name": "Solid Honey",
+        "uuid": "b0a8d6ea-86fe-4b34-bdca-193146161a60",
+        "version": [0, 1, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Overhang Tweaks Pack v0.1.0",
+            "type": "resources",
+            "uuid": "d2cb8840-cad0-426c-8fad-00532849c4e6",
+            "version": [0, 1, 0]
+        }
+    ],
+    "subpacks": [
+   ]
+}

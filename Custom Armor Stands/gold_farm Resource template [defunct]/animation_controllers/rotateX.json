@@ -1,0 +1,325 @@
+{
+	"format_version": "1.10.0",
+	"animation_controllers": {
+		"controller.animation.fnt.rotateX": {
+			"states": {
+				"rotateX_default": {
+					"transitions": [
+						{
+							"rotateX_0": "query.variant == 0"
+						},
+						{
+							"rotateX_15": "query.variant == 15"
+						},
+						{
+							"rotateX_30": "query.variant == 30"
+						},
+						{
+							"rotateX_45": "query.variant == 45"
+						},
+						{
+							"rotateX_60": "query.variant == 60"
+						},
+						{
+							"rotateX_75": "query.variant == 75"
+						},
+						{
+							"rotateX_90": "query.variant == 90"
+						},
+						{
+							"rotateX_105": "query.variant == 105"
+						},
+						{
+							"rotateX_120": "query.variant == 120"
+						},
+						{
+							"rotateX_135": "query.variant == 135"
+						},
+						{
+							"rotateX_150": "query.variant == 150"
+						},
+						{
+							"rotateX_165": "query.variant == 165"
+						},
+						{
+							"rotateX_180": "query.variant == 180"
+						},
+						{
+							"rotateX_195": "query.variant == 195"
+						},
+						{
+							"rotateX_210": "query.variant == 210"
+						},
+						{
+							"rotateX_225": "query.variant == 225"
+						},
+						{
+							"rotateX_240": "query.variant == 240"
+						},
+						{
+							"rotateX_255": "query.variant == 255"
+						},
+						{
+							"rotateX_270": "query.variant == 270"
+						},
+						{
+							"rotateX_285": "query.variant == 285"
+						},
+						{
+							"rotateX_300": "query.variant == 300"
+						},
+						{
+							"rotateX_315": "query.variant == 315"
+						},
+						{
+							"rotateX_330": "query.variant == 330"
+						},
+						{
+							"rotateX_345": "query.variant == 345"
+						}
+					]
+				},
+				"rotateX_0": {
+					"animations": [
+						"rotateX_0"
+					],
+					"transitions": [
+						{
+							"rotateX_default": "query.variant != 0"
+						}
+					]
+				},
+				"rotateX_15": {
+					"animations": [
+						"rotateX_15"
+					],
+					"transitions": [
+						{
+							"rotateX_default": "query.variant != 15"
+						}
+					]
+				},
+				"rotateX_30": {
+					"animations": [
+						"rotateX_30"
+					],
+					"transitions": [
+						{
+							"rotateX_default": "query.variant != 30"
+						}
+					]
+				},
+				"rotateX_45": {
+					"animations": [
+						"rotateX_45"
+					],
+					"transitions": [
+						{
+							"rotateX_default": "query.variant != 45"
+						}
+					]
+				},
+				"rotateX_60": {
+					"animations": [
+						"rotateX_60"
+					],
+					"transitions": [
+						{
+							"rotateX_default": "query.variant != 60"
+						}
+					]
+				},
+				"rotateX_75": {
+					"animations": [
+						"rotateX_75"
+					],
+					"transitions": [
+						{
+							"rotateX_default": "query.variant != 75"
+						}
+					]
+				},
+				"rotateX_90": {
+					"animations": [
+						"rotateX_90"
+					],
+					"transitions": [
+						{
+							"rotateX_default": "query.variant != 90"
+						}
+					]
+				},
+				"rotateX_105": {
+					"animations": [
+						"rotateX_105"
+					],
+					"transitions": [
+						{
+							"rotateX_default": "query.variant != 105"
+						}
+					]
+				},
+				"rotateX_120": {
+					"animations": [
+						"rotateX_120"
+					],
+					"transitions": [
+						{
+							"rotateX_default": "query.variant != 120"
+						}
+					]
+				},
+				"rotateX_135": {
+					"animations": [
+						"rotateX_135"
+					],
+					"transitions": [
+						{
+							"rotateX_default": "query.variant != 135"
+						}
+					]
+				},
+				"rotateX_150": {
+					"animations": [
+						"rotateX_150"
+					],
+					"transitions": [
+						{
+							"rotateX_default": "query.variant != 150"
+						}
+					]
+				},
+				"rotateX_165": {
+					"animations": [
+						"rotateX_165"
+					],
+					"transitions": [
+						{
+							"rotateX_default": "query.variant != 165"
+						}
+					]
+				},
+				"rotateX_180": {
+					"animations": [
+						"rotateX_180"
+					],
+					"transitions": [
+						{
+							"rotateX_default": "query.variant != 180"
+						}
+					]
+				},
+				"rotateX_195": {
+					"animations": [
+						"rotateX_195"
+					],
+					"transitions": [
+						{
+							"rotateX_default": "query.variant != 195"
+						}
+					]
+				},
+				"rotateX_210": {
+					"animations": [
+						"rotateX_210"
+					],
+					"transitions": [
+						{
+							"rotateX_default": "query.variant != 210"
+						}
+					]
+				},
+				"rotateX_225": {
+					"animations": [
+						"rotateX_225"
+					],
+					"transitions": [
+						{
+							"rotateX_default": "query.variant != 225"
+						}
+					]
+				},
+				"rotateX_240": {
+					"animations": [
+						"rotateX_240"
+					],
+					"transitions": [
+						{
+							"rotateX_default": "query.variant != 240"
+						}
+					]
+				},
+				"rotateX_255": {
+					"animations": [
+						"rotateX_255"
+					],
+					"transitions": [
+						{
+							"rotateX_default": "query.variant != 255"
+						}
+					]
+				},
+				"rotateX_270": {
+					"animations": [
+						"rotateX_270"
+					],
+					"transitions": [
+						{
+							"rotateX_default": "query.variant != 270"
+						}
+					]
+				},
+				"rotateX_285": {
+					"animations": [
+						"rotateX_285"
+					],
+					"transitions": [
+						{
+							"rotateX_default": "query.variant != 285"
+						}
+					]
+				},
+				"rotateX_300": {
+					"animations": [
+						"rotateX_300"
+					],
+					"transitions": [
+						{
+							"rotateX_default": "query.variant != 300"
+						}
+					]
+				},
+				"rotateX_315": {
+					"animations": [
+						"rotateX_315"
+					],
+					"transitions": [
+						{
+							"rotateX_default": "query.variant != 315"
+						}
+					]
+				},
+				"rotateX_330": {
+					"animations": [
+						"rotateX_330"
+					],
+					"transitions": [
+						{
+							"rotateX_default": "query.variant != 330"
+						}
+					]
+				},
+				"rotateX_345": {
+					"animations": [
+						"rotateX_345"
+					],
+					"transitions": [
+						{
+							"rotateX_default": "query.variant != 345"
+						}
+					]
+				}
+			}
+		}
+	}
+}

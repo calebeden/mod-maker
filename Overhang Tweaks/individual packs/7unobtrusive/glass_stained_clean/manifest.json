@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Overhang Tweaks Pack v0.1.0",
+        "name": "Clean Stained Glass",
+        "uuid": "ae5ad122-a5ce-46c8-980e-313c23cadcb1",
+        "version": [0, 1, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Overhang Tweaks Pack v0.1.0",
+            "type": "resources",
+            "uuid": "3c07e500-2ab9-463c-b5f5-930de5da3bf2",
+            "version": [0, 1, 0]
+        }
+    ],
+    "subpacks": [
+   ]
+}

@@ -1,0 +1,15 @@
+{
+  "resource_pack_name": "playerheads",
+  "texture_name": "atlas.items",
+  "texture_data": {
+   
+   "playerhead_spawn": {
+      "textures": [
+         "textures/items/playerheads/caleb",
+         "textures/items/playerheads/greg",
+         "textures/items/playerheads/reese"
+      ]
+   } 
+
+  }
+}

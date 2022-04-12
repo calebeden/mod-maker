@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Overhang Tweaks Pack v0.1.0",
+        "name": "Yellow Slime",
+        "uuid": "cdc48699-d55c-47e7-8690-8fe2274b1bba",
+        "version": [0, 1, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Overhang Tweaks Pack v0.1.0",
+            "type": "resources",
+            "uuid": "ca544adf-4872-4316-85bc-1a7e39dfc266",
+            "version": [0, 1, 0]
+        }
+    ],
+    "subpacks": [
+   ]
+}

@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Overhang Tweaks Pack v0.1.0",
+        "name": "Dark Mode",
+        "uuid": "1746aa6e-879c-4d54-950e-92ad3eb2b4ba",
+        "version": [0, 1, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Overhang Tweaks Pack v0.1.0",
+            "type": "resources",
+            "uuid": "8addc06d-d183-47d2-b42b-07a854abb948",
+            "version": [0, 1, 0]
+        }
+    ],
+    "subpacks": [
+   ]
+}

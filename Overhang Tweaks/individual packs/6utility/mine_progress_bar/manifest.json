@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Overhang Tweaks Pack v0.1.0",
+        "name": "Mine Progress Bar",
+        "uuid": "a946adf8-09e6-442a-9bb7-edae3db8bd89",
+        "version": [0, 1, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Overhang Tweaks Pack v0.1.0",
+            "type": "resources",
+            "uuid": "6efbb1ed-129f-4423-8e10-357de31230dd",
+            "version": [0, 1, 0]
+        }
+    ],
+    "subpacks": [
+   ]
+}

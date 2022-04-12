@@ -1,0 +1,325 @@
+{
+	"format_version": "1.10.0",
+	"animation_controllers": {
+		"controller.animation.fnt.rotateZ": {
+			"states": {
+				"rotateZ_default": {
+					"transitions": [
+						{
+							"rotateZ_0": "query.mark_variant == 0"
+						},
+						{
+							"rotateZ_15": "query.mark_variant == 15"
+						},
+						{
+							"rotateZ_30": "query.mark_variant == 30"
+						},
+						{
+							"rotateZ_45": "query.mark_variant == 45"
+						},
+						{
+							"rotateZ_60": "query.mark_variant == 60"
+						},
+						{
+							"rotateZ_75": "query.mark_variant == 75"
+						},
+						{
+							"rotateZ_90": "query.mark_variant == 90"
+						},
+						{
+							"rotateZ_105": "query.mark_variant == 105"
+						},
+						{
+							"rotateZ_120": "query.mark_variant == 120"
+						},
+						{
+							"rotateZ_135": "query.mark_variant == 135"
+						},
+						{
+							"rotateZ_150": "query.mark_variant == 150"
+						},
+						{
+							"rotateZ_165": "query.mark_variant == 165"
+						},
+						{
+							"rotateZ_180": "query.mark_variant == 180"
+						},
+						{
+							"rotateZ_195": "query.mark_variant == 195"
+						},
+						{
+							"rotateZ_210": "query.mark_variant == 210"
+						},
+						{
+							"rotateZ_225": "query.mark_variant == 225"
+						},
+						{
+							"rotateZ_240": "query.mark_variant == 240"
+						},
+						{
+							"rotateZ_255": "query.mark_variant == 255"
+						},
+						{
+							"rotateZ_270": "query.mark_variant == 270"
+						},
+						{
+							"rotateZ_285": "query.mark_variant == 285"
+						},
+						{
+							"rotateZ_300": "query.mark_variant == 300"
+						},
+						{
+							"rotateZ_315": "query.mark_variant == 315"
+						},
+						{
+							"rotateZ_330": "query.mark_variant == 330"
+						},
+						{
+							"rotateZ_345": "query.mark_variant == 345"
+						}
+					]
+				},
+				"rotateZ_0": {
+					"animations": [
+						"rotateZ_0"
+					],
+					"transitions": [
+						{
+							"rotateZ_default": "query.mark_variant != 0"
+						}
+					]
+				},
+				"rotateZ_15": {
+					"animations": [
+						"rotateZ_15"
+					],
+					"transitions": [
+						{
+							"rotateZ_default": "query.mark_variant != 15"
+						}
+					]
+				},
+				"rotateZ_30": {
+					"animations": [
+						"rotateZ_30"
+					],
+					"transitions": [
+						{
+							"rotateZ_default": "query.mark_variant != 30"
+						}
+					]
+				},
+				"rotateZ_45": {
+					"animations": [
+						"rotateZ_45"
+					],
+					"transitions": [
+						{
+							"rotateZ_default": "query.mark_variant != 45"
+						}
+					]
+				},
+				"rotateZ_60": {
+					"animations": [
+						"rotateZ_60"
+					],
+					"transitions": [
+						{
+							"rotateZ_default": "query.mark_variant != 60"
+						}
+					]
+				},
+				"rotateZ_75": {
+					"animations": [
+						"rotateZ_75"
+					],
+					"transitions": [
+						{
+							"rotateZ_default": "query.mark_variant != 75"
+						}
+					]
+				},
+				"rotateZ_90": {
+					"animations": [
+						"rotateZ_90"
+					],
+					"transitions": [
+						{
+							"rotateZ_default": "query.mark_variant != 90"
+						}
+					]
+				},
+				"rotateZ_105": {
+					"animations": [
+						"rotateZ_105"
+					],
+					"transitions": [
+						{
+							"rotateZ_default": "query.mark_variant != 105"
+						}
+					]
+				},
+				"rotateZ_120": {
+					"animations": [
+						"rotateZ_120"
+					],
+					"transitions": [
+						{
+							"rotateZ_default": "query.mark_variant != 120"
+						}
+					]
+				},
+				"rotateZ_135": {
+					"animations": [
+						"rotateZ_135"
+					],
+					"transitions": [
+						{
+							"rotateZ_default": "query.mark_variant != 135"
+						}
+					]
+				},
+				"rotateZ_150": {
+					"animations": [
+						"rotateZ_150"
+					],
+					"transitions": [
+						{
+							"rotateZ_default": "query.mark_variant != 150"
+						}
+					]
+				},
+				"rotateZ_165": {
+					"animations": [
+						"rotateZ_165"
+					],
+					"transitions": [
+						{
+							"rotateZ_default": "query.mark_variant != 165"
+						}
+					]
+				},
+				"rotateZ_180": {
+					"animations": [
+						"rotateZ_180"
+					],
+					"transitions": [
+						{
+							"rotateZ_default": "query.mark_variant != 180"
+						}
+					]
+				},
+				"rotateZ_195": {
+					"animations": [
+						"rotateZ_195"
+					],
+					"transitions": [
+						{
+							"rotateZ_default": "query.mark_variant != 195"
+						}
+					]
+				},
+				"rotateZ_210": {
+					"animations": [
+						"rotateZ_210"
+					],
+					"transitions": [
+						{
+							"rotateZ_default": "query.mark_variant != 210"
+						}
+					]
+				},
+				"rotateZ_225": {
+					"animations": [
+						"rotateZ_225"
+					],
+					"transitions": [
+						{
+							"rotateZ_default": "query.mark_variant != 225"
+						}
+					]
+				},
+				"rotateZ_240": {
+					"animations": [
+						"rotateZ_240"
+					],
+					"transitions": [
+						{
+							"rotateZ_default": "query.mark_variant != 240"
+						}
+					]
+				},
+				"rotateZ_255": {
+					"animations": [
+						"rotateZ_255"
+					],
+					"transitions": [
+						{
+							"rotateZ_default": "query.mark_variant != 255"
+						}
+					]
+				},
+				"rotateZ_270": {
+					"animations": [
+						"rotateZ_270"
+					],
+					"transitions": [
+						{
+							"rotateZ_default": "query.mark_variant != 270"
+						}
+					]
+				},
+				"rotateZ_285": {
+					"animations": [
+						"rotateZ_285"
+					],
+					"transitions": [
+						{
+							"rotateZ_default": "query.mark_variant != 285"
+						}
+					]
+				},
+				"rotateZ_300": {
+					"animations": [
+						"rotateZ_300"
+					],
+					"transitions": [
+						{
+							"rotateZ_default": "query.mark_variant != 300"
+						}
+					]
+				},
+				"rotateZ_315": {
+					"animations": [
+						"rotateZ_315"
+					],
+					"transitions": [
+						{
+							"rotateZ_default": "query.mark_variant != 315"
+						}
+					]
+				},
+				"rotateZ_330": {
+					"animations": [
+						"rotateZ_330"
+					],
+					"transitions": [
+						{
+							"rotateZ_default": "query.mark_variant != 330"
+						}
+					]
+				},
+				"rotateZ_345": {
+					"animations": [
+						"rotateZ_345"
+					],
+					"transitions": [
+						{
+							"rotateZ_default": "query.mark_variant != 345"
+						}
+					]
+				}
+			}
+		}
+	}
+}

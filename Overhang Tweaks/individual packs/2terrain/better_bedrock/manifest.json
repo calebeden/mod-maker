@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Overhang Tweaks Pack v0.1.0",
+        "name": "Better Bedrock",
+        "uuid": "3aa32f08-f401-4246-89d4-88832b8e7d99",
+        "version": [0, 1, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Overhang Tweaks Pack v0.1.0",
+            "type": "resources",
+            "uuid": "2218d23e-3695-44f5-80f5-ac279ebcb824",
+            "version": [0, 1, 0]
+        }
+    ],
+    "subpacks": [
+   ]
+}

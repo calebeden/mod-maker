@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Overhang Tweaks Pack v0.1.0",
+        "name": "Visible Tripwires",
+        "uuid": "24933573-9e71-46d4-80dc-4d354b174a50",
+        "version": [0, 1, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Overhang Tweaks Pack v0.1.0",
+            "type": "resources",
+            "uuid": "b861ba10-63f3-4897-8dab-461dd8ff0217",
+            "version": [0, 1, 0]
+        }
+    ],
+    "subpacks": [
+   ]
+}

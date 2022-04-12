@@ -1,0 +1,28 @@
+{
+	"format_version": "1.8.0",
+	"render_controllers": {
+		"controller.render.fnt.armor_stand": {
+			"geometry": "Geometry.default",
+			"part_visibility": [
+				{ "*": true },
+				{ "baseplate": "!query.is_sheared" },
+				{ "leftarm": "!query.is_saddled" },
+				{ "rightarm": "!query.is_saddled" }
+			],
+			"materials": [
+				{
+					"*": "Material.default"
+				}
+			],
+			"textures": [
+				"query.is_illager_captain ? Texture.locked : Texture.default"
+			],
+			"overlay_color": {
+				"r": "this",
+				"g": "this",
+				"b": "this",
+				"a": "0.0"
+			}
+		}
+	}
+}

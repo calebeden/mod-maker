@@ -1,0 +1,24 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Player head behavior pack v 0.1.0",
+        "name": "Player Heads",
+        "uuid": "ae0db5a1-9bb8-483e-be75-9e8ce6d7dcec",
+        "version": [0, 1, 0],
+        "min_engine_version": [1, 14, 0]
+    },
+    "modules": [
+        {
+            "description": "Player head behavior pack v 0.1.0",
+            "type": "data",
+            "uuid": "fd6d713b-1b06-4910-adc9-36def69d0227",
+            "version": [0, 1, 0]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "2e549f38-290a-49cd-8a2c-3c6884530e60",
+            "version": [0, 1, 0]
+        }
+    ]
+}

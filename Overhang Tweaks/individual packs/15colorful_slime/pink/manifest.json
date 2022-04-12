@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Overhang Tweaks Pack v0.1.0",
+        "name": "Pink Slime",
+        "uuid": "e3cc733a-a93c-41e8-8725-a06c1a4f8c62",
+        "version": [0, 1, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Overhang Tweaks Pack v0.1.0",
+            "type": "resources",
+            "uuid": "d6a26d82-59f6-4b05-bdf1-c2351b7d6128",
+            "version": [0, 1, 0]
+        }
+    ],
+    "subpacks": [
+   ]
+}

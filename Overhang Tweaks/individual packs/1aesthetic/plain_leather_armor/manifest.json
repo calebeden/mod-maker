@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Overhang Tweaks Pack v0.1.0",
+        "name": "Plain Leather Armor",
+        "uuid": "dc3ba757-1109-49ae-b826-63b0579c9a66",
+        "version": [0, 1, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Overhang Tweaks Pack v0.1.0",
+            "type": "resources",
+            "uuid": "b90f620b-9372-41df-873f-f61ffa033827",
+            "version": [0, 1, 0]
+        }
+    ],
+    "subpacks": [
+   ]
+}

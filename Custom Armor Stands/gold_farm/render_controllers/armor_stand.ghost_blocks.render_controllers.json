@@ -1,0 +1,16 @@
+{
+  "format_version": "1.8.0",
+  "render_controllers": {
+    "controller.render.armor_stand.ghost_blocks": {
+      "materials": [
+        {
+          "*": "Material.ghost_blocks"
+        }
+      ],
+      "geometry": "query.get_name == '' ? Geometry.ghost_blocks_ : (Geometry.default)",
+      "textures": [
+        "query.get_name == '' ? Texture.ghost_blocks_ : (Texture.default)"
+      ]
+    }
+  }
+}

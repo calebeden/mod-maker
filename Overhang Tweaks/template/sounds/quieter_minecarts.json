@@ -1,0 +1,16 @@
+{
+"minecart.base": {
+ "category": "neutral",
+ "sounds": [
+   {"name": "sounds/minecart/base",
+   "volume": 0.01}
+ ]
+},
+"minecart.inside": {
+ "category": "neutral",
+ "sounds": [
+   {"name": "sounds/minecart/inside",
+   "volume": 0.01}
+ ]
+}
+}

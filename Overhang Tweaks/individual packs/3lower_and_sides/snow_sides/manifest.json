@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Overhang Tweaks Pack v0.1.0",
+        "name": "Snow Sides",
+        "uuid": "44475a82-9a34-4fcc-ba38-3ef7d5cd6dca",
+        "version": [0, 1, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Overhang Tweaks Pack v0.1.0",
+            "type": "resources",
+            "uuid": "7dfd1cb2-433a-4300-8f44-9896b1b12cc7",
+            "version": [0, 1, 0]
+        }
+    ],
+    "subpacks": [
+   ]
+}

@@ -1,0 +1,1149 @@
+entity.playerhead:reese.name=Reese's Head
+item.spawn_egg.entity.playerhead:reese.name=Reese's Head
+
+entity.playerhead:chloe.name=Chloe's Head
+item.spawn_egg.entity.playerhead:chloe.name=Chloe's Head
+
+entity.playerhead:greg.name=Greg's Head
+item.spawn_egg.entity.playerhead:greg.name=Greg's Head
+
+entity.playerhead:brody.name=Brody's Head
+item.spawn_egg.entity.playerhead:brody.name=Brody's Head
+
+entity.playerhead:aiden.name=Aiden's Head
+item.spawn_egg.entity.playerhead:aiden.name=Aiden's Head
+
+entity.playerhead:jeff.name=Jeff's Head
+item.spawn_egg.entity.playerhead:jeff.name=Jeff's Head
+
+entity.playerhead:caleb.name=Caleb's Head
+item.spawn_egg.entity.playerhead:caleb.name=Caleb's Head
+
+entity.playerhead:magenta_concrete.name=Micro-Magenta Concrete
+item.spawn_egg.entity.playerhead:magenta_concrete.name=Micro-Magenta Concrete
+
+entity.playerhead:ancient_debris.name=Micro-Ancient Debris
+item.spawn_egg.entity.playerhead:ancient_debris.name=Micro-Ancient Debris
+
+entity.playerhead:barrier.name=Micro-Barrier
+item.spawn_egg.entity.playerhead:barrier.name=Micro-Barrier
+
+entity.playerhead:block_of_diamond.name=Micro-Block of Diamond
+item.spawn_egg.entity.playerhead:block_of_diamond.name=Micro-Block of Diamond
+
+entity.playerhead:chiseled_quartz_block.name=Micro-Chiseled Quartz Block
+item.spawn_egg.entity.playerhead:chiseled_quartz_block.name=Micro-Chiseled Quartz Block
+
+entity.playerhead:blue_concrete.name=Micro-Blue Concrete
+item.spawn_egg.entity.playerhead:blue_concrete.name=Micro-Blue Concrete
+
+entity.playerhead:crying_obsidian.name=Micro-Crying Obsidian
+item.spawn_egg.entity.playerhead:crying_obsidian.name=Micro-Crying Obsidian
+
+entity.playerhead:warped_nylium.name=Micro-Warped Nylium
+item.spawn_egg.entity.playerhead:warped_nylium.name=Micro-Warped Nylium
+
+entity.playerhead:smooth_stone.name=Micro-Smooth Stone
+item.spawn_egg.entity.playerhead:smooth_stone.name=Micro-Smooth Stone
+
+entity.playerhead:warped_stem.name=Micro-Warped Stem
+item.spawn_egg.entity.playerhead:warped_stem.name=Micro-Warped Stem
+
+entity.playerhead:horn_coral_block.name=Micro-Horn Coral Block
+item.spawn_egg.entity.playerhead:horn_coral_block.name=Micro-Horn Coral Block
+
+entity.playerhead:monster_spawner.name=Micro-Monster Spawner
+item.spawn_egg.entity.playerhead:monster_spawner.name=Micro-Monster Spawner
+
+entity.playerhead:crimson_planks.name=Micro-Crimson Planks
+item.spawn_egg.entity.playerhead:crimson_planks.name=Micro-Crimson Planks
+
+entity.playerhead:cyan_concrete.name=Micro-Cyan Concrete
+item.spawn_egg.entity.playerhead:cyan_concrete.name=Micro-Cyan Concrete
+
+entity.playerhead:loom.name=Micro-Loom
+item.spawn_egg.entity.playerhead:loom.name=Micro-Loom
+
+entity.playerhead:sandstone.name=Micro-Sandstone
+item.spawn_egg.entity.playerhead:sandstone.name=Micro-Sandstone
+
+entity.playerhead:cauldron.name=Micro-Cauldron
+item.spawn_egg.entity.playerhead:cauldron.name=Micro-Cauldron
+
+entity.playerhead:honey_block.name=Micro-Honey Block
+item.spawn_egg.entity.playerhead:honey_block.name=Micro-Honey Block
+
+entity.playerhead:cracked_polished_blackstone_bricks.name=Micro-Cracked Polished Blackstone Bricks
+item.spawn_egg.entity.playerhead:cracked_polished_blackstone_bricks.name=Micro-Cracked Polished Blackstone Bricks
+
+entity.playerhead:birch_wood_planks.name=Micro-Birch Wood Planks
+item.spawn_egg.entity.playerhead:birch_wood_planks.name=Micro-Birch Wood Planks
+
+entity.playerhead:bell.name=Micro-Bell
+item.spawn_egg.entity.playerhead:bell.name=Micro-Bell
+
+entity.playerhead:jungle_log.name=Micro-Jungle Log
+item.spawn_egg.entity.playerhead:jungle_log.name=Micro-Jungle Log
+
+entity.playerhead:polished_andesite.name=Micro-Polished Andesite
+item.spawn_egg.entity.playerhead:polished_andesite.name=Micro-Polished Andesite
+
+entity.playerhead:obsidian.name=Micro-Obsidian
+item.spawn_egg.entity.playerhead:obsidian.name=Micro-Obsidian
+
+entity.playerhead:oak_log.name=Micro-Oak Log
+item.spawn_egg.entity.playerhead:oak_log.name=Micro-Oak Log
+
+entity.playerhead:dirt.name=Micro-Dirt
+item.spawn_egg.entity.playerhead:dirt.name=Micro-Dirt
+
+entity.playerhead:lapis_lazuli_ore.name=Micro-Lapis Lazuli Ore
+item.spawn_egg.entity.playerhead:lapis_lazuli_ore.name=Micro-Lapis Lazuli Ore
+
+entity.playerhead:blast_furnace.name=Micro-Blast Furnace
+item.spawn_egg.entity.playerhead:blast_furnace.name=Micro-Blast Furnace
+
+entity.playerhead:quartz_pillar.name=Micro-Quartz Pillar
+item.spawn_egg.entity.playerhead:quartz_pillar.name=Micro-Quartz Pillar
+
+entity.playerhead:dispenser.name=Micro-Dispenser
+item.spawn_egg.entity.playerhead:dispenser.name=Micro-Dispenser
+
+entity.playerhead:white_mushroom_block.name=Micro-White Mushroom Block
+item.spawn_egg.entity.playerhead:white_mushroom_block.name=Micro-White Mushroom Block
+
+entity.playerhead:redstone_ore.name=Micro-Redstone Ore
+item.spawn_egg.entity.playerhead:redstone_ore.name=Micro-Redstone Ore
+
+entity.playerhead:clay_block.name=Micro-Clay Block
+item.spawn_egg.entity.playerhead:clay_block.name=Micro-Clay Block
+
+entity.playerhead:diorite.name=Micro-Diorite
+item.spawn_egg.entity.playerhead:diorite.name=Micro-Diorite
+
+entity.playerhead:warped_wart_block.name=Micro-Warped Wart Block
+item.spawn_egg.entity.playerhead:warped_wart_block.name=Micro-Warped Wart Block
+
+entity.playerhead:birch_log.name=Micro-Birch Log
+item.spawn_egg.entity.playerhead:birch_log.name=Micro-Birch Log
+
+entity.playerhead:lapis_lazuli_block.name=Micro-Lapis Lazuli Block
+item.spawn_egg.entity.playerhead:lapis_lazuli_block.name=Micro-Lapis Lazuli Block
+
+entity.playerhead:grindstone.name=Micro-Grindstone
+item.spawn_egg.entity.playerhead:grindstone.name=Micro-Grindstone
+
+entity.playerhead:note_block.name=Micro-Note Block
+item.spawn_egg.entity.playerhead:note_block.name=Micro-Note Block
+
+entity.playerhead:chiseled_polished_blackstone.name=Micro-Chiseled Polished Blackstone
+item.spawn_egg.entity.playerhead:chiseled_polished_blackstone.name=Micro-Chiseled Polished Blackstone
+
+entity.playerhead:coarse_dirt.name=Micro-Coarse Dirt
+item.spawn_egg.entity.playerhead:coarse_dirt.name=Micro-Coarse Dirt
+
+entity.playerhead:lime_concrete.name=Micro-Lime Concrete
+item.spawn_egg.entity.playerhead:lime_concrete.name=Micro-Lime Concrete
+
+entity.playerhead:smooth_red_sandstone.name=Micro-Smooth Red Sandstone
+item.spawn_egg.entity.playerhead:smooth_red_sandstone.name=Micro-Smooth Red Sandstone
+
+entity.playerhead:coal_ore.name=Micro-Coal Ore
+item.spawn_egg.entity.playerhead:coal_ore.name=Micro-Coal Ore
+
+entity.playerhead:hay_bale.name=Micro-Hay Bale
+item.spawn_egg.entity.playerhead:hay_bale.name=Micro-Hay Bale
+
+entity.playerhead:cut_sandstone.name=Micro-Cut Sandstone
+item.spawn_egg.entity.playerhead:cut_sandstone.name=Micro-Cut Sandstone
+
+entity.playerhead:brown_concrete.name=Micro-Brown Concrete
+item.spawn_egg.entity.playerhead:brown_concrete.name=Micro-Brown Concrete
+
+entity.playerhead:nether_quartz_ore.name=Micro-Nether Quartz Ore
+item.spawn_egg.entity.playerhead:nether_quartz_ore.name=Micro-Nether Quartz Ore
+
+entity.playerhead:stone_bricks.name=Micro-Stone Bricks
+item.spawn_egg.entity.playerhead:stone_bricks.name=Micro-Stone Bricks
+
+entity.playerhead:cut_red_sandstone.name=Micro-Cut Red Sandstone
+item.spawn_egg.entity.playerhead:cut_red_sandstone.name=Micro-Cut Red Sandstone
+
+entity.playerhead:gray_concrete.name=Micro-Gray Concrete
+item.spawn_egg.entity.playerhead:gray_concrete.name=Micro-Gray Concrete
+
+entity.playerhead:bee_nest.name=Micro-Bee Nest
+item.spawn_egg.entity.playerhead:bee_nest.name=Micro-Bee Nest
+
+entity.playerhead:sponge.name=Micro-Sponge
+item.spawn_egg.entity.playerhead:sponge.name=Micro-Sponge
+
+entity.playerhead:enchantment_table.name=Micro-Enchantment Table
+item.spawn_egg.entity.playerhead:enchantment_table.name=Micro-Enchantment Table
+
+entity.playerhead:respawn_anchor.name=Micro-Respawn Anchor
+item.spawn_egg.entity.playerhead:respawn_anchor.name=Micro-Respawn Anchor
+
+entity.playerhead:polished_blackstone.name=Micro-Polished Blackstone
+item.spawn_egg.entity.playerhead:polished_blackstone.name=Micro-Polished Blackstone
+
+entity.playerhead:allow.name=Micro-Allow
+item.spawn_egg.entity.playerhead:allow.name=Micro-Allow
+
+entity.playerhead:white_concrete.name=Micro-White Concrete
+item.spawn_egg.entity.playerhead:white_concrete.name=Micro-White Concrete
+
+entity.playerhead:piston.name=Micro-Piston
+item.spawn_egg.entity.playerhead:piston.name=Micro-Piston
+
+entity.playerhead:warped_planks.name=Micro-Warped Planks
+item.spawn_egg.entity.playerhead:warped_planks.name=Micro-Warped Planks
+
+entity.playerhead:gravel.name=Micro-Gravel
+item.spawn_egg.entity.playerhead:gravel.name=Micro-Gravel
+
+entity.playerhead:jack_olantern.name=Micro-Jack o'Lantern
+item.spawn_egg.entity.playerhead:jack_olantern.name=Micro-Jack o'Lantern
+
+entity.playerhead:green_concrete.name=Micro-Green Concrete
+item.spawn_egg.entity.playerhead:green_concrete.name=Micro-Green Concrete
+
+entity.playerhead:block_of_coal.name=Micro-Block of Coal
+item.spawn_egg.entity.playerhead:block_of_coal.name=Micro-Block of Coal
+
+entity.playerhead:chest.name=Micro-Chest
+item.spawn_egg.entity.playerhead:chest.name=Micro-Chest
+
+entity.playerhead:chiseled_nether_bricks.name=Micro-Chiseled Nether Bricks
+item.spawn_egg.entity.playerhead:chiseled_nether_bricks.name=Micro-Chiseled Nether Bricks
+
+entity.playerhead:brain_coral_block.name=Micro-Brain Coral Block
+item.spawn_egg.entity.playerhead:brain_coral_block.name=Micro-Brain Coral Block
+
+entity.playerhead:chiseled_stone_bricks.name=Micro-Chiseled Stone Bricks
+item.spawn_egg.entity.playerhead:chiseled_stone_bricks.name=Micro-Chiseled Stone Bricks
+
+entity.playerhead:snow.name=Micro-Snow
+item.spawn_egg.entity.playerhead:snow.name=Micro-Snow
+
+entity.playerhead:redstone_lamp.name=Micro-Redstone Lamp
+item.spawn_egg.entity.playerhead:redstone_lamp.name=Micro-Redstone Lamp
+
+entity.playerhead:dropper.name=Micro-Dropper
+item.spawn_egg.entity.playerhead:dropper.name=Micro-Dropper
+
+entity.playerhead:crimson_nylium.name=Micro-Crimson Nylium
+item.spawn_egg.entity.playerhead:crimson_nylium.name=Micro-Crimson Nylium
+
+entity.playerhead:polished_blackstone_bricks.name=Micro-Polished Blackstone Bricks
+item.spawn_egg.entity.playerhead:polished_blackstone_bricks.name=Micro-Polished Blackstone Bricks
+
+entity.playerhead:magma_block.name=Micro-Magma Block
+item.spawn_egg.entity.playerhead:magma_block.name=Micro-Magma Block
+
+entity.playerhead:target.name=Micro-Target
+item.spawn_egg.entity.playerhead:target.name=Micro-Target
+
+entity.playerhead:end_portal_frame.name=Micro-End Portal Frame
+item.spawn_egg.entity.playerhead:end_portal_frame.name=Micro-End Portal Frame
+
+entity.playerhead:cobblestone.name=Micro-Cobblestone
+item.spawn_egg.entity.playerhead:cobblestone.name=Micro-Cobblestone
+
+entity.playerhead:iron_ore.name=Micro-Iron Ore
+item.spawn_egg.entity.playerhead:iron_ore.name=Micro-Iron Ore
+
+entity.playerhead:gilded_blackstone.name=Micro-Gilded Blackstone
+item.spawn_egg.entity.playerhead:gilded_blackstone.name=Micro-Gilded Blackstone
+
+entity.playerhead:grass_block.name=Micro-Grass Block
+item.spawn_egg.entity.playerhead:grass_block.name=Micro-Grass Block
+
+entity.playerhead:polished_basalt.name=Micro-Polished Basalt
+item.spawn_egg.entity.playerhead:polished_basalt.name=Micro-Polished Basalt
+
+entity.playerhead:fletching_table.name=Micro-Fletching Table
+item.spawn_egg.entity.playerhead:fletching_table.name=Micro-Fletching Table
+
+entity.playerhead:dark_prismarine.name=Micro-Dark Prismarine
+item.spawn_egg.entity.playerhead:dark_prismarine.name=Micro-Dark Prismarine
+
+entity.playerhead:shulker_box.name=Micro-Shulker Box
+item.spawn_egg.entity.playerhead:shulker_box.name=Micro-Shulker Box
+
+entity.playerhead:prismarine.name=Micro-Prismarine
+item.spawn_egg.entity.playerhead:prismarine.name=Micro-Prismarine
+
+entity.playerhead:purple_concrete.name=Micro-Purple Concrete
+item.spawn_egg.entity.playerhead:purple_concrete.name=Micro-Purple Concrete
+
+entity.playerhead:terracotta.name=Micro-Terracotta
+item.spawn_egg.entity.playerhead:terracotta.name=Micro-Terracotta
+
+entity.playerhead:furnace.name=Micro-Furnace
+item.spawn_egg.entity.playerhead:furnace.name=Micro-Furnace
+
+entity.playerhead:lectern.name=Micro-Lectern
+item.spawn_egg.entity.playerhead:lectern.name=Micro-Lectern
+
+entity.playerhead:chiseled_red_sandstone.name=Micro-Chiseled Red Sandstone
+item.spawn_egg.entity.playerhead:chiseled_red_sandstone.name=Micro-Chiseled Red Sandstone
+
+entity.playerhead:red_nether_bricks.name=Micro-Red Nether Bricks
+item.spawn_egg.entity.playerhead:red_nether_bricks.name=Micro-Red Nether Bricks
+
+entity.playerhead:smooth_sandstone.name=Micro-Smooth Sandstone
+item.spawn_egg.entity.playerhead:smooth_sandstone.name=Micro-Smooth Sandstone
+
+entity.playerhead:stonecutter.name=Micro-Stonecutter
+item.spawn_egg.entity.playerhead:stonecutter.name=Micro-Stonecutter
+
+entity.playerhead:polished_granite.name=Micro-Polished Granite
+item.spawn_egg.entity.playerhead:polished_granite.name=Micro-Polished Granite
+
+entity.playerhead:sea_lantern.name=Micro-Sea Lantern
+item.spawn_egg.entity.playerhead:sea_lantern.name=Micro-Sea Lantern
+
+entity.playerhead:andesite.name=Micro-Andesite
+item.spawn_egg.entity.playerhead:andesite.name=Micro-Andesite
+
+entity.playerhead:observer.name=Micro-Observer
+item.spawn_egg.entity.playerhead:observer.name=Micro-Observer
+
+entity.playerhead:lodestone.name=Micro-Lodestone
+item.spawn_egg.entity.playerhead:lodestone.name=Micro-Lodestone
+
+entity.playerhead:jungle_wood_planks.name=Micro-Jungle Wood Planks
+item.spawn_egg.entity.playerhead:jungle_wood_planks.name=Micro-Jungle Wood Planks
+
+entity.playerhead:chiseled_sandstone.name=Micro-Chiseled Sandstone
+item.spawn_egg.entity.playerhead:chiseled_sandstone.name=Micro-Chiseled Sandstone
+
+entity.playerhead:red_sandstone.name=Micro-Red Sandstone
+item.spawn_egg.entity.playerhead:red_sandstone.name=Micro-Red Sandstone
+
+entity.playerhead:gold_ore.name=Micro-Gold Ore
+item.spawn_egg.entity.playerhead:gold_ore.name=Micro-Gold Ore
+
+entity.playerhead:oak_wood_planks.name=Micro-Oak Wood Planks
+item.spawn_egg.entity.playerhead:oak_wood_planks.name=Micro-Oak Wood Planks
+
+entity.playerhead:jukebox.name=Micro-Jukebox
+item.spawn_egg.entity.playerhead:jukebox.name=Micro-Jukebox
+
+entity.playerhead:block_of_netherite.name=Micro-Block of Netherite
+item.spawn_egg.entity.playerhead:block_of_netherite.name=Micro-Block of Netherite
+
+entity.playerhead:carved_pumpkin.name=Micro-Carved Pumpkin
+item.spawn_egg.entity.playerhead:carved_pumpkin.name=Micro-Carved Pumpkin
+
+entity.playerhead:bone_block.name=Micro-Bone Block
+item.spawn_egg.entity.playerhead:bone_block.name=Micro-Bone Block
+
+entity.playerhead:spruce_wood_planks.name=Micro-Spruce Wood Planks
+item.spawn_egg.entity.playerhead:spruce_wood_planks.name=Micro-Spruce Wood Planks
+
+entity.playerhead:stone.name=Micro-Stone
+item.spawn_egg.entity.playerhead:stone.name=Micro-Stone
+
+entity.playerhead:pink_concrete.name=Micro-Pink Concrete
+item.spawn_egg.entity.playerhead:pink_concrete.name=Micro-Pink Concrete
+
+entity.playerhead:acacia_log.name=Micro-Acacia Log
+item.spawn_egg.entity.playerhead:acacia_log.name=Micro-Acacia Log
+
+entity.playerhead:tnt.name=Micro-TNT
+item.spawn_egg.entity.playerhead:tnt.name=Micro-TNT
+
+entity.playerhead:tnt.name=Micro-Tnt
+item.spawn_egg.entity.playerhead:tnt.name=Micro-Tnt
+
+entity.playerhead:deny.name=Micro-Deny
+item.spawn_egg.entity.playerhead:deny.name=Micro-Deny
+
+entity.playerhead:podzol.name=Micro-Podzol
+item.spawn_egg.entity.playerhead:podzol.name=Micro-Podzol
+
+entity.playerhead:end_stone.name=Micro-End Stone
+item.spawn_egg.entity.playerhead:end_stone.name=Micro-End Stone
+
+entity.playerhead:emerald_ore.name=Micro-Emerald Ore
+item.spawn_egg.entity.playerhead:emerald_ore.name=Micro-Emerald Ore
+
+entity.playerhead:cracked_nether_bricks.name=Micro-Cracked Nether Bricks
+item.spawn_egg.entity.playerhead:cracked_nether_bricks.name=Micro-Cracked Nether Bricks
+
+entity.playerhead:bubble_coral_block.name=Micro-Bubble Coral Block
+item.spawn_egg.entity.playerhead:bubble_coral_block.name=Micro-Bubble Coral Block
+
+entity.playerhead:nether_bricks.name=Micro-Nether Bricks
+item.spawn_egg.entity.playerhead:nether_bricks.name=Micro-Nether Bricks
+
+entity.playerhead:yellow_concrete.name=Micro-Yellow Concrete
+item.spawn_egg.entity.playerhead:yellow_concrete.name=Micro-Yellow Concrete
+
+entity.playerhead:cartography_table.name=Micro-Cartography Table
+item.spawn_egg.entity.playerhead:cartography_table.name=Micro-Cartography Table
+
+entity.playerhead:sticky_piston.name=Micro-Sticky Piston
+item.spawn_egg.entity.playerhead:sticky_piston.name=Micro-Sticky Piston
+
+entity.playerhead:blue_ice.name=Micro-Blue Ice
+item.spawn_egg.entity.playerhead:blue_ice.name=Micro-Blue Ice
+
+entity.playerhead:light_gray_concrete.name=Micro-Light Gray Concrete
+item.spawn_egg.entity.playerhead:light_gray_concrete.name=Micro-Light Gray Concrete
+
+entity.playerhead:ice.name=Micro-Ice
+item.spawn_egg.entity.playerhead:ice.name=Micro-Ice
+
+entity.playerhead:shroomlight.name=Micro-Shroomlight
+item.spawn_egg.entity.playerhead:shroomlight.name=Micro-Shroomlight
+
+entity.playerhead:mossy_stone_bricks.name=Micro-Mossy Stone Bricks
+item.spawn_egg.entity.playerhead:mossy_stone_bricks.name=Micro-Mossy Stone Bricks
+
+entity.playerhead:nether_gold_ore.name=Micro-Nether Gold Ore
+item.spawn_egg.entity.playerhead:nether_gold_ore.name=Micro-Nether Gold Ore
+
+entity.playerhead:melon.name=Micro-Melon
+item.spawn_egg.entity.playerhead:melon.name=Micro-Melon
+
+entity.playerhead:polished_diorite.name=Micro-Polished Diorite
+item.spawn_egg.entity.playerhead:polished_diorite.name=Micro-Polished Diorite
+
+entity.playerhead:red_mushroom_block.name=Micro-Red Mushroom Block
+item.spawn_egg.entity.playerhead:red_mushroom_block.name=Micro-Red Mushroom Block
+
+entity.playerhead:dark_oak_wood_planks.name=Micro-Dark Oak Wood Planks
+item.spawn_egg.entity.playerhead:dark_oak_wood_planks.name=Micro-Dark Oak Wood Planks
+
+entity.playerhead:packed_ice.name=Micro-Packed Ice
+item.spawn_egg.entity.playerhead:packed_ice.name=Micro-Packed Ice
+
+entity.playerhead:block_of_emerald.name=Micro-Block of Emerald
+item.spawn_egg.entity.playerhead:block_of_emerald.name=Micro-Block of Emerald
+
+entity.playerhead:soul_sand.name=Micro-Soul Sand
+item.spawn_egg.entity.playerhead:soul_sand.name=Micro-Soul Sand
+
+entity.playerhead:nether_wart_block.name=Micro-Nether Wart Block
+item.spawn_egg.entity.playerhead:nether_wart_block.name=Micro-Nether Wart Block
+
+entity.playerhead:brown_mushroom_block.name=Micro-Brown Mushroom Block
+item.spawn_egg.entity.playerhead:brown_mushroom_block.name=Micro-Brown Mushroom Block
+
+entity.playerhead:red_sand.name=Micro-Red Sand
+item.spawn_egg.entity.playerhead:red_sand.name=Micro-Red Sand
+
+entity.playerhead:jigsaw_block.name=Micro-Jigsaw Block
+item.spawn_egg.entity.playerhead:jigsaw_block.name=Micro-Jigsaw Block
+
+entity.playerhead:structure_block.name=Micro-Structure Block
+item.spawn_egg.entity.playerhead:structure_block.name=Micro-Structure Block
+
+entity.playerhead:spruce_log.name=Micro-Spruce Log
+item.spawn_egg.entity.playerhead:spruce_log.name=Micro-Spruce Log
+
+entity.playerhead:glowstone.name=Micro-Glowstone
+item.spawn_egg.entity.playerhead:glowstone.name=Micro-Glowstone
+
+entity.playerhead:prismarine_bricks.name=Micro-Prismarine Bricks
+item.spawn_egg.entity.playerhead:prismarine_bricks.name=Micro-Prismarine Bricks
+
+entity.playerhead:fire_coral_block.name=Micro-Fire Coral Block
+item.spawn_egg.entity.playerhead:fire_coral_block.name=Micro-Fire Coral Block
+
+entity.playerhead:mossy_cobblestone.name=Micro-Mossy Cobblestone
+item.spawn_egg.entity.playerhead:mossy_cobblestone.name=Micro-Mossy Cobblestone
+
+entity.playerhead:ender_chest.name=Micro-Ender Chest
+item.spawn_egg.entity.playerhead:ender_chest.name=Micro-Ender Chest
+
+entity.playerhead:block_of_iron.name=Micro-Block of Iron
+item.spawn_egg.entity.playerhead:block_of_iron.name=Micro-Block of Iron
+
+entity.playerhead:brick_block.name=Micro-Brick Block
+item.spawn_egg.entity.playerhead:brick_block.name=Micro-Brick Block
+
+entity.playerhead:purpur_block.name=Micro-Purpur Block
+item.spawn_egg.entity.playerhead:purpur_block.name=Micro-Purpur Block
+
+entity.playerhead:crafting_table.name=Micro-Crafting Table
+item.spawn_egg.entity.playerhead:crafting_table.name=Micro-Crafting Table
+
+entity.playerhead:netherrack.name=Micro-Netherrack
+item.spawn_egg.entity.playerhead:netherrack.name=Micro-Netherrack
+
+entity.playerhead:beehive.name=Micro-Beehive
+item.spawn_egg.entity.playerhead:beehive.name=Micro-Beehive
+
+entity.playerhead:smoker.name=Micro-Smoker
+item.spawn_egg.entity.playerhead:smoker.name=Micro-Smoker
+
+entity.playerhead:slime_block.name=Micro-Slime Block
+item.spawn_egg.entity.playerhead:slime_block.name=Micro-Slime Block
+
+entity.playerhead:sand.name=Micro-Sand
+item.spawn_egg.entity.playerhead:sand.name=Micro-Sand
+
+entity.playerhead:dark_oak_log.name=Micro-Dark Oak Log
+item.spawn_egg.entity.playerhead:dark_oak_log.name=Micro-Dark Oak Log
+
+entity.playerhead:purpur_pillar.name=Micro-Purpur Pillar
+item.spawn_egg.entity.playerhead:purpur_pillar.name=Micro-Purpur Pillar
+
+entity.playerhead:blackstone.name=Micro-Blackstone
+item.spawn_egg.entity.playerhead:blackstone.name=Micro-Blackstone
+
+entity.playerhead:basalt.name=Micro-Basalt
+item.spawn_egg.entity.playerhead:basalt.name=Micro-Basalt
+
+entity.playerhead:block_of_gold.name=Micro-Block of Gold
+item.spawn_egg.entity.playerhead:block_of_gold.name=Micro-Block of Gold
+
+entity.playerhead:dragon_egg.name=Micro-Dragon Egg
+item.spawn_egg.entity.playerhead:dragon_egg.name=Micro-Dragon Egg
+
+entity.playerhead:end_stone_bricks.name=Micro-End Stone Bricks
+item.spawn_egg.entity.playerhead:end_stone_bricks.name=Micro-End Stone Bricks
+
+entity.playerhead:honeycomb_block.name=Micro-Honeycomb Block
+item.spawn_egg.entity.playerhead:honeycomb_block.name=Micro-Honeycomb Block
+
+entity.playerhead:crimson_stem.name=Micro-Crimson Stem
+item.spawn_egg.entity.playerhead:crimson_stem.name=Micro-Crimson Stem
+
+entity.playerhead:block_of_quartz.name=Micro-Block of Quartz
+item.spawn_egg.entity.playerhead:block_of_quartz.name=Micro-Block of Quartz
+
+entity.playerhead:pumpkin.name=Micro-Pumpkin
+item.spawn_egg.entity.playerhead:pumpkin.name=Micro-Pumpkin
+
+entity.playerhead:composter.name=Micro-Composter
+item.spawn_egg.entity.playerhead:composter.name=Micro-Composter
+
+entity.playerhead:block_of_redstone.name=Micro-Block of Redstone
+item.spawn_egg.entity.playerhead:block_of_redstone.name=Micro-Block of Redstone
+
+entity.playerhead:barrel.name=Micro-Barrel
+item.spawn_egg.entity.playerhead:barrel.name=Micro-Barrel
+
+entity.playerhead:smooth_quartz_block.name=Micro-Smooth Quartz Block
+item.spawn_egg.entity.playerhead:smooth_quartz_block.name=Micro-Smooth Quartz Block
+
+entity.playerhead:mycelium.name=Micro-Mycelium
+item.spawn_egg.entity.playerhead:mycelium.name=Micro-Mycelium
+
+entity.playerhead:dried_kelp_block.name=Micro-Dried Kelp Block
+item.spawn_egg.entity.playerhead:dried_kelp_block.name=Micro-Dried Kelp Block
+
+entity.playerhead:granite.name=Micro-Granite
+item.spawn_egg.entity.playerhead:granite.name=Micro-Granite
+
+entity.playerhead:command_block.name=Micro-Command Block
+item.spawn_egg.entity.playerhead:command_block.name=Micro-Command Block
+
+entity.playerhead:light_blue_concrete.name=Micro-Light Blue Concrete
+item.spawn_egg.entity.playerhead:light_blue_concrete.name=Micro-Light Blue Concrete
+
+entity.playerhead:tube_coral_block.name=Micro-Tube Coral Block
+item.spawn_egg.entity.playerhead:tube_coral_block.name=Micro-Tube Coral Block
+
+entity.playerhead:red_concrete.name=Micro-Red Concrete
+item.spawn_egg.entity.playerhead:red_concrete.name=Micro-Red Concrete
+
+entity.playerhead:quartz_bricks.name=Micro-Quartz Bricks
+item.spawn_egg.entity.playerhead:quartz_bricks.name=Micro-Quartz Bricks
+
+entity.playerhead:cracked_stone_bricks.name=Micro-Cracked Stone Bricks
+item.spawn_egg.entity.playerhead:cracked_stone_bricks.name=Micro-Cracked Stone Bricks
+
+entity.playerhead:black_concrete.name=Micro-Black Concrete
+item.spawn_egg.entity.playerhead:black_concrete.name=Micro-Black Concrete
+
+entity.playerhead:orange_concrete.name=Micro-Orange Concrete
+item.spawn_egg.entity.playerhead:orange_concrete.name=Micro-Orange Concrete
+
+entity.playerhead:bookshelf.name=Micro-Bookshelf
+item.spawn_egg.entity.playerhead:bookshelf.name=Micro-Bookshelf
+
+entity.playerhead:acacia_wood_planks.name=Micro-Acacia Wood Planks
+item.spawn_egg.entity.playerhead:acacia_wood_planks.name=Micro-Acacia Wood Planks
+
+entity.playerhead:soul_soil.name=Micro-Soul Soil
+item.spawn_egg.entity.playerhead:soul_soil.name=Micro-Soul Soil
+
+entity.playerhead:smithing_table.name=Micro-Smithing Table
+item.spawn_egg.entity.playerhead:smithing_table.name=Micro-Smithing Table
+
+entity.playerhead:diamond_ore.name=Micro-Diamond Ore
+item.spawn_egg.entity.playerhead:diamond_ore.name=Micro-Diamond Ore
+
+entity.playerhead:cyan_sheep.name=Cyan Sheep Head
+item.spawn_egg.entity.playerhead:cyan_sheep.name=Cyan Sheep Head
+
+entity.playerhead:magma_cube.name=Magma Cube Head
+item.spawn_egg.entity.playerhead:magma_cube.name=Magma Cube Head
+
+entity.playerhead:toolsmith_zombie_villager.name=Toolsmith Zombie Villager Head
+item.spawn_egg.entity.playerhead:toolsmith_zombie_villager.name=Toolsmith Zombie Villager Head
+
+entity.playerhead:white_llama.name=White Llama Head
+item.spawn_egg.entity.playerhead:white_llama.name=White Llama Head
+
+entity.playerhead:tuxedo_cat.name=Tuxedo Cat Head
+item.spawn_egg.entity.playerhead:tuxedo_cat.name=Tuxedo Cat Head
+
+entity.playerhead:farmer_villager.name=Farmer Villager Head
+item.spawn_egg.entity.playerhead:farmer_villager.name=Farmer Villager Head
+
+entity.playerhead:tabby_cat.name=Tabby Cat Head
+item.spawn_egg.entity.playerhead:tabby_cat.name=Tabby Cat Head
+
+entity.playerhead:librarian_zombie_villager.name=Librarian Zombie Villager Head
+item.spawn_egg.entity.playerhead:librarian_zombie_villager.name=Librarian Zombie Villager Head
+
+entity.playerhead:illusioner.name=Illusioner Head
+item.spawn_egg.entity.playerhead:illusioner.name=Illusioner Head
+
+entity.playerhead:creamy_horse.name=Creamy Horse Head
+item.spawn_egg.entity.playerhead:creamy_horse.name=Creamy Horse Head
+
+entity.playerhead:calico_cat.name=Calico Cat Head
+item.spawn_egg.entity.playerhead:calico_cat.name=Calico Cat Head
+
+entity.playerhead:ravager.name=Ravager Head
+item.spawn_egg.entity.playerhead:ravager.name=Ravager Head
+
+entity.playerhead:blue_sheep.name=Blue Sheep Head
+item.spawn_egg.entity.playerhead:blue_sheep.name=Blue Sheep Head
+
+entity.playerhead:nitwit_villager.name=Nitwit Villager Head
+item.spawn_egg.entity.playerhead:nitwit_villager.name=Nitwit Villager Head
+
+entity.playerhead:turtle.name=Turtle Head
+item.spawn_egg.entity.playerhead:turtle.name=Turtle Head
+
+entity.playerhead:cleric_zombie_villager.name=Cleric Zombie Villager Head
+item.spawn_egg.entity.playerhead:cleric_zombie_villager.name=Cleric Zombie Villager Head
+
+entity.playerhead:spider.name=Spider Head
+item.spawn_egg.entity.playerhead:spider.name=Spider Head
+
+entity.playerhead:vex.name=Vex Head
+item.spawn_egg.entity.playerhead:vex.name=Vex Head
+
+entity.playerhead:charged_creeper.name=Charged Creeper Head
+item.spawn_egg.entity.playerhead:charged_creeper.name=Charged Creeper Head
+
+entity.playerhead:red_sheep.name=Red Sheep Head
+item.spawn_egg.entity.playerhead:red_sheep.name=Red Sheep Head
+
+entity.playerhead:salmon.name=Salmon Head
+item.spawn_egg.entity.playerhead:salmon.name=Salmon Head
+
+entity.playerhead:salt_and_pepper_rabbit.name=Salt and Pepper Rabbit Head
+item.spawn_egg.entity.playerhead:salt_and_pepper_rabbit.name=Salt and Pepper Rabbit Head
+
+entity.playerhead:butcher_villager.name=Butcher Villager Head
+item.spawn_egg.entity.playerhead:butcher_villager.name=Butcher Villager Head
+
+entity.playerhead:polar_bear.name=Polar Bear Head
+item.spawn_egg.entity.playerhead:polar_bear.name=Polar Bear Head
+
+entity.playerhead:wandering_trader.name=Wandering Trader Head
+item.spawn_egg.entity.playerhead:wandering_trader.name=Wandering Trader Head
+
+entity.playerhead:wither.name=Wither Head
+item.spawn_egg.entity.playerhead:wither.name=Wither Head
+
+entity.playerhead:light_gray_trader_llama.name=Light Gray Trader Llama Head
+item.spawn_egg.entity.playerhead:light_gray_trader_llama.name=Light Gray Trader Llama Head
+
+entity.playerhead:pillager.name=Pillager Head
+item.spawn_egg.entity.playerhead:pillager.name=Pillager Head
+
+entity.playerhead:light_gray_sheep.name=Light Gray Sheep Head
+item.spawn_egg.entity.playerhead:light_gray_sheep.name=Light Gray Sheep Head
+
+entity.playerhead:cyan_parrot.name=Cyan Parrot Head
+item.spawn_egg.entity.playerhead:cyan_parrot.name=Cyan Parrot Head
+
+entity.playerhead:weaponsmith_villager.name=Weaponsmith Villager Head
+item.spawn_egg.entity.playerhead:weaponsmith_villager.name=Weaponsmith Villager Head
+
+entity.playerhead:dolphin.name=Dolphin Head
+item.spawn_egg.entity.playerhead:dolphin.name=Dolphin Head
+
+entity.playerhead:stone_mason_zombie_villager.name=Stone Mason Zombie Villager Head
+item.spawn_egg.entity.playerhead:stone_mason_zombie_villager.name=Stone Mason Zombie Villager Head
+
+entity.playerhead:armorer_zombie_villager.name=Armorer Zombie Villager Head
+item.spawn_egg.entity.playerhead:armorer_zombie_villager.name=Armorer Zombie Villager Head
+
+entity.playerhead:snow_golem.name=Snow Golem Head
+item.spawn_egg.entity.playerhead:snow_golem.name=Snow Golem Head
+
+entity.playerhead:red_parrot.name=Red Parrot Head
+item.spawn_egg.entity.playerhead:red_parrot.name=Red Parrot Head
+
+entity.playerhead:green_parrot.name=Green Parrot Head
+item.spawn_egg.entity.playerhead:green_parrot.name=Green Parrot Head
+
+entity.playerhead:white_cat.name=White Cat Head
+item.spawn_egg.entity.playerhead:white_cat.name=White Cat Head
+
+entity.playerhead:vindicator.name=Vindicator Head
+item.spawn_egg.entity.playerhead:vindicator.name=Vindicator Head
+
+entity.playerhead:lime_sheep.name=Lime Sheep Head
+item.spawn_egg.entity.playerhead:lime_sheep.name=Lime Sheep Head
+
+entity.playerhead:guardian.name=Guardian Head
+item.spawn_egg.entity.playerhead:guardian.name=Guardian Head
+
+entity.playerhead:orange_sheep.name=Orange Sheep Head
+item.spawn_egg.entity.playerhead:orange_sheep.name=Orange Sheep Head
+
+entity.playerhead:shepherd_villager.name=Shepherd Villager Head
+item.spawn_egg.entity.playerhead:shepherd_villager.name=Shepherd Villager Head
+
+entity.playerhead:squid.name=Squid Head
+item.spawn_egg.entity.playerhead:squid.name=Squid Head
+
+entity.playerhead:chicken.name=Chicken Head
+item.spawn_egg.entity.playerhead:chicken.name=Chicken Head
+
+entity.playerhead:black_cat.name=Black Cat Head
+item.spawn_egg.entity.playerhead:black_cat.name=Black Cat Head
+
+entity.playerhead:slime.name=Slime Head
+item.spawn_egg.entity.playerhead:slime.name=Slime Head
+
+entity.playerhead:cartographer_villager.name=Cartographer Villager Head
+item.spawn_egg.entity.playerhead:cartographer_villager.name=Cartographer Villager Head
+
+entity.playerhead:persian_cat.name=Persian Cat Head
+item.spawn_egg.entity.playerhead:persian_cat.name=Persian Cat Head
+
+entity.playerhead:fisherman_villager.name=Fisherman Villager Head
+item.spawn_egg.entity.playerhead:fisherman_villager.name=Fisherman Villager Head
+
+entity.playerhead:endermite.name=Endermite Head
+item.spawn_egg.entity.playerhead:endermite.name=Endermite Head
+
+entity.playerhead:cow.name=Cow Head
+item.spawn_egg.entity.playerhead:cow.name=Cow Head
+
+entity.playerhead:cave_spider.name=Cave Spider Head
+item.spawn_egg.entity.playerhead:cave_spider.name=Cave Spider Head
+
+entity.playerhead:cod.name=Cod Head
+item.spawn_egg.entity.playerhead:cod.name=Cod Head
+
+entity.playerhead:panda.name=Panda Head
+item.spawn_egg.entity.playerhead:panda.name=Panda Head
+
+entity.playerhead:enderman.name=Enderman Head
+item.spawn_egg.entity.playerhead:enderman.name=Enderman Head
+
+entity.playerhead:gold_rabbit.name=Gold Rabbit Head
+item.spawn_egg.entity.playerhead:gold_rabbit.name=Gold Rabbit Head
+
+entity.playerhead:worried_panda.name=Worried Panda Head
+item.spawn_egg.entity.playerhead:worried_panda.name=Worried Panda Head
+
+entity.playerhead:donkey.name=Donkey Head
+item.spawn_egg.entity.playerhead:donkey.name=Donkey Head
+
+entity.playerhead:librarian_villager.name=Librarian Villager Head
+item.spawn_egg.entity.playerhead:librarian_villager.name=Librarian Villager Head
+
+entity.playerhead:unemployed_villager.name=Unemployed Villager Head
+item.spawn_egg.entity.playerhead:unemployed_villager.name=Unemployed Villager Head
+
+entity.playerhead:witch.name=Witch Head
+item.spawn_egg.entity.playerhead:witch.name=Witch Head
+
+entity.playerhead:black_rabbit.name=Black Rabbit Head
+item.spawn_egg.entity.playerhead:black_rabbit.name=Black Rabbit Head
+
+entity.playerhead:fletcher_villager.name=Fletcher Villager Head
+item.spawn_egg.entity.playerhead:fletcher_villager.name=Fletcher Villager Head
+
+entity.playerhead:piglin.name=Piglin Head
+item.spawn_egg.entity.playerhead:piglin.name=Piglin Head
+
+entity.playerhead:bee.name=Bee Head
+item.spawn_egg.entity.playerhead:bee.name=Bee Head
+
+entity.playerhead:brown_mooshroom.name=Brown Mooshroom Head
+item.spawn_egg.entity.playerhead:brown_mooshroom.name=Brown Mooshroom Head
+
+entity.playerhead:siamese_cat.name=Siamese Cat Head
+item.spawn_egg.entity.playerhead:siamese_cat.name=Siamese Cat Head
+
+entity.playerhead:snow_fox.name=Snow Fox Head
+item.spawn_egg.entity.playerhead:snow_fox.name=Snow Fox Head
+
+entity.playerhead:brown_llama.name=Brown Llama Head
+item.spawn_egg.entity.playerhead:brown_llama.name=Brown Llama Head
+
+entity.playerhead:orange_tabby_cat.name=Orange Tabby Cat Head
+item.spawn_egg.entity.playerhead:orange_tabby_cat.name=Orange Tabby Cat Head
+
+entity.playerhead:wolf.name=Wolf Head
+item.spawn_egg.entity.playerhead:wolf.name=Wolf Head
+
+entity.playerhead:hoglin.name=Hoglin Head
+item.spawn_egg.entity.playerhead:hoglin.name=Hoglin Head
+
+entity.playerhead:white_trader_llama.name=White Trader Llama Head
+item.spawn_egg.entity.playerhead:white_trader_llama.name=White Trader Llama Head
+
+entity.playerhead:aggressive_panda.name=Aggressive Panda Head
+item.spawn_egg.entity.playerhead:aggressive_panda.name=Aggressive Panda Head
+
+entity.playerhead:elder_guardian.name=Elder Guardian Head
+item.spawn_egg.entity.playerhead:elder_guardian.name=Elder Guardian Head
+
+entity.playerhead:jellie_cat.name=Jellie Cat Head
+item.spawn_egg.entity.playerhead:jellie_cat.name=Jellie Cat Head
+
+entity.playerhead:british_shorthair_cat.name=British Shorthair Cat Head
+item.spawn_egg.entity.playerhead:british_shorthair_cat.name=British Shorthair Cat Head
+
+entity.playerhead:chestnut_horse.name=Chestnut Horse Head
+item.spawn_egg.entity.playerhead:chestnut_horse.name=Chestnut Horse Head
+
+entity.playerhead:strider.name=Strider Head
+item.spawn_egg.entity.playerhead:strider.name=Strider Head
+
+entity.playerhead:light_gray_llama.name=Light Gray Llama Head
+item.spawn_egg.entity.playerhead:light_gray_llama.name=Light Gray Llama Head
+
+entity.playerhead:brown_horse.name=Brown Horse Head
+item.spawn_egg.entity.playerhead:brown_horse.name=Brown Horse Head
+
+entity.playerhead:ragdoll_cat.name=Ragdoll Cat Head
+item.spawn_egg.entity.playerhead:ragdoll_cat.name=Ragdoll Cat Head
+
+entity.playerhead:ocelot.name=Ocelot Head
+item.spawn_egg.entity.playerhead:ocelot.name=Ocelot Head
+
+entity.playerhead:stray.name=Stray Head
+item.spawn_egg.entity.playerhead:stray.name=Stray Head
+
+entity.playerhead:silverfish.name=Silverfish Head
+item.spawn_egg.entity.playerhead:silverfish.name=Silverfish Head
+
+entity.playerhead:gray_sheep.name=Gray Sheep Head
+item.spawn_egg.entity.playerhead:gray_sheep.name=Gray Sheep Head
+
+entity.playerhead:armorer_villager.name=Armorer Villager Head
+item.spawn_egg.entity.playerhead:armorer_villager.name=Armorer Villager Head
+
+entity.playerhead:zombified_piglin.name=Zombified Piglin Head
+item.spawn_egg.entity.playerhead:zombified_piglin.name=Zombified Piglin Head
+
+entity.playerhead:ghast.name=Ghast Head
+item.spawn_egg.entity.playerhead:ghast.name=Ghast Head
+
+entity.playerhead:invulnerable_wither.name=Invulnerable Wither Head
+item.spawn_egg.entity.playerhead:invulnerable_wither.name=Invulnerable Wither Head
+
+entity.playerhead:black_sheep.name=Black Sheep Head
+item.spawn_egg.entity.playerhead:black_sheep.name=Black Sheep Head
+
+entity.playerhead:blaze.name=Blaze Head
+item.spawn_egg.entity.playerhead:blaze.name=Blaze Head
+
+entity.playerhead:tropical_fish.name=Tropical Fish Head
+item.spawn_egg.entity.playerhead:tropical_fish.name=Tropical Fish Head
+
+entity.playerhead:phantom.name=Phantom Head
+item.spawn_egg.entity.playerhead:phantom.name=Phantom Head
+
+entity.playerhead:blue_parrot.name=Blue Parrot Head
+item.spawn_egg.entity.playerhead:blue_parrot.name=Blue Parrot Head
+
+entity.playerhead:pufferfish.name=Pufferfish Head
+item.spawn_egg.entity.playerhead:pufferfish.name=Pufferfish Head
+
+entity.playerhead:albino_rabbit.name=Albino Rabbit Head
+item.spawn_egg.entity.playerhead:albino_rabbit.name=Albino Rabbit Head
+
+entity.playerhead:husk.name=Husk Head
+item.spawn_egg.entity.playerhead:husk.name=Husk Head
+
+entity.playerhead:pink_sheep.name=Pink Sheep Head
+item.spawn_egg.entity.playerhead:pink_sheep.name=Pink Sheep Head
+
+entity.playerhead:brown_trader_llama.name=Brown Trader Llama Head
+item.spawn_egg.entity.playerhead:brown_trader_llama.name=Brown Trader Llama Head
+
+entity.playerhead:butcher_zombie_villager.name=Butcher Zombie Villager Head
+item.spawn_egg.entity.playerhead:butcher_zombie_villager.name=Butcher Zombie Villager Head
+
+entity.playerhead:white_sheep.name=White Sheep Head
+item.spawn_egg.entity.playerhead:white_sheep.name=White Sheep Head
+
+entity.playerhead:farmer_zombie_villager.name=Farmer Zombie Villager Head
+item.spawn_egg.entity.playerhead:farmer_zombie_villager.name=Farmer Zombie Villager Head
+
+entity.playerhead:cartographer_zombie_villager.name=Cartographer Zombie Villager Head
+item.spawn_egg.entity.playerhead:cartographer_zombie_villager.name=Cartographer Zombie Villager Head
+
+entity.playerhead:magenta_sheep.name=Magenta Sheep Head
+item.spawn_egg.entity.playerhead:magenta_sheep.name=Magenta Sheep Head
+
+entity.playerhead:pollinated_bee.name=Pollinated Bee Head
+item.spawn_egg.entity.playerhead:pollinated_bee.name=Pollinated Bee Head
+
+entity.playerhead:light_blue_sheep.name=Light Blue Sheep Head
+item.spawn_egg.entity.playerhead:light_blue_sheep.name=Light Blue Sheep Head
+
+entity.playerhead:mooshroom.name=Mooshroom Head
+item.spawn_egg.entity.playerhead:mooshroom.name=Mooshroom Head
+
+entity.playerhead:brown_rabbit.name=Brown Rabbit Head
+item.spawn_egg.entity.playerhead:brown_rabbit.name=Brown Rabbit Head
+
+entity.playerhead:stone_mason_villager.name=Stone Mason Villager Head
+item.spawn_egg.entity.playerhead:stone_mason_villager.name=Stone Mason Villager Head
+
+entity.playerhead:creamy_trader_llama.name=Creamy Trader Llama Head
+item.spawn_egg.entity.playerhead:creamy_trader_llama.name=Creamy Trader Llama Head
+
+entity.playerhead:brown_sheep.name=Brown Sheep Head
+item.spawn_egg.entity.playerhead:brown_sheep.name=Brown Sheep Head
+
+entity.playerhead:angry_bee.name=Angry Bee Head
+item.spawn_egg.entity.playerhead:angry_bee.name=Angry Bee Head
+
+entity.playerhead:bat.name=Bat Head
+item.spawn_egg.entity.playerhead:bat.name=Bat Head
+
+entity.playerhead:shepherd_zombie_villager.name=Shepherd Zombie Villager Head
+item.spawn_egg.entity.playerhead:shepherd_zombie_villager.name=Shepherd Zombie Villager Head
+
+entity.playerhead:gray_horse.name=Gray Horse Head
+item.spawn_egg.entity.playerhead:gray_horse.name=Gray Horse Head
+
+entity.playerhead:evoker.name=Evoker Head
+item.spawn_egg.entity.playerhead:evoker.name=Evoker Head
+
+entity.playerhead:zoglin.name=Zoglin Head
+item.spawn_egg.entity.playerhead:zoglin.name=Zoglin Head
+
+entity.playerhead:black_horse.name=Black Horse Head
+item.spawn_egg.entity.playerhead:black_horse.name=Black Horse Head
+
+entity.playerhead:cleric_villager.name=Cleric Villager Head
+item.spawn_egg.entity.playerhead:cleric_villager.name=Cleric Villager Head
+
+entity.playerhead:fox.name=Fox Head
+item.spawn_egg.entity.playerhead:fox.name=Fox Head
+
+entity.playerhead:playful_panda.name=Playful Panda Head
+item.spawn_egg.entity.playerhead:playful_panda.name=Playful Panda Head
+
+entity.playerhead:leatherworker_villager.name=Leatherworker Villager Head
+item.spawn_egg.entity.playerhead:leatherworker_villager.name=Leatherworker Villager Head
+
+entity.playerhead:weaponsmith_zombie_villager.name=Weaponsmith Zombie Villager Head
+item.spawn_egg.entity.playerhead:weaponsmith_zombie_villager.name=Weaponsmith Zombie Villager Head
+
+entity.playerhead:shulker.name=Shulker Head
+item.spawn_egg.entity.playerhead:shulker.name=Shulker Head
+
+entity.playerhead:nitwit_zombie_villager.name=Nitwit Zombie Villager Head
+item.spawn_egg.entity.playerhead:nitwit_zombie_villager.name=Nitwit Zombie Villager Head
+
+entity.playerhead:creamy_llama.name=Creamy Llama Head
+item.spawn_egg.entity.playerhead:creamy_llama.name=Creamy Llama Head
+
+entity.playerhead:weak_panda.name=Weak Panda Head
+item.spawn_egg.entity.playerhead:weak_panda.name=Weak Panda Head
+
+entity.playerhead:gray_parrot.name=Gray Parrot Head
+item.spawn_egg.entity.playerhead:gray_parrot.name=Gray Parrot Head
+
+entity.playerhead:iron_golem.name=Iron Golem Head
+item.spawn_egg.entity.playerhead:iron_golem.name=Iron Golem Head
+
+entity.playerhead:zombie_horse.name=Zombie Horse Head
+item.spawn_egg.entity.playerhead:zombie_horse.name=Zombie Horse Head
+
+entity.playerhead:pig.name=Pig Head
+item.spawn_egg.entity.playerhead:pig.name=Pig Head
+
+entity.playerhead:white_horse.name=White Horse Head
+item.spawn_egg.entity.playerhead:white_horse.name=White Horse Head
+
+entity.playerhead:lazy_panda.name=Lazy Panda Head
+item.spawn_egg.entity.playerhead:lazy_panda.name=Lazy Panda Head
+
+entity.playerhead:toolsmith_villager.name=Toolsmith Villager Head
+item.spawn_egg.entity.playerhead:toolsmith_villager.name=Toolsmith Villager Head
+
+entity.playerhead:leatherworker_zombie_villager.name=Leatherworker Zombie Villager Head
+item.spawn_egg.entity.playerhead:leatherworker_zombie_villager.name=Leatherworker Zombie Villager Head
+
+entity.playerhead:skeleton_horse.name=Skeleton Horse Head
+item.spawn_egg.entity.playerhead:skeleton_horse.name=Skeleton Horse Head
+
+entity.playerhead:fisherman_zombie_villager.name=Fisherman Zombie Villager Head
+item.spawn_egg.entity.playerhead:fisherman_zombie_villager.name=Fisherman Zombie Villager Head
+
+entity.playerhead:yellow_sheep.name=Yellow Sheep Head
+item.spawn_egg.entity.playerhead:yellow_sheep.name=Yellow Sheep Head
+
+entity.playerhead:jeb_sheep.name=jeb_ Sheep Head
+item.spawn_egg.entity.playerhead:jeb_sheep.name=jeb_ Sheep Head
+
+entity.playerhead:screaming_ghast.name=Screaming Ghast Head
+item.spawn_egg.entity.playerhead:screaming_ghast.name=Screaming Ghast Head
+
+entity.playerhead:green_sheep.name=Green Sheep Head
+item.spawn_egg.entity.playerhead:green_sheep.name=Green Sheep Head
+
+entity.playerhead:brown_panda.name=Brown Panda Head
+item.spawn_egg.entity.playerhead:brown_panda.name=Brown Panda Head
+
+entity.playerhead:fletcher_zombie_villager.name=Fletcher Zombie Villager Head
+item.spawn_egg.entity.playerhead:fletcher_zombie_villager.name=Fletcher Zombie Villager Head
+
+entity.playerhead:purple_sheep.name=Purple Sheep Head
+item.spawn_egg.entity.playerhead:purple_sheep.name=Purple Sheep Head
+
+entity.playerhead:angry_pollinated_bee.name=Angry Pollinated Bee Head
+item.spawn_egg.entity.playerhead:angry_pollinated_bee.name=Angry Pollinated Bee Head
+
+entity.playerhead:zombie_villager.name=Zombie Villager Head
+item.spawn_egg.entity.playerhead:zombie_villager.name=Zombie Villager Head
+
+entity.playerhead:mule.name=Mule Head
+item.spawn_egg.entity.playerhead:mule.name=Mule Head
+
+entity.playerhead:black_and_white_rabbit.name=Black and White Rabbit Head
+item.spawn_egg.entity.playerhead:black_and_white_rabbit.name=Black and White Rabbit Head
+
+entity.playerhead:coconut_drink.name=Coconut Drink
+item.spawn_egg.entity.playerhead:coconut_drink.name=Coconut Drink
+
+entity.playerhead:anchor_rope.name=Anchor Rope
+item.spawn_egg.entity.playerhead:anchor_rope.name=Anchor Rope
+
+entity.playerhead:nether_reactor_core.name=Nether Reactor Core
+item.spawn_egg.entity.playerhead:nether_reactor_core.name=Nether Reactor Core
+
+entity.playerhead:zombie_pigman.name=Zombie Pigman
+item.spawn_egg.entity.playerhead:zombie_pigman.name=Zombie Pigman
+
+entity.playerhead:legacy_stonecutter.name=Legacy Stonecutter
+item.spawn_egg.entity.playerhead:legacy_stonecutter.name=Legacy Stonecutter
+
+entity.playerhead:smiling_tiki_head.name=Smiling Tiki Head
+item.spawn_egg.entity.playerhead:smiling_tiki_head.name=Smiling Tiki Head
+
+entity.playerhead:conduit.name=Conduit
+item.spawn_egg.entity.playerhead:conduit.name=Conduit
+
+entity.playerhead:honeydew.name=Honeydew
+item.spawn_egg.entity.playerhead:honeydew.name=Honeydew
+
+entity.playerhead:berry_bush.name=Berry Bush
+item.spawn_egg.entity.playerhead:berry_bush.name=Berry Bush
+
+entity.playerhead:peach.name=Peach
+item.spawn_egg.entity.playerhead:peach.name=Peach
+
+entity.playerhead:green_apple.name=Green Apple
+item.spawn_egg.entity.playerhead:green_apple.name=Green Apple
+
+entity.playerhead:yellow_pepper.name=Yellow Pepper
+item.spawn_egg.entity.playerhead:yellow_pepper.name=Yellow Pepper
+
+entity.playerhead:potato.name=Potato
+item.spawn_egg.entity.playerhead:potato.name=Potato
+
+entity.playerhead:corn.name=Corn
+item.spawn_egg.entity.playerhead:corn.name=Corn
+
+entity.playerhead:purple_grapes.name=Purple Grapes
+item.spawn_egg.entity.playerhead:purple_grapes.name=Purple Grapes
+
+entity.playerhead:coconut.name=Coconut
+item.spawn_egg.entity.playerhead:coconut.name=Coconut
+
+entity.playerhead:pineapple.name=Pineapple
+item.spawn_egg.entity.playerhead:pineapple.name=Pineapple
+
+entity.playerhead:cactus.name=Cactus
+item.spawn_egg.entity.playerhead:cactus.name=Cactus
+
+entity.playerhead:cantaloupe.name=Cantaloupe
+item.spawn_egg.entity.playerhead:cantaloupe.name=Cantaloupe
+
+entity.playerhead:mango.name=Mango
+item.spawn_egg.entity.playerhead:mango.name=Mango
+
+entity.playerhead:onion.name=Onion
+item.spawn_egg.entity.playerhead:onion.name=Onion
+
+entity.playerhead:cocoa_bean.name=Cocoa Bean
+item.spawn_egg.entity.playerhead:cocoa_bean.name=Cocoa Bean
+
+entity.playerhead:sugarcane.name=Sugarcane
+item.spawn_egg.entity.playerhead:sugarcane.name=Sugarcane
+
+entity.playerhead:barrel_of_apples.name=Barrel of Apples
+item.spawn_egg.entity.playerhead:barrel_of_apples.name=Barrel of Apples
+
+entity.playerhead:orange.name=Orange
+item.spawn_egg.entity.playerhead:orange.name=Orange
+
+entity.playerhead:apple.name=Apple
+item.spawn_egg.entity.playerhead:apple.name=Apple
+
+entity.playerhead:pear.name=Pear
+item.spawn_egg.entity.playerhead:pear.name=Pear
+
+entity.playerhead:green_grapes.name=Green Grapes
+item.spawn_egg.entity.playerhead:green_grapes.name=Green Grapes
+
+entity.playerhead:chorus_fruit.name=Chorus Fruit
+item.spawn_egg.entity.playerhead:chorus_fruit.name=Chorus Fruit
+
+entity.playerhead:green_pepper.name=Green Pepper
+item.spawn_egg.entity.playerhead:green_pepper.name=Green Pepper
+
+entity.playerhead:red_pepper.name=Red Pepper
+item.spawn_egg.entity.playerhead:red_pepper.name=Red Pepper
+
+entity.playerhead:fruit_basket.name=Fruit Basket
+item.spawn_egg.entity.playerhead:fruit_basket.name=Fruit Basket
+
+entity.playerhead:lemon.name=Lemon
+item.spawn_egg.entity.playerhead:lemon.name=Lemon
+
+entity.playerhead:beetroot.name=Beetroot
+item.spawn_egg.entity.playerhead:beetroot.name=Beetroot
+
+entity.playerhead:lettuce.name=Lettuce
+item.spawn_egg.entity.playerhead:lettuce.name=Lettuce
+
+entity.playerhead:bunch_of_bananas.name=Bunch of Bananas
+item.spawn_egg.entity.playerhead:bunch_of_bananas.name=Bunch of Bananas
+
+entity.playerhead:sea_pickles.name=Sea Pickles
+item.spawn_egg.entity.playerhead:sea_pickles.name=Sea Pickles
+
+entity.playerhead:carrots.name=Carrots
+item.spawn_egg.entity.playerhead:carrots.name=Carrots
+
+entity.playerhead:bamboo.name=Bamboo
+item.spawn_egg.entity.playerhead:bamboo.name=Bamboo
+

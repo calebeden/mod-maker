@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Overhang Tweaks Pack v0.1.0",
+        "name": "Xisuma Hermitcraft Season 1 Panorama",
+        "uuid": "49fc1b0d-3d8e-4edd-993e-de1113f7a78d",
+        "version": [0, 1, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Overhang Tweaks Pack v0.1.0",
+            "type": "resources",
+            "uuid": "141957d0-b41e-4e64-9147-598c7dc0bb0c",
+            "version": [0, 1, 0]
+        }
+    ],
+    "subpacks": [
+   ]
+}

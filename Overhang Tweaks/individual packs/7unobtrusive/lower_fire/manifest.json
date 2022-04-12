@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Overhang Tweaks Pack v0.1.0",
+        "name": "Lower Fire",
+        "uuid": "4199c3de-4f5c-46b7-889a-022c7f029a6a",
+        "version": [0, 1, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Overhang Tweaks Pack v0.1.0",
+            "type": "resources",
+            "uuid": "12d65927-4dbe-4199-8a86-c4173b2e718b",
+            "version": [0, 1, 0]
+        }
+    ],
+    "subpacks": [
+   ]
+}

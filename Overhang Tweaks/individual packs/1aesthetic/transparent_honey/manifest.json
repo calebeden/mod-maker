@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Overhang Tweaks Pack v0.1.0",
+        "name": "Transparent Honey",
+        "uuid": "8ac1f923-2795-4db8-9a88-18c094adf645",
+        "version": [0, 1, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Overhang Tweaks Pack v0.1.0",
+            "type": "resources",
+            "uuid": "82295038-d0d5-45a2-a04c-7598de99954a",
+            "version": [0, 1, 0]
+        }
+    ],
+    "subpacks": [
+   ]
+}

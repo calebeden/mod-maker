@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Overhang Tweaks Pack v0.1.0",
+        "name": "Smoother Oak Log",
+        "uuid": "824f625c-3def-46df-8ae2-172446c566bc",
+        "version": [0, 1, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Overhang Tweaks Pack v0.1.0",
+            "type": "resources",
+            "uuid": "7610202f-d37b-4e20-b5b7-ad79a37d93d6",
+            "version": [0, 1, 0]
+        }
+    ],
+    "subpacks": [
+   ]
+}

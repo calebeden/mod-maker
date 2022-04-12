@@ -1,0 +1,26 @@
+{
+	"format_version": "1.10.0",
+	"animation_controllers": {
+		"controller.animation.fnt.sit": {
+			"states": {
+				"default": {
+					"transitions": [
+						{
+							"sitting": "query.can_fly == 1"
+						}
+					]
+				},
+				"sitting": {
+					"animations": [
+						"sitting"
+					],
+					"transitions": [
+						{
+							"default": "query.can_fly != 1"
+						}
+					]
+				}
+			}
+		}
+	}
+}

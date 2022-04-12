@@ -1,0 +1,197 @@
+{
+	"format_version" : "1.8.0",
+	"animations" : {
+		"animation.fnt.rotateX_0" : {
+			"loop" : true,
+			"bones" : {
+				"waist" : {
+					"rotation" : [ 0.0, 0.0, 0.0 ]
+				}
+			}
+		},
+		"animation.fnt.rotateX_15" : {
+			"loop" : true,
+			"bones" : {
+				"waist" : {
+					"rotation" : [ 15.0, 0.0, 0.0 ]
+				}
+			}
+		},
+		"animation.fnt.rotateX_30" : {
+			"loop" : true,
+			"bones" : {
+				"waist" : {
+					"rotation" : [ 30.0, 0.0, 0.0 ]
+				}
+			}
+		},
+		"animation.fnt.rotateX_45" : {
+			"loop" : true,
+			"bones" : {
+				"waist" : {
+					"rotation" : [ 45.0, 0.0, 0.0 ]
+				}
+			}
+		},
+		"animation.fnt.rotateX_60" : {
+			"loop" : true,
+			"bones" : {
+				"waist" : {
+					"rotation" : [ 60.0, 0.0, 0.0 ]
+				}
+			}
+		},
+		"animation.fnt.rotateX_75" : {
+			"loop" : true,
+			"bones" : {
+				"waist" : {
+					"rotation" : [ 75.0, 0.0, 0.0 ]
+				}
+			}
+		},
+		"animation.fnt.rotateX_90" : {
+			"loop" : true,
+			"bones" : {
+				"waist" : {
+					"rotation" : [ 90.0, 0.0, 0.0 ]
+				}
+			}
+		},
+		"animation.fnt.rotateX_105" : {
+			"loop" : true,
+			"bones" : {
+				"waist" : {
+					"rotation" : [ 105.0, 0.0, 0.0 ]
+				}
+			}
+		},
+		"animation.fnt.rotateX_120" : {
+			"loop" : true,
+			"bones" : {
+				"waist" : {
+					"rotation" : [ 120.0, 0.0, 0.0 ]
+				}
+			}
+		},
+		"animation.fnt.rotateX_135" : {
+			"loop" : true,
+			"bones" : {
+				"waist" : {
+					"rotation" : [ 135.0, 0.0, 0.0 ]
+				}
+			}
+		},
+		"animation.fnt.rotateX_150" : {
+			"loop" : true,
+			"bones" : {
+				"waist" : {
+					"rotation" : [ 150.0, 0.0, 0.0 ]
+				}
+			}
+		},
+		"animation.fnt.rotateX_165" : {
+			"loop" : true,
+			"bones" : {
+				"waist" : {
+					"rotation" : [ 165.0, 0.0, 0.0 ]
+				}
+			}
+		},
+		"animation.fnt.rotateX_180" : {
+			"loop" : true,
+			"bones" : {
+				"waist" : {
+					"rotation" : [ 180.0, 0.0, 0.0 ]
+				}
+			}
+		},
+		"animation.fnt.rotateX_195" : {
+			"loop" : true,
+			"bones" : {
+				"waist" : {
+					"rotation" : [ 195, 0.0, 0.0 ]
+				}
+			}
+		},
+		"animation.fnt.rotateX_210" : {
+			"loop" : true,
+			"bones" : {
+				"waist" : {
+					"rotation" : [ 210.0, 0.0, 0.0 ]
+				}
+			}
+		},
+		"animation.fnt.rotateX_225" : {
+			"loop" : true,
+			"bones" : {
+				"waist" : {
+					"rotation" : [ 225.0, 0.0, 0.0 ]
+				}
+			}
+		},
+		"animation.fnt.rotateX_240" : {
+			"loop" : true,
+			"bones" : {
+				"waist" : {
+					"rotation" : [ 240.0, 0.0, 0.0 ]
+				}
+			}
+		},
+		"animation.fnt.rotateX_255" : {
+			"loop" : true,
+			"bones" : {
+				"waist" : {
+					"rotation" : [ 255.0, 0.0, 0.0 ]
+				}
+			}
+		},
+		"animation.fnt.rotateX_270" : {
+			"loop" : true,
+			"bones" : {
+				"waist" : {
+					"rotation" : [ 270.0, 0.0, 0.0 ]
+				}
+			}
+		},
+		"animation.fnt.rotateX_285" : {
+			"loop" : true,
+			"bones" : {
+				"waist" : {
+					"rotation" : [ 285.0, 0.0, 0.0 ]
+				}
+			}
+		},
+		"animation.fnt.rotateX_300" : {
+			"loop" : true,
+			"bones" : {
+				"waist" : {
+					"rotation" : [ 300.0, 0.0, 0.0 ]
+				}
+			}
+		},
+		"animation.fnt.rotateX_315" : {
+			"loop" : true,
+			"bones" : {
+				"waist" : {
+					"rotation" : [ 315.0, 0.0, 0.0 ]
+				}
+			}
+		},
+		"animation.fnt.rotateX_330" : {
+			"loop" : true,
+			"bones" : {
+				"waist" : {
+					"rotation" : [ 330.0, 0.0, 0.0 ]
+				}
+			}
+		},
+		"animation.fnt.rotateX_345" : {
+			"loop" : true,
+			"bones" : {
+				"waist" : {
+					"rotation" : [ 345.0, 0.0, 0.0 ]
+				}
+			}
+		}
+	}
+}

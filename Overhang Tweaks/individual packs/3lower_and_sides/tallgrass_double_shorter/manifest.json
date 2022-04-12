@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Overhang Tweaks Standalone Pack v0.1.0",
+        "name": "Shorter Tall Grass",
+        "uuid": "2d776761-1b2e-4625-a8e9-c7cc39c3c5c0",
+        "version": [0, 1, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Overhang Tweaks Standalone Pack v0.1.0",
+            "type": "resources",
+            "uuid": "2ecbc866-cb9b-43bd-b591-04dc8f52cd8b",
+            "version": [0, 1, 0]
+        }
+    ],
+    "subpacks": [
+   ]
+}

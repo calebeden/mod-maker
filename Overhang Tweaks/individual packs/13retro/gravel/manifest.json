@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Overhang Tweaks Pack v0.1.0",
+        "name": "Old Gravel",
+        "uuid": "545efcfc-03d4-4871-a1f4-e779e1eb557c",
+        "version": [0, 1, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Overhang Tweaks Pack v0.1.0",
+            "type": "resources",
+            "uuid": "113f9fb6-5dab-4f67-a557-879b64060cac",
+            "version": [0, 1, 0]
+        }
+    ],
+    "subpacks": [
+   ]
+}

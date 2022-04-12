@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Helmet Stand resource pack v 0.0.1",
+        "name": "Helmet Stand",
+        "uuid": "2da46ba9-b8da-4f9f-b829-d93dc2b53f72",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 16, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Helmet Stand resource pack v 0.0.1",
+            "type": "resources",
+            "uuid": "96965b92-54cb-4bcc-b9f7-78d49bac4576",
+            "version": [0, 0, 1]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Overhang Tweaks Pack v0.1.0",
+        "name": "Solid Slime",
+        "uuid": "cc8e2742-b06c-4dcf-b909-fc328a19d37e",
+        "version": [0, 1, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Overhang Tweaks Pack v0.1.0",
+            "type": "resources",
+            "uuid": "cfe92e6a-78be-42ca-9944-6009e4213db8",
+            "version": [0, 1, 0]
+        }
+    ],
+    "subpacks": [
+   ]
+}

@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Overhang Tweaks Pack v0.1.0",
+        "name": "Cyan Slime",
+        "uuid": "c367f007-544c-4a7d-be57-dce47f5428a6",
+        "version": [0, 1, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Overhang Tweaks Pack v0.1.0",
+            "type": "resources",
+            "uuid": "36f91bd2-aafb-4b06-b748-367980fe8ca9",
+            "version": [0, 1, 0]
+        }
+    ],
+    "subpacks": [
+   ]
+}

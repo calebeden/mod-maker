@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Overhang Tweaks Pack v0.1.0",
+        "name": "Uniform Ores",
+        "uuid": "01e91d8a-e466-496c-854d-0f1a0b89ca59",
+        "version": [0, 1, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Overhang Tweaks Pack v0.1.0",
+            "type": "resources",
+            "uuid": "7eb1c839-b1b4-474e-9124-b1ee103cfdde",
+            "version": [0, 1, 0]
+        }
+    ],
+    "subpacks": [
+   ]
+}

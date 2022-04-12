@@ -1,0 +1,9 @@
+{
+"liquid.water": {
+  "category": "block",
+  "sounds": [
+    {"name": "sounds/liquid/water",
+    "volume": 0.5}
+  ]
+}
+}

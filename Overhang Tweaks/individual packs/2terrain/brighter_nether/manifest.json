@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Overhang Tweaks Pack v0.1.0",
+        "name": "Brighter Nether",
+        "uuid": "dd7971a8-083d-4fa4-b125-ac20c714b719",
+        "version": [0, 1, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Overhang Tweaks Pack v0.1.0",
+            "type": "resources",
+            "uuid": "dfa440c3-a2ff-47e4-b6cf-5b1025806fc5",
+            "version": [0, 1, 0]
+        }
+    ],
+    "subpacks": [
+   ]
+}

@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Overhang Tweaks Pack v0.1.0",
+        "name": "Wither Bee",
+        "uuid": "264338a4-ca06-4712-b218-36e388b65983",
+        "version": [0, 1, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Overhang Tweaks Pack v0.1.0",
+            "type": "resources",
+            "uuid": "4a90f3dd-c83b-426a-9c49-2a35196456af",
+            "version": [0, 1, 0]
+        }
+    ],
+    "subpacks": [
+   ]
+}
