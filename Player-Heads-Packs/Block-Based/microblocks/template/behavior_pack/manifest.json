@@ -1,0 +1,24 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Microblocks behavior pack v2 0.0.1",
+        "name": "Microblocks",
+        "uuid": "c50c86c5-4f86-483d-bb9c-38ce154fe7d3",
+        "version": [0, 0, 1],
+        "min_engine_version": [1, 16, 0]
+    },
+    "modules": [
+        {
+	    "description": "Microblocks behavior pack v2 0.0.1",
+            "type": "data",
+            "uuid": "40ef0bbf-2b2c-4095-a365-0664b342b7fd",
+            "version": [0, 0, 1]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "500a051a-e666-4089-8127-7524e428fd90",
+            "version": [0, 0, 1]
+        }
+    ]
+}
