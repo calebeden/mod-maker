@@ -101,11 +101,12 @@ class Microblock(PlayerHead):
 
 class Person(PlayerHead):
     def __init__(self, filename):
+        self.__name = filename[:-4]
         super().__init__(filename, "item.mrc:lower_head=template's Head\n")
 
     @property
     def human_readable(self):
-        return self._item_name.replace('_', ' ').title().replace(' Of ', ' of ').replace(' And ', ' and ')
+        return self.__name
 
     def copy_texture(self):
         copy('skins/people/' + self._filename,
