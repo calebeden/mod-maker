@@ -1,0 +1,24 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Microblocks resource pack by MrCraftable",
+        "name": "Microblocks by MrCraftable",
+        "uuid": "F81376BE-155C-4D36-A590-3D53CEA3012C",
+        "version": [0, 0, 0],
+        "min_engine_version": [ 1, 16, 100 ]
+    },
+    "modules": [
+        {
+            "description": "Microblocks resource pack by MrCraftable",
+            "type": "resources",
+            "uuid": "F4B729E8-2C8A-4EDD-B560-1B43EB750C57",
+            "version": [0, 0, 0]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "EA24DD03-C237-4979-8256-1098D6D23BE3",
+            "version": [0, 0, 0]
+        }
+    ]
+}
