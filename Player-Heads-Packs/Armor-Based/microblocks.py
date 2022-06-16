@@ -94,7 +94,7 @@ def package_addon():
 
 
 def main():
-    chdir('C:/Users/ceden/Documents/Software Development/Python/Overhang Tweaks/Player-Heads-Packs/New-Armor-Based/microblocks')
+    chdir('C:/Users/ceden/Documents/Software Development/Python/Overhang Tweaks/Player-Heads-Packs/Armor-Based/microblocks')
     setup_folders()
     generate_manifests()
 
