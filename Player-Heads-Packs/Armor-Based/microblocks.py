@@ -50,9 +50,13 @@ def setup_folders():
 def generate_manifests():
     with open('../version.json', 'r') as infile:
         version = json.load(infile)
+    version_string = '.'.join(str(x) for x in version)
+    
     with open('../template/resource_pack/microblock_manifest.json', 'r') as infile:
         resource_manifest = json.load(infile)
+    resource_manifest['header']['description'] += version_string
     resource_manifest['header']['version'] = version
+    resource_manifest['modules'][0]['description'] += version_string
     resource_manifest['modules'][0]['version'] = version
     resource_manifest['dependencies'][0]['version'] = version
     with open('in_progress/resource_pack/manifest.json', 'w') as outfile:
@@ -60,7 +64,9 @@ def generate_manifests():
 
     with open('../template/behavior_pack/microblock_manifest.json', 'r') as infile:
         behavior_manifest = json.load(infile)
+    behavior_manifest['header']['description'] += version_string
     behavior_manifest['header']['version'] = version
+    behavior_manifest['modules'][0]['description'] += version_string
     behavior_manifest['modules'][0]['version'] = version
     behavior_manifest['dependencies'][0]['version'] = version
     with open('in_progress/behavior_pack/manifest.json', 'w') as outfile:
