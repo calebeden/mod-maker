@@ -1,0 +1,110 @@
+{
+	"num_to_select": 1,
+	"trades": [
+		{
+			"max_uses": 3,
+			"wants": [
+				{
+					"item": "minecraft:diamond",
+					"quantity": 1
+				}
+			],
+			"gives": [
+				{
+					"item": "mrc:calebtechnology_head",
+					"quantity": 1
+				}
+			]
+		},
+		{
+			"max_uses": 3,
+			"wants": [
+				{
+					"item": "minecraft:diamond",
+					"quantity": 1
+				}
+			],
+			"gives": [
+				{
+					"item": "mrc:christmascrepr_head",
+					"quantity": 1
+				}
+			]
+		},
+		{
+			"max_uses": 3,
+			"wants": [
+				{
+					"item": "minecraft:diamond",
+					"quantity": 1
+				}
+			],
+			"gives": [
+				{
+					"item": "mrc:kitkatooderpz_head",
+					"quantity": 1
+				}
+			]
+		},
+		{
+			"max_uses": 3,
+			"wants": [
+				{
+					"item": "minecraft:diamond",
+					"quantity": 1
+				}
+			],
+			"gives": [
+				{
+					"item": "mrc:lumbo_head",
+					"quantity": 1
+				}
+			]
+		},
+		{
+			"max_uses": 3,
+			"wants": [
+				{
+					"item": "minecraft:diamond",
+					"quantity": 1
+				}
+			],
+			"gives": [
+				{
+					"item": "mrc:mrcraftable_head",
+					"quantity": 1
+				}
+			]
+		},
+		{
+			"max_uses": 3,
+			"wants": [
+				{
+					"item": "minecraft:diamond",
+					"quantity": 1
+				}
+			],
+			"gives": [
+				{
+					"item": "mrc:xanmangman_head",
+					"quantity": 1
+				}
+			]
+		},
+		{
+			"max_uses": 3,
+			"wants": [
+				{
+					"item": "minecraft:diamond",
+					"quantity": 1
+				}
+			],
+			"gives": [
+				{
+					"item": "mrc:yellowguy8_head",
+					"quantity": 1
+				}
+			]
+		}
+	]
+}

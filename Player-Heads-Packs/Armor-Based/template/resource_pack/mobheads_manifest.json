@@ -1,7 +1,7 @@
 {
     "format_version": 2,
     "header": {
-        "description": "Mob Heads resource pack by MrCraftable",
+        "description": "Mob Heads resource pack by MrCraftable v",
         "name": "Mob Heads by MrCraftable",
         "uuid": "BAAF847F-3EA3-4682-97F5-29DB9C348D04",
         "version": [0, 0, 0],
@@ -9,7 +9,7 @@
     },
     "modules": [
         {
-            "description": "Mob Heads resource pack by MrCraftable",
+            "description": "Mob Heads resource pack by MrCraftable v",
             "type": "resources",
             "uuid": "FC45DA87-E9F4-4C14-894D-DFBB4F030C79",
             "version": [0, 0, 0]

@@ -1,7 +1,7 @@
 {
     "format_version": 2,
     "header": {
-        "description": "Microblocks behavior pack by MrCraftable",
+        "description": "Microblocks behavior pack by MrCraftable v",
         "name": "Microblocks by MrCraftable",
         "uuid": "EA24DD03-C237-4979-8256-1098D6D23BE3",
         "version": [0, 0, 0],
@@ -9,7 +9,7 @@
     },
     "modules": [
         {
-            "description": "Microblocks behavior pack by MrCraftable",
+            "description": "Microblocks behavior pack by MrCraftable v",
             "type": "data",
             "uuid": "C3DCAC1A-A3E5-4188-8419-4861209EC2A1",
             "version": [0, 0, 0]
