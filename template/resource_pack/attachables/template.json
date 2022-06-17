@@ -14,12 +14,7 @@
       "geometry": {
         "default": "geometry.mrc_player_head"
       },
-      "scripts": {
-        "parent_setup": "variable.chest_layer_visible = 0.0;"
-      },
-      "render_controllers": [
-        "controller.render.armor"
-      ]
+      "render_controllers": [ "controller.render.armor" ]
     }
   }
 }
