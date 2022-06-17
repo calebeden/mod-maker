@@ -100,7 +100,6 @@ def package_addon():
 
 
 def main():
-    chdir('C:/Users/ceden/Documents/Software Development/Python/Overhang Tweaks/Player-Heads-Packs/Armor-Based')
     setup_folders()
     generate_manifests()
 
