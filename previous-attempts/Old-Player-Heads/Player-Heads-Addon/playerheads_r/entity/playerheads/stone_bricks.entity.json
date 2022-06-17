@@ -1,1 +1,0 @@
-{"format_version": "1.10.0", "minecraft:client_entity": {"description": {"materials": {"default": "skeleton"}, "geometry": {"default": "geometry.playerhead"}, "render_controllers": ["controller.render.skeleton"], "spawn_egg": {"texture": "spawn_stone_bricks"}, "identifier": "playerhead:stone_bricks", "textures": {"default": "textures/entity/playerheads/stone_bricks"}}}}
