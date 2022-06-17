@@ -1,0 +1,41 @@
+{
+    "pools": [
+{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "loot_table",
+					"name": "loot_tables/entities/vanilla_loot/vindication_illager.json"
+				}
+			]
+		},
+{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "loot_table",
+					"name": "loot_tables/entities/vanilla_loot/raider_drops.json"
+				}
+			]
+		},
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "loot_table",
+					"name": "loot_tables/entities/playerheads/vindicator.json"
+				}
+			],
+			"conditions": [
+                {
+                    "condition": "killed_by_player"
+                },
+                {
+                    "condition": "random_chance_with_looting",
+                    "chance": 0.055,
+                    "looting_multiplier": 0.015
+                }
+            ]
+		}
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Mob Heads resource pack v. 0.5.2",
+        "name": "Mob Heads",
+        "uuid": "2e549f38-290a-49cd-8a2c-3c6884530e60",
+        "version": [0, 5, 2],
+        "min_engine_version": [ 1, 16, 2 ]
+    },
+    "modules": [
+        {
+            "description": "Mob Heads resource pack v. 0.5.2",
+            "type": "resources",
+            "uuid": "050d27da-aaac-4c98-be02-0bc0f0e7dbb6",
+            "version": [0, 5, 2]
+        }
+    ]
+}
