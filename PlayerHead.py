@@ -37,16 +37,6 @@ class PlayerHead:
         with open(path.join(self._directory, 'resource_pack/attachables/mrc_' + self._item_name + '_head.json'), 'w') as outfile:
             json.dump(attachable_json, outfile)
 
-        # with open('../template/resource_pack/attachables/render/template.player.json', 'r') as infile:
-        #     armor_json = json.load(infile)
-        # armor_json['minecraft:attachable']['description']['identifier'] = "mrc:" + \
-        #     self._item_name + "_head.player"
-        # armor_json['minecraft:attachable']['description']['item'] = {
-        #     "mrc:" + self._item_name: "query.owner_identifier == 'minecraft:player'"}
-        # armor_json['minecraft:attachable']['description']['textures']['default'] = 'textures/models/mrc_heads/' + self._item_name
-        # with open('in_progress/resource_pack/attachables/render/mrc_' + self._item_name + '_head.player.json', 'w') as outfile:
-        #     json.dump(armor_json, outfile)
-
     def generate_item_texture(self, item_texture_json):
         image = Image.open(path.join(
             self._directory, 'resource_pack/textures/models/mrc_heads', self._filename))
