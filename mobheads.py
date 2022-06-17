@@ -4,9 +4,9 @@
 # Created on Wed Jun 15 2022
 ###########################################
 
-from os import mkdir, walk, rename, chdir
+from os import mkdir, walk, chdir
 from os.path import join
-from shutil import copy, rmtree
+from shutil import copy, rmtree, move
 from zipfile import ZipFile
 import json
 from PlayerHead import Mob
@@ -25,7 +25,6 @@ def setup_folders():
     mkdir('Mob Heads Addon')
     mkdir('Mob Heads Addon/resource_pack')
     mkdir('Mob Heads Addon/resource_pack/attachables')
-    mkdir('Mob Heads Addon/resource_pack/attachables/render')
     mkdir('Mob Heads Addon/resource_pack/texts')
     mkdir('Mob Heads Addon/resource_pack/textures')
     mkdir('Mob Heads Addon/resource_pack/textures/items')
@@ -74,27 +73,36 @@ def generate_manifests():
 
 
 def package_addon():
-    rename('Mob Heads Addon/behavior_pack', 'Mob Heads Addon/mobheads_b')
-    with ZipFile('Mob Heads Addon/mobheads_b.mcpack', 'w') as archive:
-        for subdir, dirs, files in walk('mobheads_b'):
+    chdir('Mob Heads Addon')
+    with ZipFile('Mob Heads.mcaddon', 'w') as archive:
+        for subdir, dirs, files in walk('behavior_pack'):
             for file in files:
                 filepath = join(subdir, file)
                 archive.write(filepath)
-    rename('Mob Heads Addon/resource_pack', 'Mob Heads Addon/mobheads_r')
-    with ZipFile('Mob Heads Addon/mobheads_r.mcpack', 'w') as archive:
-        for subdir, dirs, files in walk('Mob Heads Addon/mobheads_r'):
+        for subdir, dirs, files in walk('resource_pack'):
             for file in files:
                 filepath = join(subdir, file)
                 archive.write(filepath)
-    with ZipFile('Mob Heads Addon/mobheads.mcaddon', 'w') as archive:
-        for subdir, dirs, files in walk('Mob Heads Addon/mobheads_b'):
+
+    chdir('behavior_pack')
+    with ZipFile('Mob Heads Behavior.mcpack', 'w') as archive:
+        for subdir, dirs, files in walk('./'):
             for file in files:
-                filepath = join(subdir, file)
-                archive.write(filepath)
-        for subdir, dirs, files in walk('Mob Heads Addon/mobheads_r'):
+                if not file.endswith('.mcpack'):
+                    filepath = join(subdir, file)
+                    archive.write(filepath)
+    chdir('../')
+    move('behavior_pack/Mob Heads Behavior.mcpack', 'Mob Heads Behavior.mcpack')
+
+    chdir('resource_pack')
+    with ZipFile('Mob Heads Resource.mcpack', 'w') as archive:
+        for subdir, dirs, files in walk('./'):
             for file in files:
-                filepath = join(subdir, file)
-                archive.write(filepath)
+                if not file.endswith('.mcpack'):
+                    filepath = join(subdir, file)
+                    archive.write(filepath)
+    chdir('../')
+    move('resource_pack/Mob Heads Resource.mcpack', 'Mob Heads Recource.mcpack')
 
 
 def main():

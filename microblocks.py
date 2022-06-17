@@ -4,9 +4,9 @@
 # Created on Wed Jun 15 2022
 ###########################################
 
-from os import mkdir, walk, rename, chdir
+from os import mkdir, walk, chdir
 from os.path import join
-from shutil import copy, rmtree
+from shutil import copy, rmtree, move
 from zipfile import ZipFile
 import json
 from PlayerHead import Microblock, Person, Custom
@@ -21,7 +21,6 @@ def setup_folders():
     mkdir('Microblocks Addon')
     mkdir('Microblocks Addon/resource_pack')
     mkdir('Microblocks Addon/resource_pack/attachables')
-    mkdir('Microblocks Addon/resource_pack/attachables/render')
     mkdir('Microblocks Addon/resource_pack/texts')
     mkdir('Microblocks Addon/resource_pack/textures')
     mkdir('Microblocks Addon/resource_pack/textures/items')
@@ -70,29 +69,37 @@ def generate_manifests():
 
 
 def package_addon():
-    rename('Microblocks Addon/behavior_pack',
-           'Microblocks Addon/microblocks_b')
-    with ZipFile('Microblocks Addon/microblocks_b.mcpack', 'w') as archive:
-        for subdir, dirs, files in walk('Microblocks Addon/microblocks_b'):
+    chdir('Microblocks Addon')
+    with ZipFile('Microblocks.mcaddon', 'w') as archive:
+        for subdir, dirs, files in walk('behavior_pack'):
             for file in files:
                 filepath = join(subdir, file)
                 archive.write(filepath)
-    rename('Microblocks Addon/resource_pack',
-           'Microblocks Addon/microblocks_r')
-    with ZipFile('Microblocks Addon/microblocks_r.mcpack', 'w') as archive:
-        for subdir, dirs, files in walk('Microblocks Addon/microblocks_r'):
+        for subdir, dirs, files in walk('resource_pack'):
             for file in files:
                 filepath = join(subdir, file)
                 archive.write(filepath)
-    with ZipFile('Microblocks Addon/microblocks.mcaddon', 'w') as archive:
-        for subdir, dirs, files in walk('Microblocks Addon/microblocks_b'):
+
+    chdir('behavior_pack')
+    with ZipFile('Microblocks Behavior.mcpack', 'w') as archive:
+        for subdir, dirs, files in walk('./'):
             for file in files:
-                filepath = join(subdir, file)
-                archive.write(filepath)
-        for subdir, dirs, files in walk('Microblocks Addon/microblocks_r'):
+                if not file.endswith('.mcpack'):
+                    filepath = join(subdir, file)
+                    archive.write(filepath)
+    chdir('../')
+    move('behavior_pack/Microblocks Behavior.mcpack', 'Microblocks Behavior.mcpack')
+
+    chdir('resource_pack')
+    with ZipFile('Microblocks Resource.mcpack', 'w') as archive:
+        for subdir, dirs, files in walk('./'):
             for file in files:
-                filepath = join(subdir, file)
-                archive.write(filepath)
+                if not file.endswith('.mcpack'):
+                    filepath = join(subdir, file)
+                    archive.write(filepath)
+    chdir('../')
+    move('resource_pack/Microblocks Resource.mcpack', 'Microblocks Recource.mcpack')
+    
 
 
 def main():
