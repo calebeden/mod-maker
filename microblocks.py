@@ -98,7 +98,8 @@ def package_addon():
                     filepath = join(subdir, file)
                     archive.write(filepath)
     chdir('../')
-    move('resource_pack/Microblocks Resource.mcpack', 'Microblocks Recource.mcpack')
+    move('resource_pack/Microblocks Resource.mcpack', 'Microblocks Resource.mcpack')
+    chdir('../')
     
 
 

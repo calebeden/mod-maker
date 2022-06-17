@@ -102,7 +102,8 @@ def package_addon():
                     filepath = join(subdir, file)
                     archive.write(filepath)
     chdir('../')
-    move('resource_pack/Mob Heads Resource.mcpack', 'Mob Heads Recource.mcpack')
+    move('resource_pack/Mob Heads Resource.mcpack', 'Mob Heads Resource.mcpack')
+    chdir('../')
 
 
 def main():
