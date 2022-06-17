@@ -24,7 +24,7 @@ class PlayerHead:
         return self._item_name
 
     def generate_attachable(self):
-        with open('../template/resource_pack/attachables/template.json', 'r') as infile:
+        with open('template/resource_pack/attachables/template.json', 'r') as infile:
             attachable_json = json.load(infile)
         attachable_json['minecraft:attachable']['description']['identifier'] = "mrc:" + \
             self._item_name + "_head"
@@ -59,7 +59,7 @@ class PlayerHead:
                                           self._item_name + '_head'] = {'textures': 'textures/items/mrc_heads/' + self._filename}
 
     def generate_behavior(self):
-        with open('../template/behavior_pack/items/template.json', 'r') as infile:
+        with open('template/behavior_pack/items/template.json', 'r') as infile:
             item_behavior = json.load(infile)
         item_behavior['minecraft:item']['description']['identifier'] = 'mrc:' + \
             self._item_name + '_head'
@@ -98,7 +98,7 @@ class Microblock(PlayerHead):
         return self._item_name.replace('_', ' ').title().replace(' Of ', ' of ').replace(' And ', ' and ')
 
     def copy_texture(self):
-        copy('skins/microblocks/' + self._filename,
+        copy('template/skins/microblocks/' + self._filename,
              'in_progress/resource_pack/textures/models/mrc_heads/' + self._filename)
 
 
@@ -113,12 +113,12 @@ class Person(PlayerHead):
         return self.__name
 
     def copy_texture(self):
-        copy('skins/people/' + self._filename,
+        copy('template/skins/people/' + self._filename,
              'in_progress/resource_pack/textures/models/mrc_heads/' + self._filename)
     
     # Have to override parent class because case sensitive
     def generate_attachable(self):
-        with open('../template/resource_pack/attachables/template.json', 'r') as infile:
+        with open('template/resource_pack/attachables/template.json', 'r') as infile:
             item_json = json.load(infile)
         item_json['minecraft:attachable']['description']['identifier'] = "mrc:" + \
             self._item_name + "_head"
@@ -137,7 +137,7 @@ class Custom(PlayerHead):
         return self._item_name.replace('_', ' ').title().replace(' Of ', ' of ').replace(' And ', ' and ')
 
     def copy_texture(self):
-        copy('skins/custom/' + self._filename,
+        copy('template/skins/custom/' + self._filename,
              'in_progress/resource_pack/textures/models/mrc_heads/' + self._filename)
 
 
@@ -153,5 +153,5 @@ class Mob(PlayerHead):
         return self._item_name.replace('_', ' ').title()
 
     def copy_texture(self):
-        copy('skins/mobs/' + self._filename,
+        copy('template/skins/mobs/' + self._filename,
              'in_progress/resource_pack/textures/models/mrc_heads/' + self._filename)

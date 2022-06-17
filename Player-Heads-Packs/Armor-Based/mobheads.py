@@ -34,25 +34,25 @@ def setup_folders():
     mkdir('in_progress/resource_pack/textures/models/mrc_heads')
     mkdir('in_progress/resource_pack/models')
     mkdir('in_progress/resource_pack/models/entity')
-    copy('../template/resource_pack/models/entity/mrc_player_head.json',
+    copy('template/resource_pack/models/entity/mrc_player_head.json',
          'in_progress/resource_pack/models/entity/mrc_player_head.json')
-    copy('../template/resource_pack/pack_icon.png',
+    copy('template/resource_pack/pack_icon.png',
          'in_progress/resource_pack/pack_icon.png')
 
     mkdir('in_progress/behavior_pack')
     mkdir('in_progress/behavior_pack/items')
     mkdir('in_progress/behavior_pack/loot_tables')
     mkdir('in_progress/behavior_pack/loot_tables/entities')
-    copy('../template/behavior_pack/pack_icon.png',
+    copy('template/behavior_pack/pack_icon.png',
          'in_progress/behavior_pack/pack_icon.png')
 
 
 def generate_manifests():
-    with open('../version.json', 'r') as infile:
+    with open('version.json', 'r') as infile:
         version = json.load(infile)
     version_string = '.'.join(str(x) for x in version)
 
-    with open('../template/resource_pack/mobheads_manifest.json', 'r') as infile:
+    with open('template/resource_pack/mobheads_manifest.json', 'r') as infile:
         resource_manifest = json.load(infile)
     resource_manifest['header']['description'] += version_string
     resource_manifest['header']['version'] = version
@@ -62,7 +62,7 @@ def generate_manifests():
     with open('in_progress/resource_pack/manifest.json', 'w') as outfile:
         json.dump(resource_manifest, outfile)
 
-    with open('../template/behavior_pack/mobheads_manifest.json', 'r') as infile:
+    with open('template/behavior_pack/mobheads_manifest.json', 'r') as infile:
         behavior_manifest = json.load(infile)
     behavior_manifest['header']['description'] += version_string
     behavior_manifest['header']['version'] = version
@@ -100,14 +100,14 @@ def package_addon():
 
 
 def main():
-    chdir('C:/Users/ceden/Documents/Software Development/Python/Overhang Tweaks/Player-Heads-Packs/Armor-Based/mobheads')
+    chdir('C:/Users/ceden/Documents/Software Development/Python/Overhang Tweaks/Player-Heads-Packs/Armor-Based')
     setup_folders()
     generate_manifests()
 
     item_texture_json = {"resource_pack_name": "playerheads",
                          "texture_name": "atlas.items", "texture_data": {}}
 
-    for subdir, dirs, files in walk('skins/mobs'):
+    for subdir, dirs, files in walk('template/skins/mobs'):
         for filename in files:
             Mob(filename).add_to_pack(item_texture_json)
 
