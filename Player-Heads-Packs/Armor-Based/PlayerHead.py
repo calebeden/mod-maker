@@ -25,12 +25,15 @@ class PlayerHead:
 
     def generate_attachable(self):
         with open('../template/resource_pack/attachables/template.json', 'r') as infile:
-            item_json = json.load(infile)
-        item_json['minecraft:attachable']['description']['identifier'] = "mrc:" + \
+            attachable_json = json.load(infile)
+        attachable_json['minecraft:attachable']['description']['identifier'] = "mrc:" + \
             self._item_name + "_head"
-        item_json['minecraft:attachable']['description']['textures']['default'] = 'textures/models/mrc_heads/' + self._item_name
+        if (self._item_name.endswith('stained_glass') or self._item_name == 'tinted_glass' or self._item_name == 'ice'):
+            # Stained/tinted glass and regular ice are exceptions: has translucency and only uses the base layer, we will use a different rendering material
+            attachable_json['minecraft:attachable']['description']['materials']['default'] = "beacon_beam_transparent"
+        attachable_json['minecraft:attachable']['description']['textures']['default'] = 'textures/models/mrc_heads/' + self._item_name
         with open('in_progress/resource_pack/attachables/mrc_' + self._item_name + '_head.json', 'w') as outfile:
-            json.dump(item_json, outfile)
+            json.dump(attachable_json, outfile)
 
         # with open('../template/resource_pack/attachables/render/template.player.json', 'r') as infile:
         #     armor_json = json.load(infile)
@@ -100,6 +103,7 @@ class Microblock(PlayerHead):
 
 
 class Person(PlayerHead):
+    # CASE SENSITIVE FILENAMES
     def __init__(self, filename):
         self.__name = filename[:-4]
         super().__init__(filename, "item.mrc:lower_head=template's Head\n")
@@ -111,6 +115,17 @@ class Person(PlayerHead):
     def copy_texture(self):
         copy('skins/people/' + self._filename,
              'in_progress/resource_pack/textures/models/mrc_heads/' + self._filename)
+    
+    # Have to override parent class because case sensitive
+    def generate_attachable(self):
+        with open('../template/resource_pack/attachables/template.json', 'r') as infile:
+            item_json = json.load(infile)
+        item_json['minecraft:attachable']['description']['identifier'] = "mrc:" + \
+            self._item_name + "_head"
+        item_json['minecraft:attachable']['description']['textures']['default'] = 'textures/models/mrc_heads/' + self.__name
+        with open('in_progress/resource_pack/attachables/mrc_' + self._item_name + '_head.json', 'w') as outfile:
+            json.dump(item_json, outfile)
+    
 
 
 class Custom(PlayerHead):
