@@ -1,0 +1,24 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Mob Heads resource pack by MrCraftable v",
+        "name": "Mob Heads by MrCraftable",
+        "uuid": "BAAF847F-3EA3-4682-97F5-29DB9C348D04",
+        "version": [0, 0, 0],
+        "min_engine_version": [ 1, 16, 100 ]
+    },
+    "modules": [
+        {
+            "description": "Mob Heads resource pack by MrCraftable v",
+            "type": "resources",
+            "uuid": "FC45DA87-E9F4-4C14-894D-DFBB4F030C79",
+            "version": [1, 0, 0]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "9DD02582-1191-407B-8D61-A60A7D7B98B6",
+            "version": [0, 0, 0]
+        }
+    ]
+}

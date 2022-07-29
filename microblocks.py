@@ -6,10 +6,11 @@
 
 from os import mkdir, walk, chdir
 from os.path import join
-from shutil import copy, rmtree, move
+from shutil import copy, rmtree
 from zipfile import ZipFile
 import json
 from PlayerHead import Microblock, Person, Custom
+from math import ceil
 
 
 def setup_folders():
@@ -25,20 +26,22 @@ def setup_folders():
     mkdir('Microblocks Addon/resource_pack/textures')
     mkdir('Microblocks Addon/resource_pack/textures/items')
     mkdir('Microblocks Addon/resource_pack/textures/items/mrc_heads')
+    mkdir('Microblocks Addon/resource_pack/textures/items/mrc_head_bundles')
     mkdir('Microblocks Addon/resource_pack/textures/models')
     mkdir('Microblocks Addon/resource_pack/textures/models/mrc_heads')
     mkdir('Microblocks Addon/resource_pack/models')
     mkdir('Microblocks Addon/resource_pack/models/entity')
     copy('template/resource_pack/models/entity/mrc_player_head.json',
          'Microblocks Addon/resource_pack/models/entity/mrc_player_head.json')
-    copy('template/resource_pack/pack_icon.png',
+    copy('template/resource_pack/microblock_pack_icon.png',
          'Microblocks Addon/resource_pack/pack_icon.png')
 
     mkdir('Microblocks Addon/behavior_pack')
     mkdir('Microblocks Addon/behavior_pack/items')
-    mkdir('Microblocks Addon/behavior_pack/loot_tables')
-    mkdir('Microblocks Addon/behavior_pack/loot_tables/entities')
-    copy('template/behavior_pack/pack_icon.png',
+    mkdir('Microblocks Addon/behavior_pack/trading')
+    mkdir('Microblocks Addon/behavior_pack/trading/economy_trades')
+    mkdir('Microblocks Addon/behavior_pack/recipes')
+    copy('template/behavior_pack/microblock_pack_icon.png',
          'Microblocks Addon/behavior_pack/pack_icon.png')
 
 
@@ -52,7 +55,6 @@ def generate_manifests():
     resource_manifest['header']['description'] += version_string
     resource_manifest['header']['version'] = version
     resource_manifest['modules'][0]['description'] += version_string
-    resource_manifest['modules'][0]['version'] = version
     resource_manifest['dependencies'][0]['version'] = version
     with open('Microblocks Addon/resource_pack/manifest.json', 'w') as outfile:
         json.dump(resource_manifest, outfile)
@@ -62,10 +64,47 @@ def generate_manifests():
     behavior_manifest['header']['description'] += version_string
     behavior_manifest['header']['version'] = version
     behavior_manifest['modules'][0]['description'] += version_string
-    behavior_manifest['modules'][0]['version'] = version
     behavior_manifest['dependencies'][0]['version'] = version
     with open('Microblocks Addon/behavior_pack/manifest.json', 'w') as outfile:
         json.dump(behavior_manifest, outfile)
+
+
+def generate_trades():
+    with open('template/behavior_pack/trading/economy_trades/wandering_trader_trades.json', 'r') as infile:
+        wandering_trades = json.load(infile)
+
+    player_trades = {"num_to_select": 1, "trades": []}
+
+    for subdir, dirs, files in walk('template/skins/people'):
+        for filename in files:
+            item_name = filename[:-4].lower()
+            trade = {"max_uses": 3, "wants": [{"item": "minecraft:diamond"}], "gives": [
+                {"item": f"mrc:{item_name}_head"}]}
+
+            player_trades['trades'].append(trade)
+    wandering_trades['tiers'][0]['groups'].insert(0, player_trades)
+
+    with open('template/behavior_pack/trading/trade_pairs.json', 'r') as infile:
+        trade_pairs = json.load(infile)
+    print(f"\nThere are {len(trade_pairs)} survival microblocks. The wandering trader will sell {ceil(len(trade_pairs)/10)} at a time.\n")
+    microblock_trades = {"num_to_select": ceil(len(trade_pairs)/10), "trades": []}
+
+    for pair in trade_pairs:
+        trade = {"max_uses": 1, "wants": [
+            {"item": "minecraft:emerald"}], "gives": []}
+        trade['wants'].append({"item": pair['block']})
+        if 'data' in pair.keys():
+            trade['wants'][1]['item'] += f":{pair['data']}"
+        trade['gives'] = [
+            {"item": f"{pair['microblock']}_head_bundle"}]
+
+        microblock_trades['trades'].append(trade)
+    wandering_trades['tiers'][0]['groups'].insert(1, microblock_trades)
+
+    with open('Microblocks Addon/behavior_pack/trading/economy_trades/wandering_trader_trades.json', 'w') as outfile:
+        json.dump(wandering_trades, outfile)
+
+    # print(wandering_trades)
 
 
 def package_addon():
@@ -80,27 +119,7 @@ def package_addon():
                 filepath = join(subdir, file)
                 archive.write(filepath)
 
-    chdir('behavior_pack')
-    with ZipFile('Microblocks Behavior.mcpack', 'w') as archive:
-        for subdir, dirs, files in walk('./'):
-            for file in files:
-                if not file.endswith('.mcpack'):
-                    filepath = join(subdir, file)
-                    archive.write(filepath)
     chdir('../')
-    move('behavior_pack/Microblocks Behavior.mcpack', 'Microblocks Behavior.mcpack')
-
-    chdir('resource_pack')
-    with ZipFile('Microblocks Resource.mcpack', 'w') as archive:
-        for subdir, dirs, files in walk('./'):
-            for file in files:
-                if not file.endswith('.mcpack'):
-                    filepath = join(subdir, file)
-                    archive.write(filepath)
-    chdir('../')
-    move('resource_pack/Microblocks Resource.mcpack', 'Microblocks Resource.mcpack')
-    chdir('../')
-    
 
 
 def main():
@@ -126,11 +145,11 @@ def main():
     with open('Microblocks Addon/resource_pack/textures/item_texture.json', 'w') as outfile:
         json.dump(item_texture_json, outfile)
 
+    generate_trades()
+
     package_addon()
 
-    print("\
-\nThe resource and behavior packs have been created. Now, you can add them to\n\
-wandering trader trade table.")
+    print("Done!")
 
     return
 

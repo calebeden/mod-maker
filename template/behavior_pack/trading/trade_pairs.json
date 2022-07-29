@@ -1,0 +1,1703 @@
+[
+	{
+		"microblock": "mrc:acacia_leaves",
+		"block": "minecraft:leaves2",
+		"data": 0
+	},
+	{
+		"microblock": "mrc:acacia_log",
+		"block": "minecraft:log2",
+		"data": 0
+	},
+	{
+		"microblock": "mrc:acacia_planks",
+		"block": "minecraft:planks",
+		"data": 4
+	},
+	{
+		"microblock": "mrc:acacia_wood",
+		"block": "minecraft:wood",
+		"data": 4
+	},
+	{
+		"microblock": "mrc:active_conduit",
+		"block": "minecraft:conduit"
+	},
+	{
+		"microblock": "mrc:ancient_debris",
+		"block": "minecraft:ancient_debris"
+	},
+	{
+		"microblock": "mrc:andesite",
+		"block": "minecraft:stone",
+		"data": 5
+	},
+	{
+		"microblock": "mrc:anvil",
+		"block": "minecraft:anvil",
+		"data": 0
+	},
+	{
+		"microblock": "mrc:azalea",
+		"block": "minecraft:azalea"
+	},
+	{
+		"microblock": "mrc:azalea_leaves",
+		"block": "minecraft:azalea_leaves"
+	},
+	{
+		"microblock": "mrc:barrel",
+		"block": "minecraft:barrel"
+	},
+	{
+		"microblock": "mrc:basalt",
+		"block": "minecraft:basalt"
+	},
+	{
+		"microblock": "mrc:beacon",
+		"block": "minecraft:beacon"
+	},
+	{
+		"microblock": "mrc:bee_nest",
+		"block": "minecraft:bee_nest"
+	},
+	{
+		"microblock": "mrc:beehive",
+		"block": "minecraft:beehive"
+	},
+	{
+		"microblock": "mrc:bell",
+		"block": "minecraft:bell"
+	},
+	{
+		"microblock": "mrc:birch_leaves",
+		"block": "minecraft:leaves",
+		"data": 2
+	},
+	{
+		"microblock": "mrc:birch_log",
+		"block": "minecraft:log",
+		"data": 2
+	},
+	{
+		"microblock": "mrc:birch_planks",
+		"block": "minecraft:planks",
+		"data": 2
+	},
+	{
+		"microblock": "mrc:birch_wood",
+		"block": "minecraft:wood",
+		"data": 2
+	},
+	{
+		"microblock": "mrc:black_concrete",
+		"block": "minecraft:concrete",
+		"data": 15
+	},
+	{
+		"microblock": "mrc:black_concrete_powder",
+		"block": "minecraft:concrete_powder",
+		"data": 15
+	},
+	{
+		"microblock": "mrc:black_glazed_terracotta",
+		"block": "minecraft:black_glazed_terracotta"
+	},
+	{
+		"microblock": "mrc:black_shulker_box",
+		"block": "minecraft:shulker_box",
+		"data": 15
+	},
+	{
+		"microblock": "mrc:black_stained_glass",
+		"block": "minecraft:stained_glass",
+		"data": 15
+	},
+	{
+		"microblock": "mrc:black_terracotta",
+		"block": "minecraft:stained_hardened_clay",
+		"data": 15
+	},
+	{
+		"microblock": "mrc:black_wool",
+		"block": "minecraft:wool",
+		"data": 15
+	},
+	{
+		"microblock": "mrc:blackstone",
+		"block": "minecraft:blackstone"
+	},
+	{
+		"microblock": "mrc:blast_furnace",
+		"block": "minecraft:blast_furnace"
+	},
+	{
+		"microblock": "mrc:block_of_amethyst",
+		"block": "minecraft:amethyst_block"
+	},
+	{
+		"microblock": "mrc:block_of_coal",
+		"block": "minecraft:coal_block"
+	},
+	{
+		"microblock": "mrc:block_of_copper",
+		"block": "minecraft:copper_block"
+	},
+	{
+		"microblock": "mrc:block_of_diamond",
+		"block": "minecraft:diamond_block"
+	},
+	{
+		"microblock": "mrc:block_of_emerald",
+		"block": "minecraft:emerald_block"
+	},
+	{
+		"microblock": "mrc:block_of_gold",
+		"block": "minecraft:gold_block"
+	},
+	{
+		"microblock": "mrc:block_of_iron",
+		"block": "minecraft:iron_block"
+	},
+	{
+		"microblock": "mrc:block_of_lapis_lazuli",
+		"block": "minecraft:lapis_block"
+	},
+	{
+		"microblock": "mrc:block_of_netherite",
+		"block": "minecraft:netherite_block"
+	},
+	{
+		"microblock": "mrc:block_of_quartz",
+		"block": "minecraft:quartz_block"
+	},
+	{
+		"microblock": "mrc:block_of_raw_copper",
+		"block": "minecraft:raw_copper_block"
+	},
+	{
+		"microblock": "mrc:block_of_raw_gold",
+		"block": "minecraft:raw_gold_block"
+	},
+	{
+		"microblock": "mrc:block_of_raw_iron",
+		"block": "minecraft:raw_iron_block"
+	},
+	{
+		"microblock": "mrc:block_of_redstone",
+		"block": "minecraft:redstone_block"
+	},
+	{
+		"microblock": "mrc:blue_concrete",
+		"block": "minecraft:concrete",
+		"data": 11
+	},
+	{
+		"microblock": "mrc:blue_concrete_powder",
+		"block": "minecraft:concrete_powder",
+		"data": 11
+	},
+	{
+		"microblock": "mrc:blue_glazed_terracotta",
+		"block": "minecraft:blue_glazed_terracotta"
+	},
+	{
+		"microblock": "mrc:blue_ice",
+		"block": "minecraft:blue_ice"
+	},
+	{
+		"microblock": "mrc:blue_shulker_box",
+		"block": "minecraft:shulker_box",
+		"data": 11
+	},
+	{
+		"microblock": "mrc:blue_stained_glass",
+		"block": "minecraft:stained_glass",
+		"data": 11
+	},
+	{
+		"microblock": "mrc:blue_terracotta",
+		"block": "minecraft:stained_hardened_clay",
+		"data": 11
+	},
+	{
+		"microblock": "mrc:blue_wool",
+		"block": "minecraft:wool",
+		"data": 11
+	},
+	{
+		"microblock": "mrc:bone_block",
+		"block": "minecraft:bone_block"
+	},
+	{
+		"microblock": "mrc:bookshelf",
+		"block": "minecraft:bookshelf"
+	},
+	{
+		"microblock": "mrc:brain_coral_block",
+		"block": "minecraft:coral_block",
+		"data": 1
+	},
+	{
+		"microblock": "mrc:brewing_stand",
+		"block": "minecraft:brewing_stand"
+	},
+	{
+		"microblock": "mrc:bricks",
+		"block": "minecraft:brick_block"
+	},
+	{
+		"microblock": "mrc:brown_concrete",
+		"block": "minecraft:concrete",
+		"data": 12
+	},
+	{
+		"microblock": "mrc:brown_concrete_powder",
+		"block": "minecraft:concrete_powder",
+		"data": 12
+	},
+	{
+		"microblock": "mrc:brown_glazed_terracotta",
+		"block": "minecraft:brown_glazed_terracotta"
+	},
+	{
+		"microblock": "mrc:brown_mushroom_block",
+		"block": "minecraft:brown_mushroom_block",
+		"data": 14
+	},
+	{
+		"microblock": "mrc:brown_shulker_box",
+		"block": "minecraft:shulker_box",
+		"data": 12
+	},
+	{
+		"microblock": "mrc:brown_stained_glass",
+		"block": "minecraft:stained_glass",
+		"data": 12
+	},
+	{
+		"microblock": "mrc:brown_terracotta",
+		"block": "minecraft:stained_hardened_clay",
+		"data": 12
+	},
+	{
+		"microblock": "mrc:brown_wool",
+		"block": "minecraft:wool",
+		"data": 12
+	},
+	{
+		"microblock": "mrc:bubble_coral_block",
+		"block": "minecraft:coral_block",
+		"data": 2
+	},
+	{
+		"microblock": "mrc:cactus",
+		"block": "minecraft:cactus"
+	},
+	{
+		"microblock": "mrc:cake",
+		"block": "minecraft:cake"
+	},
+	{
+		"microblock": "mrc:calcite",
+		"block": "minecraft:calcite"
+	},
+	{
+		"microblock": "mrc:cartography_table",
+		"block": "minecraft:cartography_table"
+	},
+	{
+		"microblock": "mrc:carved_pumpkin",
+		"block": "minecraft:carved_pumpkin"
+	},
+	{
+		"microblock": "mrc:cauldron",
+		"block": "minecraft:cauldron"
+	},
+	{
+		"microblock": "mrc:chest",
+		"block": "minecraft:chest"
+	},
+	{
+		"microblock": "mrc:chipped_anvil",
+		"block": "minecraft:anvil",
+		"data": 4
+	},
+	{
+		"microblock": "mrc:chiseled_deepslate",
+		"block": "minecraft:chiseled_deepslate"
+	},
+	{
+		"microblock": "mrc:chiseled_nether_bricks",
+		"block": "minecraft:chiseled_nether_bricks"
+	},
+	{
+		"microblock": "mrc:chiseled_polished_blackstone",
+		"block": "minecraft:chiseled_polished_blackstone"
+	},
+	{
+		"microblock": "mrc:chiseled_quartz_block",
+		"block": "minecraft:quartz_block",
+		"data": 1
+	},
+	{
+		"microblock": "mrc:chiseled_red_sandstone",
+		"block": "minecraft:red_sandstone",
+		"data": 1
+	},
+	{
+		"microblock": "mrc:chiseled_sandstone",
+		"block": "minecraft:sandstone",
+		"data": 1
+	},
+	{
+		"microblock": "mrc:chiseled_stone_bricks",
+		"block": "minecraft:stonebrick",
+		"data": 3
+	},
+	{
+		"microblock": "mrc:chorus_flower",
+		"block": "minecraft:chorus_flower"
+	},
+	{
+		"microblock": "mrc:clay",
+		"block": "minecraft:clay"
+	},
+	{
+		"microblock": "mrc:coal_ore",
+		"block": "minecraft:coal_ore"
+	},
+	{
+		"microblock": "mrc:coarse_dirt",
+		"block": "minecraft:dirt",
+		"data": 1
+	},
+	{
+		"microblock": "mrc:cobbled_deepslate",
+		"block": "minecraft:cobbled_deepslate"
+	},
+	{
+		"microblock": "mrc:cobblestone",
+		"block": "minecraft:cobblestone"
+	},
+	{
+		"microblock": "mrc:composter",
+		"block": "minecraft:composter"
+	},
+	{
+		"microblock": "mrc:conduit",
+		"block": "minecraft:conduit"
+	},
+	{
+		"microblock": "mrc:copper_ore",
+		"block": "minecraft:copper_ore"
+	},
+	{
+		"microblock": "mrc:cracked_deepslate_bricks",
+		"block": "minecraft:cracked_deepslate_bricks"
+	},
+	{
+		"microblock": "mrc:cracked_deepslate_tiles",
+		"block": "minecraft:cracked_deepslate_tiles"
+	},
+	{
+		"microblock": "mrc:cracked_nether_bricks",
+		"block": "minecraft:cracked_nether_bricks"
+	},
+	{
+		"microblock": "mrc:cracked_polished_blackstone_bricks",
+		"block": "minecraft:cracked_polished_blackstone_bricks"
+	},
+	{
+		"microblock": "mrc:cracked_stone_bricks",
+		"block": "minecraft:stonebrick",
+		"data": 1
+	},
+	{
+		"microblock": "mrc:crafting_table",
+		"block": "minecraft:crafting_table"
+	},
+	{
+		"microblock": "mrc:crimson_hyphae",
+		"block": "minecraft:crimson_hyphae"
+	},
+	{
+		"microblock": "mrc:crimson_nylium",
+		"block": "minecraft:crimson_nylium"
+	},
+	{
+		"microblock": "mrc:crimson_planks",
+		"block": "minecraft:crimson_planks"
+	},
+	{
+		"microblock": "mrc:crimson_stem",
+		"block": "minecraft:crimson_stem"
+	},
+	{
+		"microblock": "mrc:crying_obsidian",
+		"block": "minecraft:crying_obsidian"
+	},
+	{
+		"microblock": "mrc:cut_copper",
+		"block": "minecraft:cut_copper"
+	},
+	{
+		"microblock": "mrc:cut_red_sandstone",
+		"block": "minecraft:red_sandstone",
+		"data": 2
+	},
+	{
+		"microblock": "mrc:cut_sandstone",
+		"block": "minecraft:sandstone",
+		"data": 2
+	},
+	{
+		"microblock": "mrc:cyan_concrete",
+		"block": "minecraft:concrete",
+		"data": 9
+	},
+	{
+		"microblock": "mrc:cyan_concrete_powder",
+		"block": "minecraft:concrete_powder",
+		"data": 9
+	},
+	{
+		"microblock": "mrc:cyan_glazed_terracotta",
+		"block": "minecraft:cyan_glazed_terracotta"
+	},
+	{
+		"microblock": "mrc:cyan_shulker_box",
+		"block": "minecraft:shulker_box",
+		"data": 9
+	},
+	{
+		"microblock": "mrc:cyan_stained_glass",
+		"block": "minecraft:stained_glass",
+		"data": 9
+	},
+	{
+		"microblock": "mrc:cyan_terracotta",
+		"block": "minecraft:stained_hardened_clay",
+		"data": 9
+	},
+	{
+		"microblock": "mrc:cyan_wool",
+		"block": "minecraft:wool",
+		"data": 9
+	},
+	{
+		"microblock": "mrc:damaged_anvil",
+		"block": "minecraft:anvil",
+		"data": 8
+	},
+	{
+		"microblock": "mrc:dark_oak_leaves",
+		"block": "minecraft:leaves2",
+		"data": 1
+	},
+	{
+		"microblock": "mrc:dark_oak_log",
+		"block": "minecraft:log2",
+		"data": 1
+	},
+	{
+		"microblock": "mrc:dark_oak_planks",
+		"block": "minecraft:planks",
+		"data": 5
+	},
+	{
+		"microblock": "mrc:dark_oak_wood",
+		"block": "minecraft:wood",
+		"data": 5
+	},
+	{
+		"microblock": "mrc:dark_prismarine",
+		"block": "minecraft:prismarine",
+		"data": 1
+	},
+	{
+		"microblock": "mrc:dead_brain_coral_block",
+		"block": "minecraft:coral_block",
+		"data": 9
+	},
+	{
+		"microblock": "mrc:dead_bubble_coral_block",
+		"block": "minecraft:coral_block",
+		"data": 10
+	},
+	{
+		"microblock": "mrc:dead_fire_coral_block",
+		"block": "minecraft:coral_block",
+		"data": 11
+	},
+	{
+		"microblock": "mrc:dead_horn_coral_block",
+		"block": "minecraft:coral_block",
+		"data": 12
+	},
+	{
+		"microblock": "mrc:dead_tube_coral_block",
+		"block": "minecraft:coral_block",
+		"data": 8
+	},
+	{
+		"microblock": "mrc:deepslate",
+		"block": "minecraft:deepslate"
+	},
+	{
+		"microblock": "mrc:deepslate_bricks",
+		"block": "minecraft:deepslate_bricks"
+	},
+	{
+		"microblock": "mrc:deepslate_coal_ore",
+		"block": "minecraft:deepslate_coal_ore"
+	},
+	{
+		"microblock": "mrc:deepslate_copper_ore",
+		"block": "minecraft:deepslate_copper_ore"
+	},
+	{
+		"microblock": "mrc:deepslate_diamond_ore",
+		"block": "minecraft:deepslate_diamond_ore"
+	},
+	{
+		"microblock": "mrc:deepslate_emerald_ore",
+		"block": "minecraft:deepslate_emerald_ore"
+	},
+	{
+		"microblock": "mrc:deepslate_gold_ore",
+		"block": "minecraft:deepslate_gold_ore"
+	},
+	{
+		"microblock": "mrc:deepslate_iron_ore",
+		"block": "minecraft:deepslate_iron_ore"
+	},
+	{
+		"microblock": "mrc:deepslate_lapis_lazuli_ore",
+		"block": "minecraft:deepslate_lapis_ore"
+	},
+	{
+		"microblock": "mrc:deepslate_redstone_ore",
+		"block": "minecraft:deepslate_redstone_ore"
+	},
+	{
+		"microblock": "mrc:deepslate_tiles",
+		"block": "minecraft:deepslate_tiles"
+	},
+	{
+		"microblock": "mrc:diamond_ore",
+		"block": "minecraft:diamond_ore"
+	},
+	{
+		"microblock": "mrc:diorite",
+		"block": "minecraft:stone",
+		"data": 3
+	},
+	{
+		"microblock": "mrc:dirt",
+		"block": "minecraft:dirt",
+		"data": 0
+	},
+	{
+		"microblock": "mrc:dirt_path",
+		"block": "minecraft:grass_path"
+	},
+	{
+		"microblock": "mrc:dispenser",
+		"block": "minecraft:dispenser"
+	},
+	{
+		"microblock": "mrc:dried_kelp_block",
+		"block": "minecraft:dried_kelp_block"
+	},
+	{
+		"microblock": "mrc:dripstone_block",
+		"block": "minecraft:dripstone_block"
+	},
+	{
+		"microblock": "mrc:dropper",
+		"block": "minecraft:dropper"
+	},
+	{
+		"microblock": "mrc:emerald_ore",
+		"block": "minecraft:emerald_ore"
+	},
+	{
+		"microblock": "mrc:enchanting_table",
+		"block": "minecraft:enchanting_table"
+	},
+	{
+		"microblock": "mrc:end_stone",
+		"block": "minecraft:end_stone"
+	},
+	{
+		"microblock": "mrc:end_stone_bricks",
+		"block": "minecraft:end_bricks"
+	},
+	{
+		"microblock": "mrc:ender_chest",
+		"block": "minecraft:ender_chest"
+	},
+	{
+		"microblock": "mrc:exposed_copper",
+		"block": "minecraft:exposed_copper"
+	},
+	{
+		"microblock": "mrc:exposed_cut_copper",
+		"block": "minecraft:exposed_cut_copper"
+	},
+	{
+		"microblock": "mrc:fire_coral_block",
+		"block": "minecraft:coral_block",
+		"data": 3
+	},
+	{
+		"microblock": "mrc:fletching_table",
+		"block": "minecraft:fletching_table"
+	},
+	{
+		"microblock": "mrc:flowering_azalea",
+		"block": "minecraft:flowering_azalea"
+	},
+	{
+		"microblock": "mrc:flowering_azalea_leaves",
+		"block": "minecraft:azalea_leaves_flowered"
+	},
+	{
+		"microblock": "mrc:furnace",
+		"block": "minecraft:furnace"
+	},
+	{
+		"microblock": "mrc:gilded_blackstone",
+		"block": "minecraft:gilded_blackstone"
+	},
+	{
+		"microblock": "mrc:glass",
+		"block": "minecraft:glass"
+	},
+	{
+		"microblock": "mrc:glowstone",
+		"block": "minecraft:glowstone"
+	},
+	{
+		"microblock": "mrc:gold_ore",
+		"block": "minecraft:gold_ore"
+	},
+	{
+		"microblock": "mrc:granite",
+		"block": "minecraft:stone",
+		"data": 1
+	},
+	{
+		"microblock": "mrc:grass_block",
+		"block": "minecraft:grass"
+	},
+	{
+		"microblock": "mrc:gravel",
+		"block": "minecraft:gravel"
+	},
+	{
+		"microblock": "mrc:gray_concrete",
+		"block": "minecraft:concrete",
+		"data": 7
+	},
+	{
+		"microblock": "mrc:gray_concrete_powder",
+		"block": "minecraft:concrete_powder",
+		"data": 7
+	},
+	{
+		"microblock": "mrc:gray_glazed_terracotta",
+		"block": "minecraft:gray_glazed_terracotta"
+	},
+	{
+		"microblock": "mrc:gray_shulker_box",
+		"block": "minecraft:shulker_box",
+		"data": 7
+	},
+	{
+		"microblock": "mrc:gray_stained_glass",
+		"block": "minecraft:stained_glass",
+		"data": 7
+	},
+	{
+		"microblock": "mrc:gray_terracotta",
+		"block": "minecraft:stained_hardened_clay",
+		"data": 7
+	},
+	{
+		"microblock": "mrc:gray_wool",
+		"block": "minecraft:wool",
+		"data": 7
+	},
+	{
+		"microblock": "mrc:green_concrete",
+		"block": "minecraft:concrete",
+		"data": 13
+	},
+	{
+		"microblock": "mrc:green_concrete_powder",
+		"block": "minecraft:concrete_powder",
+		"data": 13
+	},
+	{
+		"microblock": "mrc:green_glazed_terracotta",
+		"block": "minecraft:green_glazed_terracotta"
+	},
+	{
+		"microblock": "mrc:green_shulker_box",
+		"block": "minecraft:shulker_box",
+		"data": 13
+	},
+	{
+		"microblock": "mrc:green_stained_glass",
+		"block": "minecraft:stained_glass",
+		"data": 13
+	},
+	{
+		"microblock": "mrc:green_terracotta",
+		"block": "minecraft:stained_hardened_clay",
+		"data": 13
+	},
+	{
+		"microblock": "mrc:green_wool",
+		"block": "minecraft:wool",
+		"data": 13
+	},
+	{
+		"microblock": "mrc:grindstone",
+		"block": "minecraft:grindstone"
+	},
+	{
+		"microblock": "mrc:hay_bale",
+		"block": "minecraft:hay_block"
+	},
+	{
+		"microblock": "mrc:honey_block",
+		"block": "minecraft:honey_block"
+	},
+	{
+		"microblock": "mrc:honeycomb_block",
+		"block": "minecraft:honeycomb_block"
+	},
+	{
+		"microblock": "mrc:hopper",
+		"block": "minecraft:hopper"
+	},
+	{
+		"microblock": "mrc:horn_coral_block",
+		"block": "minecraft:coral_block",
+		"data": 4
+	},
+	{
+		"microblock": "mrc:ice",
+		"block": "minecraft:ice"
+	},
+	{
+		"microblock": "mrc:iron_ore",
+		"block": "minecraft:iron_ore"
+	},
+	{
+		"microblock": "mrc:jack_olantern",
+		"block": "minecraft:lit_pumpkin"
+	},
+	{
+		"microblock": "mrc:jukebox",
+		"block": "minecraft:jukebox"
+	},
+	{
+		"microblock": "mrc:jungle_leaves",
+		"block": "minecraft:leaves",
+		"data": 3
+	},
+	{
+		"microblock": "mrc:jungle_log",
+		"block": "minecraft:log",
+		"data": 3
+	},
+	{
+		"microblock": "mrc:jungle_planks",
+		"block": "minecraft:planks",
+		"data": 3
+	},
+	{
+		"microblock": "mrc:jungle_wood",
+		"block": "minecraft:wood",
+		"data": 3
+	},
+	{
+		"microblock": "mrc:lapis_lazuli_ore",
+		"block": "minecraft:lapis_ore"
+	},
+	{
+		"microblock": "mrc:lectern",
+		"block": "minecraft:lectern"
+	},
+	
+	{
+		"microblock": "mrc:light_blue_concrete",
+		"block": "minecraft:concrete",
+		"data": 3
+	},
+	{
+		"microblock": "mrc:light_blue_concrete_powder",
+		"block": "minecraft:concrete_powder",
+		"data": 3
+	},
+	{
+		"microblock": "mrc:light_blue_glazed_terracotta",
+		"block": "minecraft:light_blue_glazed_terracotta"
+	},
+	{
+		"microblock": "mrc:light_blue_shulker_box",
+		"block": "minecraft:shulker_box",
+		"data": 3
+	},
+	{
+		"microblock": "mrc:light_blue_stained_glass",
+		"block": "minecraft:stained_glass",
+		"data": 3
+	},
+	{
+		"microblock": "mrc:light_blue_terracotta",
+		"block": "minecraft:stained_hardened_clay",
+		"data": 3
+	},
+	{
+		"microblock": "mrc:light_blue_wool",
+		"block": "minecraft:wool",
+		"data": 3
+	},
+	
+	{
+		"microblock": "mrc:light_gray_concrete",
+		"block": "minecraft:concrete",
+		"data": 8
+	},
+	{
+		"microblock": "mrc:light_gray_concrete_powder",
+		"block": "minecraft:concrete_powder",
+		"data": 8
+	},
+	{
+		"microblock": "mrc:light_gray_glazed_terracotta",
+		"block": "minecraft:silver_glazed_terracotta"
+	},
+	{
+		"microblock": "mrc:light_gray_shulker_box",
+		"block": "minecraft:shulker_box",
+		"data": 8
+	},
+	{
+		"microblock": "mrc:light_gray_stained_glass",
+		"block": "minecraft:stained_glass",
+		"data": 8
+	},
+	{
+		"microblock": "mrc:light_gray_terracotta",
+		"block": "minecraft:stained_hardened_clay",
+		"data": 8
+	},
+	{
+		"microblock": "mrc:light_gray_wool",
+		"block": "minecraft:wool",
+		"data": 8
+	},
+	{
+		"microblock": "mrc:lime_concrete",
+		"block": "minecraft:concrete",
+		"data": 5
+	},
+	{
+		"microblock": "mrc:lime_concrete_powder",
+		"block": "minecraft:concrete_powder",
+		"data": 5
+	},
+	{
+		"microblock": "mrc:lime_glazed_terracotta",
+		"block": "minecraft:lime_glazed_terracotta"
+	},
+	{
+		"microblock": "mrc:lime_shulker_box",
+		"block": "minecraft:shulker_box",
+		"data": 5
+	},
+	{
+		"microblock": "mrc:lime_stained_glass",
+		"block": "minecraft:stained_glass",
+		"data": 5
+	},
+	{
+		"microblock": "mrc:lime_terracotta",
+		"block": "minecraft:stained_hardened_clay",
+		"data": 5
+	},
+	{
+		"microblock": "mrc:lime_wool",
+		"block": "minecraft:wool",
+		"data": 5
+	},
+	{
+		"microblock": "mrc:lodestone",
+		"block": "minecraft:lodestone"
+	},
+	{
+		"microblock": "mrc:loom",
+		"block": "minecraft:loom"
+	},
+	{
+		"microblock": "mrc:magenta_concrete",
+		"block": "minecraft:concrete",
+		"data": 2
+	},
+	{
+		"microblock": "mrc:magenta_concrete_powder",
+		"block": "minecraft:concrete_powder",
+		"data": 2
+	},
+	{
+		"microblock": "mrc:magenta_glazed_terracotta",
+		"block": "minecraft:magenta_glazed_terracotta"
+	},
+	{
+		"microblock": "mrc:magenta_shulker_box",
+		"block": "minecraft:shulker_box",
+		"data": 2
+	},
+	{
+		"microblock": "mrc:magenta_stained_glass",
+		"block": "minecraft:stained_glass",
+		"data": 2
+	},
+	{
+		"microblock": "mrc:magenta_terracotta",
+		"block": "minecraft:stained_hardened_clay",
+		"data": 2
+	},
+	{
+		"microblock": "mrc:magenta_wool",
+		"block": "minecraft:wool",
+		"data": 2
+	},
+	{
+		"microblock": "mrc:magma_block",
+		"block": "minecraft:magma"
+	},
+	{
+		"microblock": "mrc:mangrove_leaves",
+		"block": "minecraft:mangrove_leaves"
+	},
+	{
+		"microblock": "mrc:mangrove_log",
+		"block": "minecraft:mangrove_log"
+	},
+	{
+		"microblock": "mrc:mangrove_planks",
+		"block": "minecraft:mangrove_planks"
+	},
+	{
+		"microblock": "mrc:mangrove_roots",
+		"block": "minecraft:mangrove_roots"
+	},
+	{
+		"microblock": "mrc:mangrove_wood",
+		"block": "minecraft:mangrove_wood"
+	},
+	{
+		"microblock": "mrc:melon",
+		"block": "minecraft:melon_block"
+	},
+	{
+		"microblock": "mrc:moss_block",
+		"block": "minecraft:moss_block"
+	},
+	{
+		"microblock": "mrc:mossy_cobblestone",
+		"block": "minecraft:mossy_cobblestone"
+	},
+	{
+		"microblock": "mrc:mossy_stone_bricks",
+		"block": "minecraft:stonebrick",
+		"data": 2
+	},
+	{
+		"microblock": "mrc:mud",
+		"block": "minecraft:mud"
+	},
+	{
+		"microblock": "mrc:mud_bricks",
+		"block": "minecraft:mud_bricks"
+	},
+	{
+		"microblock": "mrc:muddy_mangrove_roots",
+		"block": "minecraft:muddy_mangrove_roots"
+	},
+	{
+		"microblock": "mrc:mushroom_stem",
+		"block": "minecraft:brown_mushroom_block",
+		"data": 15
+	},
+	{
+		"microblock": "mrc:mycelium",
+		"block": "minecraft:mycelium"
+	},
+	{
+		"microblock": "mrc:nether_bricks",
+		"block": "minecraft:nether_brick"
+	},
+	{
+		"microblock": "mrc:nether_gold_ore",
+		"block": "minecraft:nether_gold_ore"
+	},
+	{
+		"microblock": "mrc:nether_quartz_ore",
+		"block": "minecraft:quartz_ore"
+	},
+	{
+		"microblock": "mrc:nether_wart_block",
+		"block": "minecraft:nether_wart_block"
+	},
+	{
+		"microblock": "mrc:netherrack",
+		"block": "minecraft:netherrack"
+	},
+	{
+		"microblock": "mrc:note_block",
+		"block": "minecraft:noteblock"
+	},
+	{
+		"microblock": "mrc:oak_leaves",
+		"block": "minecraft:leaves",
+		"data": 0
+	},
+	{
+		"microblock": "mrc:oak_log",
+		"block": "minecraft:log",
+		"data": 0
+	},
+	{
+		"microblock": "mrc:oak_planks",
+		"block": "minecraft:planks",
+		"data": 0
+	},
+	{
+		"microblock": "mrc:oak_wood",
+		"block": "minecraft:wood",
+		"data": 0
+	},
+	{
+		"microblock": "mrc:observer",
+		"block": "minecraft:observer"
+	},
+	{
+		"microblock": "mrc:obsidian",
+		"block": "minecraft:obsidian"
+	},
+	{
+		"microblock": "mrc:ochre_froglight",
+		"block": "minecraft:ochre_froglight"
+	},
+	{
+		"microblock": "mrc:orange_concrete",
+		"block": "minecraft:concrete",
+		"data": 1
+	},
+	{
+		"microblock": "mrc:orange_concrete_powder",
+		"block": "minecraft:concrete_powder",
+		"data": 1
+	},
+	{
+		"microblock": "mrc:orange_glazed_terracotta",
+		"block": "minecraft:orange_glazed_terracotta"
+	},
+	{
+		"microblock": "mrc:orange_shulker_box",
+		"block": "minecraft:shulker_box",
+		"data": 1
+	},
+	{
+		"microblock": "mrc:orange_stained_glass",
+		"block": "minecraft:stained_glass",
+		"data": 1
+	},
+	{
+		"microblock": "mrc:orange_terracotta",
+		"block": "minecraft:stained_hardened_clay",
+		"data": 1
+	},
+	{
+		"microblock": "mrc:orange_wool",
+		"block": "minecraft:wool",
+		"data": 1
+	},
+	{
+		"microblock": "mrc:oxidized_copper",
+		"block": "minecraft:oxidized_copper"
+	},
+	{
+		"microblock": "mrc:oxidized_cut_copper",
+		"block": "minecraft:oxidized_cut_copper"
+	},
+	{
+		"microblock": "mrc:packed_ice",
+		"block": "minecraft:packed_ice"
+	},
+	{
+		"microblock": "mrc:packed_mud",
+		"block": "minecraft:packed_mud"
+	},
+	{
+		"microblock": "mrc:pearlescent_froglight",
+		"block": "minecraft:pearlescent_froglight"
+	},
+	{
+		"microblock": "mrc:pink_concrete",
+		"block": "minecraft:concrete",
+		"data": 6
+	},
+	{
+		"microblock": "mrc:pink_concrete_powder",
+		"block": "minecraft:concrete_powder",
+		"data": 6
+	},
+	{
+		"microblock": "mrc:pink_glazed_terracotta",
+		"block": "minecraft:pink_glazed_terracotta"
+	},
+	{
+		"microblock": "mrc:pink_shulker_box",
+		"block": "minecraft:shulker_box",
+		"data": 6
+	},
+	{
+		"microblock": "mrc:pink_stained_glass",
+		"block": "minecraft:stained_glass",
+		"data": 6
+	},
+	{
+		"microblock": "mrc:pink_terracotta",
+		"block": "minecraft:stained_hardened_clay",
+		"data": 6
+	},
+	{
+		"microblock": "mrc:pink_wool",
+		"block": "minecraft:wool",
+		"data": 6
+	},
+	{
+		"microblock": "mrc:piston",
+		"block": "minecraft:piston"
+	},
+	{
+		"microblock": "mrc:podzol",
+		"block": "minecraft:podzol"
+	},
+	{
+		"microblock": "mrc:polished_andesite",
+		"block": "minecraft:stone",
+		"data": 6
+	},
+	{
+		"microblock": "mrc:polished_basalt",
+		"block": "minecraft:polished_basalt"
+	},
+	{
+		"microblock": "mrc:polished_blackstone",
+		"block": "minecraft:polished_blackstone"
+	},
+	{
+		"microblock": "mrc:polished_blackstone_bricks",
+		"block": "minecraft:polished_blackstone_bricks"
+	},
+	{
+		"microblock": "mrc:polished_deepslate",
+		"block": "minecraft:polished_deepslate"
+	},
+	{
+		"microblock": "mrc:polished_diorite",
+		"block": "minecraft:stone",
+		"data": 4
+	},
+	{
+		"microblock": "mrc:polished_granite",
+		"block": "minecraft:stone",
+		"data": 2
+	},
+	{
+		"microblock": "mrc:prismarine",
+		"block": "minecraft:prismarine",
+		"data": 0
+	},
+	{
+		"microblock": "mrc:prismarine_bricks",
+		"block": "minecraft:prismarine",
+		"data": 2
+	},
+	{
+		"microblock": "mrc:pumpkin",
+		"block": "minecraft:pumpkin"
+	},
+	{
+		"microblock": "mrc:purple_concrete",
+		"block": "minecraft:concrete",
+		"data": 10
+	},
+	{
+		"microblock": "mrc:purple_concrete_powder",
+		"block": "minecraft:concrete_powder",
+		"data": 10
+	},
+	{
+		"microblock": "mrc:purple_glazed_terracotta",
+		"block": "minecraft:purple_glazed_terracotta"
+	},
+	{
+		"microblock": "mrc:purple_shulker_box",
+		"block": "minecraft:shulker_box",
+		"data": 10
+	},
+	{
+		"microblock": "mrc:purple_stained_glass",
+		"block": "minecraft:stained_glass",
+		"data": 10
+	},
+	{
+		"microblock": "mrc:purple_terracotta",
+		"block": "minecraft:stained_hardened_clay",
+		"data": 10
+	},
+	{
+		"microblock": "mrc:purple_wool",
+		"block": "minecraft:wool",
+		"data": 10
+	},
+	{
+		"microblock": "mrc:purpur_block",
+		"block": "minecraft:purpur_block",
+		"data": 0
+	},
+	{
+		"microblock": "mrc:purpur_pillar",
+		"block": "minecraft:purpur_block",
+		"data": 2
+	},
+	{
+		"microblock": "mrc:quartz_bricks",
+		"block": "minecraft:quartz_bricks"
+	},
+	{
+		"microblock": "mrc:quartz_pillar",
+		"block": "minecraft:quartz_block",
+		"data": 2
+	},
+	{
+		"microblock": "mrc:red_concrete",
+		"block": "minecraft:concrete",
+		"data": 14
+	},
+	{
+		"microblock": "mrc:red_concrete_powder",
+		"block": "minecraft:concrete_powder",
+		"data": 14
+	},
+	{
+		"microblock": "mrc:red_glazed_terracotta",
+		"block": "minecraft:red_glazed_terracotta"
+	},
+	{
+		"microblock": "mrc:red_mushroom_block",
+		"block": "minecraft:red_mushroom_block",
+		"data": 14
+	},
+	{
+		"microblock": "mrc:red_nether_bricks",
+		"block": "minecraft:red_nether_brick"
+	},
+	{
+		"microblock": "mrc:red_sand",
+		"block": "minecraft:sand",
+		"data": 1
+	},
+	{
+		"microblock": "mrc:red_sandstone",
+		"block": "minecraft:red_sandstone",
+		"data": 0
+	},
+	{
+		"microblock": "mrc:red_shulker_box",
+		"block": "minecraft:shulker_box",
+		"data": 14
+	},
+	{
+		"microblock": "mrc:red_stained_glass",
+		"block": "minecraft:stained_glass",
+		"data": 14
+	},
+	{
+		"microblock": "mrc:red_terracotta",
+		"block": "minecraft:stained_hardened_clay",
+		"data": 14
+	},
+	{
+		"microblock": "mrc:red_wool",
+		"block": "minecraft:wool",
+		"data": 14
+	},
+	{
+		"microblock": "mrc:redstone_lamp",
+		"block": "minecraft:redstone_lamp"
+	},
+	{
+		"microblock": "mrc:redstone_ore",
+		"block": "minecraft:redstone_ore"
+	},
+	{
+		"microblock": "mrc:respawn_anchor",
+		"block": "minecraft:respawn_anchor"
+	},
+	{
+		"microblock": "mrc:rooted_dirt",
+		"block": "minecraft:dirt_with_roots"
+	},
+	{
+		"microblock": "mrc:sand",
+		"block": "minecraft:sand",
+		"data": 0
+	},
+	{
+		"microblock": "mrc:sandstone",
+		"block": "minecraft:sandstone",
+		"data": 0
+	},
+	{
+		"microblock": "mrc:scaffolding",
+		"block": "minecraft:scaffolding"
+	},
+	{
+		"microblock": "mrc:sculk",
+		"block": "minecraft:sculk"
+	},
+	{
+		"microblock": "mrc:sculk_catalyst",
+		"block": "minecraft:sculk_catalyst"
+	},
+	{
+		"microblock": "mrc:sculk_shrieker",
+		"block": "minecraft:sculk_shrieker"
+	},
+	{
+		"microblock": "mrc:sea_lantern",
+		"block": "minecraft:sea_lantern"
+	},
+	{
+		"microblock": "mrc:shroomlight",
+		"block": "minecraft:shroomlight"
+	},
+	{
+		"microblock": "mrc:shulker_box",
+		"block": "minecraft:undyed_shulker_box"
+	},
+	{
+		"microblock": "mrc:slime_block",
+		"block": "minecraft:slime"
+	},
+	{
+		"microblock": "mrc:smithing_table",
+		"block": "minecraft:smithing_table"
+	},
+	{
+		"microblock": "mrc:smoker",
+		"block": "minecraft:smoker"
+	},
+	{
+		"microblock": "mrc:smooth_basalt",
+		"block": "minecraft:smooth_basalt"
+	},
+	{
+		"microblock": "mrc:smooth_quartz_block",
+		"block": "minecraft:quartz_block",
+		"data": 3
+	},
+	{
+		"microblock": "mrc:smooth_red_sandstone",
+		"block": "minecraft:red_sandstone",
+		"data": 3
+	},
+	{
+		"microblock": "mrc:smooth_sandstone",
+		"block": "minecraft:sandstone",
+		"data": 3
+	},
+	{
+		"microblock": "mrc:smooth_stone",
+		"block": "minecraft:smooth_stone"
+	},
+	{
+		"microblock": "mrc:snow_block",
+		"block": "minecraft:snow"
+	},
+	{
+		"microblock": "mrc:soul_sand",
+		"block": "minecraft:soul_sand"
+	},
+	{
+		"microblock": "mrc:soul_soil",
+		"block": "minecraft:soul_soil"
+	},
+	{
+		"microblock": "mrc:sponge",
+		"block": "minecraft:sponge",
+		"data": 0
+	},
+	{
+		"microblock": "mrc:spruce_leaves",
+		"block": "minecraft:leaves",
+		"data": 1
+	},
+	{
+		"microblock": "mrc:spruce_log",
+		"block": "minecraft:log",
+		"data": 1
+	},
+	{
+		"microblock": "mrc:spruce_planks",
+		"block": "minecraft:planks",
+		"data": 1
+	},
+	{
+		"microblock": "mrc:spruce_wood",
+		"block": "minecraft:wood",
+		"data": 1
+	},
+	{
+		"microblock": "mrc:sticky_piston",
+		"block": "minecraft:sticky_piston"
+	},
+	{
+		"microblock": "mrc:stone",
+		"block": "minecraft:stone",
+		"data": 0
+	},
+	{
+		"microblock": "mrc:stone_bricks",
+		"block": "minecraft:stonebrick",
+		"data": 0
+	},
+	{
+		"microblock": "mrc:stonecutter",
+		"block": "minecraft:stonecutter_block"
+	},
+	{
+		"microblock": "mrc:stripped_acacia_log",
+		"block": "minecraft:stripped_acacia_log"
+	},
+	{
+		"microblock": "mrc:stripped_acacia_wood",
+		"block": "minecraft:wood",
+		"data": 12
+	},
+	{
+		"microblock": "mrc:stripped_birch_log",
+		"block": "minecraft:stripped_birch_log"
+	},
+	{
+		"microblock": "mrc:stripped_birch_wood",
+		"block": "minecraft:wood",
+		"data": 10
+	},
+	{
+		"microblock": "mrc:stripped_crimson_hyphae",
+		"block": "minecraft:stripped_crimson_hyphae"
+	},
+	{
+		"microblock": "mrc:stripped_crimson_stem",
+		"block": "minecraft:stripped_crimson_stem"
+	},
+	{
+		"microblock": "mrc:stripped_dark_oak_log",
+		"block": "minecraft:stripped_dark_oak_log"
+	},
+	{
+		"microblock": "mrc:stripped_dark_oak_wood",
+		"block": "minecraft:wood",
+		"data": 13
+	},
+	{
+		"microblock": "mrc:stripped_jungle_log",
+		"block": "minecraft:stripped_jungle_log"
+	},
+	{
+		"microblock": "mrc:stripped_jungle_wood",
+		"block": "minecraft:wood",
+		"data": 11
+	},
+	{
+		"microblock": "mrc:stripped_mangrove_log",
+		"block": "minecraft:stripped_mangrove_log"
+	},
+	{
+		"microblock": "mrc:stripped_mangrove_wood",
+		"block": "minecraft:stripped_mangrove_wood"
+	},
+	{
+		"microblock": "mrc:stripped_oak_log",
+		"block": "minecraft:stripped_oak_log"
+	},
+	{
+		"microblock": "mrc:stripped_oak_wood",
+		"block": "minecraft:wood",
+		"data": 8
+	},
+	{
+		"microblock": "mrc:stripped_spruce_log",
+		"block": "minecraft:stripped_spruce_log"
+	},
+	{
+		"microblock": "mrc:stripped_spruce_wood",
+		"block": "minecraft:wood",
+		"data": 9
+	},
+	{
+		"microblock": "mrc:stripped_warped_hyphae",
+		"block": "minecraft:stripped_warped_hyphae"
+	},
+	{
+		"microblock": "mrc:stripped_warped_stem",
+		"block": "minecraft:stripped_warped_stem"
+	},
+	{
+		"microblock": "mrc:target",
+		"block": "minecraft:target"
+	},
+	{
+		"microblock": "mrc:terracotta",
+		"block": "minecraft:hardened_clay"
+	},
+	{
+		"microblock": "mrc:tinted_glass",
+		"block": "minecraft:tinted_glass"
+	},
+	{
+		"microblock": "mrc:tnt",
+		"block": "minecraft:tnt"
+	},
+	{
+		"microblock": "mrc:trapped_chest",
+		"block": "minecraft:trapped_chest"
+	},
+	{
+		"microblock": "mrc:tube_coral_block",
+		"block": "minecraft:coral_block",
+		"data": 0
+	},
+	{
+		"microblock": "mrc:tuff",
+		"block": "minecraft:tuff"
+	},
+	{
+		"microblock": "mrc:verdant_froglight",
+		"block": "minecraft:verdant_froglight"
+	},
+	{
+		"microblock": "mrc:warped_hyphae",
+		"block": "minecraft:warped_hyphae"
+	},
+	{
+		"microblock": "mrc:warped_nylium",
+		"block": "minecraft:warped_nylium"
+	},
+	{
+		"microblock": "mrc:warped_planks",
+		"block": "minecraft:warped_planks"
+	},
+	{
+		"microblock": "mrc:warped_stem",
+		"block": "minecraft:warped_stem"
+	},
+	{
+		"microblock": "mrc:warped_wart_block",
+		"block": "minecraft:warped_wart_block"
+	},
+	{
+		"microblock": "mrc:weathered_copper",
+		"block": "minecraft:weathered_copper"
+	},
+	{
+		"microblock": "mrc:weathered_cut_copper",
+		"block": "minecraft:weathered_cut_copper"
+	},
+	{
+		"microblock": "mrc:wet_sponge",
+		"block": "minecraft:sponge",
+		"data": 1
+	},
+	{
+		"microblock": "mrc:white_concrete",
+		"block": "minecraft:concrete",
+		"data": 0
+	},
+	{
+		"microblock": "mrc:white_concrete_powder",
+		"block": "minecraft:concrete_powder",
+		"data": 0
+	},
+	{
+		"microblock": "mrc:white_glazed_terracotta",
+		"block": "minecraft:white_glazed_terracotta"
+	},
+	{
+		"microblock": "mrc:white_shulker_box",
+		"block": "minecraft:shulker_box",
+		"data": 0
+	},
+	{
+		"microblock": "mrc:white_stained_glass",
+		"block": "minecraft:stained_glass",
+		"data": 0
+	},
+	{
+		"microblock": "mrc:white_terracotta",
+		"block": "minecraft:stained_hardened_clay",
+		"data": 0
+	},
+	{
+		"microblock": "mrc:white_wool",
+		"block": "minecraft:wool",
+		"data": 0
+	},
+	{
+		"microblock": "mrc:yellow_concrete",
+		"block": "minecraft:concrete",
+		"data": 4
+	},
+	{
+		"microblock": "mrc:yellow_concrete_powder",
+		"block": "minecraft:concrete_powder",
+		"data": 4
+	},
+	{
+		"microblock": "mrc:yellow_glazed_terracotta",
+		"block": "minecraft:yellow_glazed_terracotta"
+	},
+	{
+		"microblock": "mrc:yellow_shulker_box",
+		"block": "minecraft:shulker_box",
+		"data": 4
+	},
+	{
+		"microblock": "mrc:yellow_stained_glass",
+		"block": "minecraft:stained_glass",
+		"data": 4
+	},
+	{
+		"microblock": "mrc:yellow_terracotta",
+		"block": "minecraft:stained_hardened_clay",
+		"data": 4
+	},
+	{
+		"microblock": "mrc:yellow_wool",
+		"block": "minecraft:wool",
+		"data": 4
+	}
+]

@@ -1,0 +1,31 @@
+{
+	"pools": [
+		{
+			"conditions": [
+				{
+					"condition": "killed_by_player"
+				}
+			],
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "item",
+					"name": "mrc:wither_head"
+				},
+				{
+					"type": "item",
+					"name": "mrc:invulnerable_wither_head"
+				}
+			]
+		},
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "loot_table",
+					"name": "loot_tables/entities/vanilla/wither_boss.json"
+				}
+			]
+		}
+	]
+}

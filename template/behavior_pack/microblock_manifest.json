@@ -12,7 +12,7 @@
             "description": "Microblocks behavior pack by MrCraftable v",
             "type": "data",
             "uuid": "C3DCAC1A-A3E5-4188-8419-4861209EC2A1",
-            "version": [0, 0, 0]
+            "version": [1, 0, 0]
         }
     ],
     "dependencies": [

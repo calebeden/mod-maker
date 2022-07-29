@@ -1,0 +1,21 @@
+{
+	"format_version": "1.10.0",
+	"animation_controllers": {
+		"controller.animation.mrc_jeb_sheep_death": {
+			"states": {
+				"default": {
+					"transitions": [
+						{
+							"jeb_dead": "query.is_name_any('jeb_') && !query.is_alive && !query.is_baby"
+						}
+					]
+				},
+				"jeb_dead": {
+					"on_entry": [
+						"/loot spawn ~ ~ ~ loot jeb_sheep"
+					]
+				}
+			}
+		}
+	}
+}

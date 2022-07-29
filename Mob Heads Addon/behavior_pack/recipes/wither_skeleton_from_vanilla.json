@@ -1,0 +1,23 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "mrc:wither_skeleton_from_vanilla"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "#"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:skull",
+        "data": 1
+      }
+    },
+    "result": {
+      "item": "mrc:wither_skeleton_head"
+    }
+  }
+}

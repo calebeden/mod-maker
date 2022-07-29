@@ -1,0 +1,38 @@
+{
+	"pools": [
+		{
+			"conditions": [
+				{
+					"condition": "killed_by_player"
+				},
+				{
+					"condition": "random_chance_with_looting",
+					"chance": 0.10,
+					"looting_multiplier": 0.05
+				}
+			],
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "item",
+					"name": "mrc:strider_head",
+					"weight": 9
+				},
+				{
+					"type": "item",
+					"name": "mrc:shivering_strider_head",
+					"weight": 1
+				}
+			]
+		},
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "loot_table",
+					"name": "loot_tables/entities/vanilla/strider_saddled.json"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,23 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "mrc:creeper_to_vanilla"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "#"
+    ],
+    "key": {
+      "#": {
+        "item": "mrc:creeper_head"
+      }
+    },
+    "result": {
+      "item": "minecraft:skull",
+	  "data": 4
+    }
+  }
+}

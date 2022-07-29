@@ -1,1 +1,0 @@
-{"format_version": "1.8.0", "minecraft:attachable": {"description": {"identifier": "mrc:snow_head", "materials": {"default": "armor", "enchanted": "armor_enchanted"}, "textures": {"default": "textures/models/mrc_heads/snow", "enchanted": "textures/misc/enchanted_item_glint"}, "geometry": {"default": "geometry.mrc_player_head"}, "render_controllers": ["controller.render.armor"]}}}

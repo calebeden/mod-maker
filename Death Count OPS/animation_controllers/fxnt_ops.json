@@ -1,0 +1,27 @@
+{
+	"format_version": "1.10.0",
+	"animation_controllers": {
+		"controller.animation.fxnt.ops_check": {
+			"initial_state": "inactive",
+			"states": {
+				"inactive": {
+					"transitions": [
+						{
+							"active": "query.is_sleeping"
+						}
+					]
+				},
+				"active": {
+					"animations": [
+						"ops_run"
+					],
+					"transitions": [
+						{
+							"inactive": "!query.is_sleeping"
+						}
+					]
+				}
+			}
+		}
+	}
+}

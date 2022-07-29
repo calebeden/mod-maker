@@ -1,0 +1,23 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "mrc:zombie_to_vanilla"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "#"
+    ],
+    "key": {
+      "#": {
+        "item": "mrc:zombie_head"
+      }
+    },
+    "result": {
+      "item": "minecraft:skull",
+	  "data": 2
+    }
+  }
+}

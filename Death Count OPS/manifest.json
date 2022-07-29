@@ -1,0 +1,30 @@
+{
+	"format_version": 2,
+	"header": {
+		"description": "MrCraftable's recompilation of DRP's death counter and FXNT's one player sleep with support for Player Heads",
+		"name": "Death Counter and One Player Sleep for Microblocks",
+		"uuid": "DC20448A-CE13-41C3-B7A3-2DFE20F9BDCF",
+		"version": [
+			0,
+			0,
+			5
+		],
+		"min_engine_version": [
+			1,
+			14,
+			0
+		]
+	},
+	"modules": [
+		{
+			"description": "MrCraftable's recompilation of DRP's death counter and FXNT's one player sleep with support for Player Heads",
+			"type": "data",
+			"uuid": "8BD7DD8A-8438-44A2-865A-43635718FF5D",
+			"version": [
+				0,
+				0,
+				5
+			]
+		}
+	]
+}

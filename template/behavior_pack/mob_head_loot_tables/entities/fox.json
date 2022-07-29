@@ -1,0 +1,59 @@
+{
+	"pools": [
+		{
+			"conditions": [
+				{
+					"condition": "killed_by_player"
+				},
+				{
+					"condition": "has_mark_variant",
+					"value": 0
+				},
+				{
+					"condition": "random_chance_with_looting",
+					"chance": 0.10,
+					"looting_multiplier": 0.004
+				}
+			],
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "item",
+					"name": "mrc:fox_head"
+				}
+			]
+		},
+		{
+			"conditions": [
+				{
+					"condition": "killed_by_player"
+				},
+				{
+					"condition": "has_mark_variant",
+					"value": 1
+				},
+				{
+					"condition": "random_chance_with_looting",
+					"chance": 0.20,
+					"looting_multiplier": 0.004
+				}
+			],
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "item",
+					"name": "mrc:snow_fox_head"
+				}
+			]
+		},
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "loot_table",
+					"name": "loot_tables/entities/vanilla/fox.json"
+				}
+			]
+		}
+	]
+}

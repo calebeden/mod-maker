@@ -1,0 +1,35 @@
+{
+	"format_version": "1.10.0",
+	"animation_controllers": {
+		"controller.animation.death_count": {
+			"initial_state": "alive",
+			"states": {
+				"alive": {
+					"transitions": [
+						{
+							"dead": "!query.is_alive"
+						}
+					],
+					"on_exit": [
+						"/scoreboard objectives add deathcount dummy Deaths",
+						"/scoreboard players add @s deathcount 1",
+						"/scoreboard objectives setdisplay list deathcount",
+						"/execute @s[name=MrCraftable] ~ ~ ~ loot spawn ~ ~ ~ loot mrcraftable",
+						"/execute @s[name=Llumbo] ~ ~ ~ loot spawn ~ ~ ~ loot llumbo",
+						"/execute @s[name=FallibleChain24] ~ ~ ~ loot spawn ~ ~ ~ loot christmascrepr",
+						"/execute @s[name=KitkatooDerpz] ~ ~ ~ loot spawn ~ ~ ~ loot kitkatooderpz",
+						"/execute @s[name=Yellowyrrr] ~ ~ ~ loot spawn ~ ~ ~ loot yellowyrrr",
+						"/execute @s[name=XanmanGman] ~ ~ ~ loot spawn ~ ~ ~ loot xanmangman"
+					]
+				},
+				"dead": {
+					"transitions": [
+						{
+							"alive": "query.is_alive"
+						}
+					]
+				}
+			}
+		}
+	}
+}

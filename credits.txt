@@ -1,0 +1,4 @@
+Credits:
+Vanilla Tweaks: https://vanillatweaks.net/
+Minecraft Heads: https://minecraft-heads.com/
+ - For a more detailed list of specific texture sources, see the GitHub wiki https://github.com/calebeden/player-heads/wiki/Player-Head-Variants-and-Texture-Sources

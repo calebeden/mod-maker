@@ -1,0 +1,25 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "mrc:toast_from_black"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "mrc:black_rabbit_head",
+				"count": 1
+			},
+			{
+				"item": "mrc:toast_essence",
+				"count": 1
+			}
+		],
+		"result": {
+			"item": "mrc:toast_rabbit_head",
+			"count": 1
+		}
+	}
+}

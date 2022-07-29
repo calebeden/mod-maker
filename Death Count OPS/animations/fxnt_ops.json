@@ -1,0 +1,19 @@
+{
+	"format_version": "1.10.0",
+	"animations": {
+		"animation.fxnt.ops_run": {
+			"loop": false,
+			"animation_length": 5.0,
+			"timeline": {
+				"0.0": [
+					"/title @a actionbar @s is sleeping"
+				],
+				"4.9": [
+					"/time set 0",
+					"/weather clear 36000",
+					"/title @s actionbar Good Morning"
+				]
+			}
+		}
+	}
+}

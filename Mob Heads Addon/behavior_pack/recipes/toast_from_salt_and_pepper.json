@@ -1,0 +1,25 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "mrc:toast_from_salt_and_pepper"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "mrc:salt_and_pepper_rabbit_head",
+				"count": 1
+			},
+			{
+				"item": "mrc:toast_essence",
+				"count": 1
+			}
+		],
+		"result": {
+			"item": "mrc:toast_rabbit_head",
+			"count": 1
+		}
+	}
+}

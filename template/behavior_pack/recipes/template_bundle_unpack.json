@@ -1,0 +1,45 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "mrc:template_head_bundle_unpack"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"#"
+		],
+		"key": {
+			"#": {
+				"item": "minecraft:template_head_bundle"
+			}
+		},
+		"result": [
+			{
+				"item": "mrc:template_head"
+			},
+			{
+				"item": "mrc:template_head"
+			},
+			{
+				"item": "mrc:template_head"
+			},
+			{
+				"item": "mrc:template_head"
+			},
+			{
+				"item": "mrc:template_head"
+			},
+			{
+				"item": "mrc:template_head"
+			},
+			{
+				"item": "mrc:template_head"
+			},
+			{
+				"item": "mrc:template_head"
+			}
+		]
+	}
+}

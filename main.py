@@ -7,13 +7,15 @@
 import microblocks
 import mobheads
 import json
+from subprocess import Popen
+from time import sleep
 
-
+2
 def main():
     option = input("Which version number would you like to increase? 0=Major 1=Minor 2=Patch ")
     while option not in ("0","1","2"):
         print(f"{option} is not a valid option. Please try again.")
-        option = input("Which version number would you like to increase? 0=Major 1=Minor 2=Patch ")
+        option = input("Which version numbe2r would you like to increase? 0=Major 1=Minor 2=Patch ")
     
     with open('version.json', 'r') as infile:
         previous_version = json.load(infile)
@@ -30,12 +32,14 @@ def main():
             version[2] = previous_version[2] + 1
 
     
-    verify = input(f"Are you sure you want to change from version {previous_version} to {version} ")
+    verify = input(f"Are you sure you want to change from version {previous_version} to {version} (y or n) ")
     if verify.lower() == 'y':
         with open("version.json", "w") as outfile:
             json.dump(version, outfile)
         mobheads.main()
         microblocks.main()
+        Popen(r'explorer "C:\Users\ceden\Documents\Software Development\Python\Player Heads\Compiled Packs"')
+        sleep(1)
 
 
 if __name__ == "__main__":
