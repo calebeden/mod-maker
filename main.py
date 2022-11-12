@@ -15,7 +15,7 @@ def main():
     option = input("Which version number would you like to increase? 0=Major 1=Minor 2=Patch ")
     while option not in ("0","1","2"):
         print(f"{option} is not a valid option. Please try again.")
-        option = input("Which version numbe2r would you like to increase? 0=Major 1=Minor 2=Patch ")
+        option = input("Which version number would you like to increase? 0=Major 1=Minor 2=Patch ")
     
     with open('version.json', 'r') as infile:
         previous_version = json.load(infile)
